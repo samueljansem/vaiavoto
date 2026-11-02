@@ -1,0 +1,14 @@
+---
+import type { Proposta } from '../lib/site';
+interface Props { p: Proposta }
+const { p } = Astro.props;
+const classe = p.etapa === 'veto' ? 'veto' : p.etapa === 'lei' ? 'lei' : p.etapa === 'encerrada' ? 'fim' : '';
+---
+{p.votacao ? (
+  <span class:list={['chip', classe]} data-quando={p.votacao.data}>
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="13" r="8"></circle><path d="M12 9v4l2.5 2M9 2h6"></path></svg>
+    <span>{p.chip}<span class="rel"></span></span>
+  </span>
+) : (
+  <span class:list={['chip', classe]}>{p.chip}</span>
+)}

@@ -1,0 +1,60 @@
+---
+import Card from '../components/Card.astro';
+import Base from '../layouts/Base.astro';
+import { num, proposta, site } from '../lib/site';
+
+const vemAi = site.vemAi.map(proposta).filter(Boolean);
+const emAlta = site.emAlta.itens.map(proposta).filter(Boolean);
+const quemPublicou = [site.pautaCamaraPublicada ? null : 'A Câmara', site.pautaSenadoPublicada ? null : 'O Senado'].filter(Boolean);
+---
+<Base titulo="Vai a Voto">
+  <section class="intro">
+    <h1>Veja o que vai ser votado e diga o que você pensa</h1>
+    <p class="lead">Antes da votação, ainda dá tempo de opinar e de falar com quem vota por você.</p>
+    <div class="abas" role="tablist" aria-label="Seções">
+      <button role="tab" id="aba-vem" aria-controls="painel-vem" aria-selected="true" data-aba="vem">Vem aí</button>
+      <button role="tab" id="aba-alta" aria-controls="painel-alta" aria-selected="false" data-aba="alta" tabindex="-1">Em alta</button>
+    </div>
+  </section>
+
+  <section id="painel-vem" class="secao" role="tabpanel" aria-labelledby="aba-vem">
+    {vemAi.length > 0 && <p class="lead">Votações marcadas para os próximos 7 dias.</p>}
+    {vemAi.length > 0 && quemPublicou.length > 0 && (
+      <p class="nota">{quemPublicou.join(' e ')} ainda não divulgou o que vai votar nos próximos dias. Costuma sair na véspera; assim que sair, aparece aqui.</p>
+    )}
+    {vemAi.length === 0 && (
+      <div class="aviso">
+        <strong>Ainda não há votações marcadas para os próximos dias</strong>
+        <p>A Câmara e o Senado costumam divulgar o que vão votar na véspera. Assim que sair, aparece aqui.</p>
+        <button class="botao" type="button" data-ir="alta">Enquanto isso, ver o que está em alta</button>
+      </div>
+    )}
+    {vemAi.map((p) => <Card p={p} />)}
+  </section>
+
+  <section id="painel-alta" class="secao" role="tabpanel" aria-labelledby="aba-alta" hidden>
+    <p class="lead">As propostas em que mais gente está opinando nas enquetes oficiais da Câmara e do Senado.</p>
+    {emAlta.length === 0 && <p class="aviso">Nenhuma enquete recebeu votos nos últimos dias.</p>}
+    {emAlta.map((p, i) => {
+      const v = p.votosPeriodo.semana;
+      return <Card p={p} posicao={i + 1} votosPeriodo={site.emAlta.porSemana && v != null ? `${num(v)} votos nos últimos 7 dias` : null} />;
+    })}
+    <p class="nota">Enquete não é pesquisa: mostra só a opinião de quem participou. Na Câmara, “a favor” soma “concordo totalmente” e “concordo na maior parte”; “contra” soma as duas opções de “discordo”.</p>
+  </section>
+</Base>
+
+<script>
+  const abas = document.querySelectorAll<HTMLButtonElement>('[data-aba]');
+  function mostrar(aba: string) {
+    abas.forEach((b) => {
+      const ativa = b.dataset.aba === aba;
+      b.setAttribute('aria-selected', String(ativa));
+      b.tabIndex = ativa ? 0 : -1;
+      document.getElementById(`painel-${b.dataset.aba}`)!.hidden = !ativa;
+    });
+    history.replaceState(null, '', aba === 'alta' ? '#em-alta' : location.pathname);
+  }
+  abas.forEach((b) => b.addEventListener('click', () => mostrar(b.dataset.aba!)));
+  document.querySelector<HTMLButtonElement>('[data-ir="alta"]')?.addEventListener('click', () => mostrar('alta'));
+  if (location.hash === '#em-alta') mostrar('alta');
+</script>

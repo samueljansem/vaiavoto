@@ -1,0 +1,11 @@
+{
+  "name": "Vai a Voto",
+  "short_name": "Vai a Voto",
+  "description": "Veja o que deputados e senadores vão votar e diga o que você pensa antes da votação.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#1D4ED8",
+  "icons": [{ "src": "/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

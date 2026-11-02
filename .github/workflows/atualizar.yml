@@ -1,0 +1,65 @@
+name: Atualizar e publicar
+
+on:
+  schedule:
+    # Seg a sex, a cada 3 horas entre 7h e 22h (horário de Brasília). A pauta costuma sair na véspera.
+    - cron: '0 10,13,16,19,22 * * 1-5'
+    - cron: '0 1 * * 1-5'
+    # Fim de semana: uma vez por dia, para a pauta de segunda.
+    - cron: '0 12 * * 0,6'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Coletar dados oficiais
+        run: npm run coletar
+
+      - name: Guardar dados no repositório (histórico das enquetes e textos novos)
+        run: |
+          git config user.name "vai-a-voto-bot"
+          git config user.email "vai-a-voto-bot@users.noreply.github.com"
+          git add dados public/contatos.json src/data/site.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza dados $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+            git push
+          fi
+
+      - name: Gerar o site
+        run: npm run build
+
+      - name: Publicar na Cloudflare
+        run: npx cf deploy --prebuilt
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Avisar no Telegram (opcional)
+        if: ${{ env.TELEGRAM_TOKEN != '' }}
+        run: |
+          npm run telegram
+          git add dados/telegram-enviados.json
+          git diff --cached --quiet || (git commit -m "Registra avisos enviados [skip ci]" && git push)
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CANAL: ${{ vars.TELEGRAM_CANAL }}

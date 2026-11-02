@@ -1,0 +1,28 @@
+---
+import type { Enquete } from '../lib/site';
+import { num, pct, pctTexto } from '../lib/site';
+
+interface Props { enquete: Enquete; casa: 'camara' | 'senado'; votosPeriodo?: string | null }
+const { enquete: e, casa, votosPeriodo } = Astro.props;
+const pf = pctTexto(e.favor, e.total);
+const pc = pctTexto(e.contra, e.total);
+const pi = pct(e.indecisos, e.total);
+const onde = casa === 'camara' ? 'Câmara' : 'Senado';
+---
+<div class="placar">
+  <div class="placar-topo">
+    {e.participavel ? <span class="aberta">Enquete aberta</span> : <span class="fechada">Resultado da enquete</span>}
+    <span>{num(e.total)} {e.total === 1 ? 'voto' : 'votos'} · {onde}</span>
+  </div>
+  <div class="barra" role="img" aria-label={`${pf} a favor, ${pc} contra${e.indecisos ? `, ${pi}% indecisos` : ''}`}>
+    {e.favor > 0 && <span class="b-favor" style={`flex:${e.favor}`}></span>}
+    {e.indecisos > 0 && <span class="b-indeciso" style={`flex:${e.indecisos}`}></span>}
+    {e.contra > 0 && <span class="b-contra" style={`flex:${e.contra}`}></span>}
+  </div>
+  <div class="lados">
+    <strong class="favor">{pf} a favor <small>· {num(e.favor)}</small></strong>
+    <strong class="contra">{pc} contra <small>· {num(e.contra)}</small></strong>
+  </div>
+  {e.indecisos > 0 && <span class="nota">Indecisos: {num(e.indecisos)} ({pi}%)</span>}
+  {votosPeriodo && <span class="nota">{votosPeriodo}</span>}
+</div>

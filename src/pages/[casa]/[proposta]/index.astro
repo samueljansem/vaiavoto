@@ -1,0 +1,200 @@
+---
+import Chip from '../../../components/Chip.astro';
+import Etapas from '../../../components/Etapas.astro';
+import Placar from '../../../components/Placar.astro';
+import TextoLongo from '../../../components/TextoLongo.astro';
+import Base from '../../../layouts/Base.astro';
+import type { Proposta } from '../../../lib/site';
+import { dataCurta, descricaoProposta, quemFalar, semCaixaAlta, textoWhatsApp, todas } from '../../../lib/site';
+
+export function getStaticPaths() {
+  return todas().map((p) => {
+    const [casa, proposta] = p.slug.split('/');
+    return { params: { casa, proposta }, props: { p } };
+  });
+}
+
+const { p } = Astro.props as { p: Proposta };
+const daCasa = p.casa === 'camara' ? 'da Câmara' : 'do Senado';
+const naCasa = p.casa === 'camara' ? 'na Câmara' : 'no Senado';
+const x = p.explicacao;
+const e = p.enquete;
+const acoes = [
+  p.acoes.enquete && e && {
+    id: 'enquete',
+    titulo: 'Responda a enquete oficial',
+    detalhe: `1 minuto · no site ${daCasa}${p.casa === 'senado' ? ' (e-Cidadania)' : ''}`,
+    botao: 'Abrir a enquete',
+    href: e.url,
+    externo: true,
+    classe: '',
+  },
+  p.acoes.falarCom && {
+    id: 'falar',
+    titulo: p.acoes.falarCom === 'deputados' ? 'Fale com os deputados do seu estado' : p.acoes.falarCom === 'senadores' ? 'Fale com os senadores do seu estado' : 'Fale com seus deputados e senadores',
+    detalhe: '2 minutos · mensagem pronta, você só confere',
+    botao: quemFalar[p.acoes.falarCom],
+    href: `/${p.slug}/falar/`,
+    externo: false,
+    classe: '',
+  },
+  {
+    id: 'whatsapp',
+    titulo: 'Chame mais gente',
+    detalhe: '30 segundos · texto pronto para mandar no WhatsApp',
+    botao: 'Mandar no WhatsApp',
+    href: textoWhatsApp(p),
+    externo: true,
+    classe: 'verde',
+  },
+].filter(Boolean) as { id: string; titulo: string; detalhe: string; botao: string; href: string; externo: boolean; classe: string }[];
+const soCompartilhar = acoes.length === 1;
+---
+<Base titulo={p.titulo} descricao={descricaoProposta(p)} voltar={{ href: '/', texto: 'Voltar' }} imagem={`/${p.slug}/og.png`}>
+  <section class="secao" style="padding-top:16px">
+    <Chip p={p} />
+    <h1 class="titulo-proposta">{p.titulo}</h1>
+    <p class="rotulo">{p.tipo} · {p.rotulo}{!x && p.tituloCompleto && ` · texto oficial (ementa) publicado ${naCasa}`}</p>
+    <p class="lead"><strong>E agora?</strong> {p.agora}</p>
+  </section>
+
+  {(x || !p.tituloCompleto) && (
+  <section class="secao" style="padding-top:24px">
+    <div class="cartao">
+      <h2 class="h-secao">O que é esta proposta</h2>
+      {x ? (
+        <>
+          <TextoLongo texto={x.texto} />
+          {(x.introPontos || x.pontos.length > 0) && (
+            <details class="mais">
+              <summary>O que diz o autor</summary>
+              {x.introPontos && <TextoLongo texto={x.introPontos} visivel={2000} />}
+              {x.pontos.length > 0 && <ul class="pontos">{x.pontos.map((pt) => <li>{pt}</li>)}</ul>}
+            </details>
+          )}
+          <p class="fonte">
+            {x.fonte === 'senado' ? `Explicação do Senado (e-Cidadania). ${x.aviso}` : x.aviso}
+            {' '}<a href={x.url} target="_blank" rel="noopener">Ver no site oficial</a>
+          </p>
+        </>
+      ) : (
+        <>
+          <TextoLongo texto={p.ementa} visivel={280} rotulo="Ler o texto completo" />
+          <p class="fonte">Resumo oficial (ementa), como publicado {naCasa}. <a href={p.urlOficial} target="_blank" rel="noopener">Ver no site oficial</a></p>
+        </>
+      )}
+    </div>
+  </section>
+  )}
+
+  <section class="secao" style="padding-top:24px">
+    <div class="parte" data-chave={p.chave}>
+      {soCompartilhar ? (
+        <>
+          <h2 style="font-size:24px;font-weight:800">Nada a fazer agora</h2>
+          <p class="dica">Esta proposta não está mais em votação. Você ainda pode contar para alguém o que aconteceu.</p>
+        </>
+      ) : (
+        <>
+          <div class="parte-topo">
+            <h2>Faça sua parte</h2>
+            <span class="dica" style="font-weight:700"><span data-feitos>0</span> de {acoes.length} feitos</span>
+          </div>
+          <div class="progresso" style={`--n:${acoes.length}`} aria-hidden="true">
+            {acoes.map(() => <span></span>)}
+          </div>
+        </>
+      )}
+      {acoes.map((a, i) => (
+        <div class="acao" data-acao={a.id}>
+          <div class="acao-topo">
+            <span class="acao-n" aria-hidden="true">{i + 1}</span>
+            <div>
+              <div class="acao-titulo">{a.titulo}</div>
+              <div class="acao-detalhe">{a.detalhe}</div>
+            </div>
+          </div>
+          <a class:list={['botao', a.classe]} href={a.href} target={a.externo ? '_blank' : undefined} rel={a.externo ? 'noopener' : undefined} data-marcar={a.id}>{a.botao}</a>
+          <span class="feito-msg">✓ Feito</span>
+        </div>
+      ))}
+      {!soCompartilhar && <p class="dica">Falar direto com quem vota costuma pesar mais do que a enquete. E cada pessoa que você chama multiplica o efeito.</p>}
+    </div>
+  </section>
+
+  {e && (
+    <section class="secao" style="padding-top:28px">
+      <div class="cartao">
+        <h2 class="h-secao">Enquete oficial {daCasa}</h2>
+        <p class="pergunta">“{e.pergunta}”</p>
+        <p class="nota">Respostas possíveis: {e.opcoes.join(' · ')}.</p>
+        <Placar enquete={e} casa={p.casa} />
+        {p.casa === 'camara' && (
+          <p class="nota">Aqui, “a favor” soma “Concordo totalmente” e “Concordo na maior parte”; “contra” soma as duas opções de “Discordo”.</p>
+        )}
+        <p class="nota">A enquete mostra só a opinião de quem participou. Ela não é uma pesquisa e não decide a votação.</p>
+      </div>
+    </section>
+  )}
+
+  <section class="secao" style="padding-top:28px">
+    <div class="cartao">
+      <h2 class="h-secao">Em que etapa está</h2>
+      <Etapas passos={p.passos} />
+      {p.linhaDoTempo.length > 0 && (
+        <ol class="tempo">
+          {p.linhaDoTempo.map((m) => (
+            <li><time datetime={m.data}>{dataCurta(m.data)}</time><span>{m.texto}</span></li>
+          ))}
+        </ol>
+      )}
+      {p.situacaoOficial && <p class="nota"><strong>Situação oficial:</strong> {semCaixaAlta(p.situacaoOficial)}</p>}
+      <a class="link-acao" href="/como-funciona/">Como uma lei é feita →</a>
+    </div>
+  </section>
+
+  {x && (
+    <section class="secao" style="padding-top:28px">
+      <details class="cartao mais-cartao">
+        <summary><span class="h-secao">Texto oficial (ementa)</span></summary>
+        <TextoLongo texto={p.ementa} visivel={2000} />
+        <p class="fonte">{p.tipo} · {p.rotulo}, como publicado {naCasa}.</p>
+      </details>
+    </section>
+  )}
+
+  <section class="secao" style="padding-top:20px">
+    <p class="links">
+      <a class="link-acao" href={p.urlOficial} target="_blank" rel="noopener">Página oficial {naCasa} →</a>
+    </p>
+  </section>
+</Base>
+
+<script>
+  const parte = document.querySelector<HTMLElement>('.parte')!;
+  const chave = parte.dataset.chave!;
+  const acoes = [...parte.querySelectorAll<HTMLElement>('[data-acao]')];
+  const ler = (id: string) => {
+    try { return localStorage.getItem(`vav:${chave}:${id}`) === '1'; } catch { return false; }
+  };
+  function atualizar() {
+    let feitos = 0;
+    acoes.forEach((a) => {
+      const f = ler(a.dataset.acao!);
+      a.classList.toggle('feito', f);
+      if (f) feitos++;
+    });
+    const contador = parte.querySelector('[data-feitos]');
+    if (contador) contador.textContent = String(feitos);
+    parte.querySelectorAll('.progresso span').forEach((s, i) => s.classList.toggle('on', i < feitos));
+  }
+  parte.querySelectorAll<HTMLAnchorElement>('[data-marcar]').forEach((l) =>
+    l.addEventListener('click', () => {
+      if (l.dataset.marcar === 'falar') return; // marcado quando a mensagem é enviada
+      try { localStorage.setItem(`vav:${chave}:${l.dataset.marcar}`, '1'); } catch {}
+      atualizar();
+    }),
+  );
+  atualizar();
+  window.addEventListener('pageshow', atualizar);
+</script>

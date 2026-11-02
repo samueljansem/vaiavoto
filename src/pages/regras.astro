@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base titulo="Regras, fontes e privacidade" descricao="Como o Vai a Voto escolhe o que mostra, de onde vêm os dados e o que fazemos (ou não) com os seus." voltar={{ href: '/', texto: 'Voltar' }}>
+  <section class="secao" style="padding-top:16px">
+    <div class="texto-longo">
+      <h1 style="font-weight:800;font-size:34px;line-height:1.05">Regras, fontes e privacidade</h1>
+      <p>O Vai a Voto não escolhe o que mostrar. Tudo segue as regras abaixo, que valem igualmente para qualquer proposta, de qualquer partido.</p>
+
+      <h2>O que aparece em “Vem aí”</h2>
+      <ul>
+        <li>Toda proposta marcada para votação no Plenário da Câmara ou do Senado nos próximos 7 dias.</li>
+        <li>Entram projetos de lei, projetos de lei complementar, mudanças na Constituição, medidas provisórias, projetos de lei de conversão e projetos de decreto legislativo.</li>
+        <li>A ordem é a data da votação.</li>
+      </ul>
+
+      <h2>O que aparece em “Em alta”</h2>
+      <ul>
+        <li>As 10 propostas que mais receberam votos nas enquetes oficiais (Câmara e e-Cidadania do Senado) nos últimos 7 dias.</li>
+        <li>Guardamos o total de votos de cada enquete uma vez por dia e comparamos com o total de uma semana atrás.</li>
+        <li>Enquanto não há uma semana de histórico, usamos os rankings oficiais das duas Casas, em ordem de total de votos.</li>
+        <li>Na Câmara, “a favor” soma “concordo totalmente” e “concordo na maior parte”; “contra” soma as duas opções de “discordo”.</li>
+      </ul>
+
+      <h2>Etapas, “E agora?” e ações</h2>
+      <ul>
+        <li>A etapa e a frase “E agora?” saem da situação oficial da proposta, por regras fixas publicadas no código.</li>
+        <li>As ações sugeridas dependem só da etapa: enquete e contato com deputados quando está na Câmara; com senadores quando está no Senado; com os dois quando há veto em análise.</li>
+      </ul>
+
+      <h2>Textos das propostas</h2>
+      <ul>
+        <li>O Vai a Voto não escreve nem resume propostas. Mostramos o que as próprias Casas publicam: o nome oficial (quando existe), a ementa e as explicações das páginas oficiais.</li>
+        <li>No Senado, a explicação vem do bloco “Entenda a proposta” do e-Cidadania, que o próprio Senado informa ser gerado por inteligência artificial com revisão humana. Na Câmara, vem do texto da Agência Câmara publicado na página da enquete.</li>
+        <li>Quando não há explicação oficial, mostramos só a ementa.</li>
+      </ul>
+
+      <h2>Fontes</h2>
+      <ul>
+        <li><a href="https://dadosabertos.camara.leg.br">Dados Abertos da Câmara dos Deputados</a> e <a href="https://www.camara.leg.br/enquetes">enquetes da Câmara</a>.</li>
+        <li><a href="https://legis.senado.leg.br/dadosabertos">Dados Abertos do Senado Federal</a> e <a href="https://www12.senado.leg.br/ecidadania">e-Cidadania</a>.</li>
+        <li>Os dados são atualizados várias vezes por dia. Contatos de deputados e senadores são os canais oficiais publicados pelas duas Casas.</li>
+      </ul>
+
+      <h2>Privacidade</h2>
+      <ul>
+        <li>Não há cadastro, login nem coleta de dados pessoais.</li>
+        <li>O estado que você escolhe e as ações que marcou como feitas ficam salvos só no seu navegador.</li>
+        <li>Mensagens para parlamentares saem do seu e-mail ou do seu telefone. Nada passa pelo Vai a Voto.</li>
+        <li>Não usamos ferramentas de rastreamento nem anúncios.</li>
+      </ul>
+
+      <h2>Código aberto</h2>
+      <p>O código e os textos estão no <a href="https://github.com/samueljansem/vaiavoto">GitHub</a>. Achou um erro? Abra uma sugestão por lá.</p>
+    </div>
+  </section>
+</Base>

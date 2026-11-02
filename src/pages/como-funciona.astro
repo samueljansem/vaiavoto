@@ -1,0 +1,61 @@
+---
+import Base from '../layouts/Base.astro';
+
+const etapas = [
+  {
+    titulo: 'Os deputados votam',
+    texto: 'Primeiro, um grupo pequeno de deputados estuda a proposta e pode mudar o texto. Muitas vezes, depois disso, os 513 deputados votam juntos.',
+    acao: 'fale com os deputados do seu estado antes da votação. O Vai a Voto mostra quando ela vai acontecer.',
+  },
+  {
+    titulo: 'Os senadores votam',
+    texto: 'O Senado faz a mesma coisa. Se os senadores mudarem o texto, a proposta volta para os deputados.',
+    acao: 'cada estado tem 3 senadores. Você também pode falar com eles.',
+  },
+  {
+    titulo: 'O Presidente decide',
+    texto: 'O Presidente pode aprovar tudo, aprovar só uma parte ou recusar (isso se chama veto). Se recusar, deputados e senadores ainda podem derrubar o veto.',
+    acao: '',
+  },
+  {
+    titulo: 'Vira lei',
+    texto: 'A lei é publicada no Diário Oficial e passa a valer a partir da data escrita nela.',
+    acao: '',
+  },
+];
+---
+<Base titulo="Como uma lei é feita" descricao="As 4 etapas para uma proposta virar lei no Brasil, e onde você pode agir." voltar={{ href: '/', texto: 'Voltar' }}>
+  <section class="secao" style="padding-top:16px">
+    <h1 style="font-weight:800;font-size:38px;line-height:1.02">Como uma lei é feita</h1>
+    <p class="lead">Para virar lei, uma proposta passa por <strong>4 etapas</strong>. Isso pode levar meses ou anos.</p>
+    <p class="lead">Tudo começa quando alguém apresenta a proposta: um deputado, um senador, o Presidente ou até os cidadãos, juntando assinaturas. Se a proposta começa no Senado, a ordem das duas primeiras etapas se inverte.</p>
+  </section>
+
+  <section class="secao" style="padding-top:28px">
+    <ol class="passos-lei">
+      {etapas.map((e, i) => (
+        <li>
+          <div class="trilho"><span class="bola">{i + 1}</span></div>
+          <div class="corpo">
+            <h2>{e.titulo}</h2>
+            <p class="lead" style="color:var(--tinta-2)">{e.texto}</p>
+            {e.acao && <p class="agir"><strong>Você pode agir:</strong> {e.acao}</p>}
+          </div>
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  <section class="secao">
+    <div class="cartao">
+      <h2 style="font-size:22px;font-weight:800">Casos especiais</h2>
+      <p><strong>Mudança na Constituição (PEC).</strong> Precisa de mais votos (3 de cada 5 deputados e senadores) e é votada duas vezes em cada Casa. Não passa pelo Presidente: o Congresso promulga.</p>
+      <p><strong>Medida provisória.</strong> O Presidente cria e ela já vale no mesmo dia. Mas só continua valendo se deputados e senadores aprovarem dentro do prazo, de até 4 meses.</p>
+      <p><strong>Enquetes oficiais.</strong> A Câmara e o Senado abrem enquetes sobre as propostas. Elas mostram o que pensa quem participou, mas não obrigam ninguém a votar de um jeito ou de outro.</p>
+    </div>
+  </section>
+
+  <section class="secao" style="padding-top:24px">
+    <a class="botao" href="/">Ver o que vai ser votado</a>
+  </section>
+</Base>

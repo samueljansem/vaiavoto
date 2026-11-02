@@ -1,0 +1,236 @@
+---
+import Base from '../../../layouts/Base.astro';
+import type { Proposta } from '../../../lib/site';
+import { textoWhatsApp, todas } from '../../../lib/site';
+
+export function getStaticPaths() {
+  return todas()
+    .filter((p) => p.acoes.falarCom)
+    .map((p) => {
+      const [casa, proposta] = p.slug.split('/');
+      return { params: { casa, proposta }, props: { p } };
+    });
+}
+
+const { p } = Astro.props as { p: Proposta };
+const ESTADOS: [string, string][] = [
+  ['AC', 'Acre'], ['AL', 'Alagoas'], ['AP', 'Amapá'], ['AM', 'Amazonas'], ['BA', 'Bahia'], ['CE', 'Ceará'],
+  ['DF', 'Distrito Federal'], ['ES', 'Espírito Santo'], ['GO', 'Goiás'], ['MA', 'Maranhão'], ['MT', 'Mato Grosso'],
+  ['MS', 'Mato Grosso do Sul'], ['MG', 'Minas Gerais'], ['PA', 'Pará'], ['PB', 'Paraíba'], ['PR', 'Paraná'],
+  ['PE', 'Pernambuco'], ['PI', 'Piauí'], ['RJ', 'Rio de Janeiro'], ['RN', 'Rio Grande do Norte'],
+  ['RS', 'Rio Grande do Sul'], ['RO', 'Rondônia'], ['RR', 'Roraima'], ['SC', 'Santa Catarina'],
+  ['SP', 'São Paulo'], ['SE', 'Sergipe'], ['TO', 'Tocantins'],
+];
+const veto = p.acoes.falarCom === 'ambos';
+const opcoes = veto
+  ? [
+      { id: 'derrubar', texto: 'Quero que o veto caia', icone: 'favor' },
+      { id: 'manter', texto: 'Quero que o veto fique', icone: 'contra' },
+      { id: 'duvida', texto: 'Quero saber como vão votar', icone: 'duvida' },
+    ]
+  : [
+      { id: 'favor', texto: 'Sou a favor', icone: 'favor' },
+      { id: 'contra', texto: 'Sou contra', icone: 'contra' },
+      { id: 'duvida', texto: 'Quero saber como vão votar', icone: 'duvida' },
+    ];
+const dados = {
+  chave: p.chave,
+  titulo: p.titulo,
+  rotulo: p.rotulo,
+  publico: p.acoes.falarCom,
+  estados: Object.fromEntries(ESTADOS),
+};
+---
+<Base titulo={`Falar sobre: ${p.titulo}`} voltar={{ href: `/${p.slug}/`, texto: 'Voltar' }}>
+  <div id="falar" data-info={JSON.stringify(dados)}>
+    <section class="secao" style="padding-top:16px">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <span class="passo-n" data-passo-texto>Passo 1 de 3</span>
+      </div>
+      <div class="barra-passos" aria-hidden="true"><span class="on"></span><span></span><span></span></div>
+      <noscript><p class="aviso">Esta página precisa de JavaScript. Você também pode encontrar os contatos no site oficial da Câmara e do Senado.</p></noscript>
+    </section>
+
+    <!-- Passo 1: estado -->
+    <section class="secao" data-passo="1" style="padding-top:24px">
+      <h1 style="font-weight:800;font-size:32px;line-height:1.08">Em qual estado você vota?</h1>
+      <p class="lead">Cada estado tem seus próprios {veto ? 'deputados e senadores' : p.acoes.falarCom}. Vamos mostrar os do seu.</p>
+      <label class="campo">Estado
+        <select id="uf">
+          <option value="">Escolha seu estado</option>
+          {ESTADOS.map(([uf, nome]) => <option value={uf}>{nome}</option>)}
+        </select>
+      </label>
+      <p class="nota">Só perguntamos na primeira vez. Fica salvo apenas no seu celular.</p>
+      <button class="botao" type="button" data-continuar disabled>Continuar</button>
+    </section>
+
+    <!-- Passo 2: opinião -->
+    <section class="secao" data-passo="2" style="padding-top:24px" hidden>
+      <p class="nota">{p.titulo}</p>
+      <h1 style="font-weight:800;font-size:32px;line-height:1.08">O que você pensa sobre isso?</h1>
+      <div class="opcoes">
+        {opcoes.map((o) => (
+          <button type="button" data-posicao={o.id}>
+            {o.icone === 'favor' && <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 11v9H4v-9h3zM7 11l4-8a2.5 2.5 0 0 1 2.5 2.5V9h5.2a2 2 0 0 1 2 2.3l-1.2 7A2 2 0 0 1 17.5 20H7"></path></svg>}
+            {o.icone === 'contra' && <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#B91C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 13V4h3v9h-3zM17 13l-4 8a2.5 2.5 0 0 1-2.5-2.5V15H5.3a2 2 0 0 1-2-2.3l1.2-7A2 2 0 0 1 6.5 4H17"></path></svg>}
+            {o.icone === 'duvida' && <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#4B5563" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .9-1 1.6v.6M12 17v.5"></path></svg>}
+            {o.texto}
+          </button>
+        ))}
+      </div>
+      <p class="nota">O Vai a Voto não toma partido. A mensagem sai do seu e-mail ou do seu telefone: nada passa por nós.</p>
+      <button class="botao contorno" type="button" data-voltar="1"><span>Trocar estado: <span data-uf-nome></span></span></button>
+    </section>
+
+    <!-- Passo 3: mensagem e envio -->
+    <section class="secao" data-passo="3" style="padding-top:24px" hidden>
+      <h1 style="font-weight:800;font-size:32px;line-height:1.08">Sua mensagem está pronta</h1>
+      <label class="campo">Revise e escreva uma frase sua no lugar indicado
+        <textarea id="mensagem"></textarea>
+      </label>
+      <p class="nota" data-alerta-colchete hidden>Troque o trecho entre colchetes por uma frase sua: mensagens todas iguais costumam ser ignoradas.</p>
+      <a class="botao" data-enviar-todos href="#">Enviar e-mail para todos</a>
+      <button class="botao contorno" type="button" data-copiar>Copiar mensagem</button>
+      <div class="cartao" style="background:#f1f4fa;border:0">
+        <p><strong>Ligar funciona ainda melhor.</strong> Diga seu nome, sua cidade e a sua posição. Leva 1 minuto.</p>
+      </div>
+      <h2 style="font-size:22px;font-weight:800;margin-top:8px">Ou fale com cada um</h2>
+      <label class="campo" data-busca-campo hidden>Em quem você votou? Busque pelo nome ou partido
+        <input type="search" id="busca" autocomplete="off" />
+      </label>
+      <div data-lista-pessoas></div>
+      <button class="botao contorno" type="button" data-ver-todos hidden></button>
+      <p class="nota">Contatos oficiais publicados pela Câmara e pelo Senado.</p>
+      <div class="compartilhe">
+        <strong>Mandou? Agora chame mais gente.</strong>
+        <p>Quanto mais pessoas falam com quem vota, mais eles prestam atenção. Mande para 3 pessoas.</p>
+        <a class="botao verde" href={textoWhatsApp(p)} target="_blank" rel="noopener">Mandar no WhatsApp</a>
+        <a href={`/${p.slug}/`} class="link-acao" style="justify-content:center;color:#065f46">Voltar para a proposta</a>
+      </div>
+      <button class="botao contorno" type="button" data-voltar="2">Mudar minha opinião</button>
+    </section>
+  </div>
+</Base>
+
+<script>
+  type Pessoa = { nome: string; partido: string; uf: string; email: string | null; telefone: string | null; casa: string };
+  const raiz = document.getElementById('falar')!;
+  const info = JSON.parse(raiz.dataset.info!) as {
+    chave: string; titulo: string; rotulo: string; publico: 'deputados' | 'senadores' | 'ambos'; estados: Record<string, string>;
+  };
+  const guarda = {
+    get: (k: string) => { try { return localStorage.getItem(k); } catch { return null; } },
+    set: (k: string, v: string) => { try { localStorage.setItem(k, v); } catch {} },
+  };
+  const $ = <T extends HTMLElement>(s: string) => raiz.querySelector<T>(s)!;
+  const selUf = $('#uf') as HTMLSelectElement;
+  const texto = $('#mensagem') as HTMLTextAreaElement;
+  let uf = guarda.get('vav:uf') || '';
+  let posicao = '';
+  let pessoas: Pessoa[] = [];
+
+  const contatos = fetch('/contatos.json').then((r) => r.json());
+
+  function irPara(n: number) {
+    raiz.querySelectorAll<HTMLElement>('[data-passo]').forEach((s) => (s.hidden = s.dataset.passo !== String(n)));
+    $('[data-passo-texto]').textContent = `Passo ${n} de 3`;
+    raiz.querySelectorAll('.barra-passos span').forEach((s, i) => s.classList.toggle('on', i < n));
+    $('[data-uf-nome]').textContent = info.estados[uf] || '';
+    window.scrollTo({ top: 0 });
+  }
+
+  selUf.value = uf;
+  const continuar = $('[data-continuar]') as HTMLButtonElement;
+  continuar.disabled = !uf;
+  selUf.addEventListener('change', () => (continuar.disabled = !selUf.value));
+  continuar.addEventListener('click', () => {
+    uf = selUf.value;
+    guarda.set('vav:uf', uf);
+    irPara(2);
+  });
+  raiz.querySelectorAll<HTMLButtonElement>('[data-voltar]').forEach((b) => b.addEventListener('click', () => irPara(Number(b.dataset.voltar))));
+
+  function mensagem() {
+    const quem = info.publico === 'deputados' ? 'deputado(a)' : info.publico === 'senadores' ? 'senador(a)' : 'parlamentar';
+    const assunto = `${info.titulo} (${info.rotulo})`;
+    const pedidos: Record<string, string> = {
+      favor: `Peço que vote A FAVOR de: ${assunto}.`,
+      contra: `Peço que vote CONTRA: ${assunto}.`,
+      derrubar: `Peço que vote para DERRUBAR o veto em: ${assunto}.`,
+      manter: `Peço que vote para MANTER o veto em: ${assunto}.`,
+      duvida: `Gostaria de saber como você pretende votar em: ${assunto}, e por quê.`,
+    };
+    return [
+      `Olá, ${quem}. Meu nome é [seu nome] e moro em [sua cidade], ${info.estados[uf]}.`,
+      pedidos[posicao],
+      '[Escreva aqui, em uma frase, por que isso importa para você.]',
+      'Obrigado(a).',
+    ].join('\n\n');
+  }
+
+  const icone = {
+    email: '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"></rect><path d="M3 7l9 6 9-6"></path></svg>',
+    tel: '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"></path></svg>',
+  };
+  const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+  const assuntoEmail = () => `${info.rotulo}: ${info.titulo}`;
+  const mailto = (para: string[]) =>
+    `mailto:${para.join(',')}?subject=${encodeURIComponent(assuntoEmail())}&body=${encodeURIComponent(texto.value)}`;
+  const marcarFeito = () => guarda.set(`vav:${info.chave}:falar`, '1');
+
+  const MOSTRAR = 8;
+  let verTodos = false;
+  function desenharLista(filtro = '') {
+    const f = filtro.trim().toLowerCase();
+    const encontrados = pessoas.filter((p) => !f || `${p.nome} ${p.partido}`.toLowerCase().includes(f));
+    const cortar = !f && !verTodos && encontrados.length > MOSTRAR + 2;
+    const lista = cortar ? encontrados.slice(0, MOSTRAR) : encontrados;
+    const botaoTodos = $('[data-ver-todos]') as HTMLButtonElement;
+    botaoTodos.hidden = !cortar;
+    botaoTodos.textContent = `Ver todos os ${encontrados.length}`;
+    $('[data-lista-pessoas]').innerHTML = lista
+      .map(
+        (p) => `<div class="pessoa">
+          <div class="pessoa-nome"><strong>${esc(p.nome)}</strong><span>${p.casa} · ${esc(p.partido)}</span></div>
+          ${p.email ? `<a href="${esc(mailto([p.email]))}" data-envio aria-label="Mandar e-mail para ${esc(p.nome)}">${icone.email}</a>` : ''}
+          ${p.telefone ? `<a href="tel:+55${p.telefone.replace(/\D/g, '')}" data-envio aria-label="Ligar para o gabinete de ${esc(p.nome)}, ${esc(p.telefone)}">${icone.tel}</a>` : ''}
+        </div>`,
+      )
+      .join('') || '<p class="nota">Ninguém encontrado com esse nome.</p>';
+    raiz.querySelectorAll('[data-envio]').forEach((a) => a.addEventListener('click', marcarFeito));
+  }
+
+  raiz.querySelectorAll<HTMLButtonElement>('[data-posicao]').forEach((b) =>
+    b.addEventListener('click', async () => {
+      posicao = b.dataset.posicao!;
+      texto.value = mensagem();
+      $('[data-alerta-colchete]').hidden = false;
+      const c = await contatos;
+      const deps = (c.deputados as Pessoa[]).filter((d) => d.uf === uf).map((d) => ({ ...d, casa: 'Deputado(a)' }));
+      const sens = (c.senadores as Pessoa[]).filter((s) => s.uf === uf).map((s) => ({ ...s, casa: 'Senador(a)' }));
+      pessoas = info.publico === 'deputados' ? deps : info.publico === 'senadores' ? sens : [...sens, ...deps];
+      verTodos = false;
+      const emails = pessoas.map((p) => p.email).filter(Boolean) as string[];
+      const todos = $('[data-enviar-todos]') as HTMLAnchorElement;
+      todos.textContent = `Enviar e-mail para ${emails.length === 1 ? 'o único contato' : `os ${emails.length}`} de ${uf}`;
+      todos.onclick = () => { todos.href = mailto(emails); marcarFeito(); };
+      $('[data-busca-campo]').hidden = pessoas.length <= 12;
+      desenharLista();
+      irPara(3);
+    }),
+  );
+
+  $('[data-ver-todos]').addEventListener('click', () => {
+    verTodos = true;
+    desenharLista(($('#busca') as HTMLInputElement).value);
+  });
+  texto.addEventListener('input', () => ($('[data-alerta-colchete]').hidden = !/\[[^\]]+\]/.test(texto.value)));
+  ($('#busca') as HTMLInputElement).addEventListener('input', (e) => desenharLista((e.target as HTMLInputElement).value));
+  $('[data-copiar]').addEventListener('click', async (e) => {
+    const b = e.currentTarget as HTMLButtonElement;
+    try { await navigator.clipboard.writeText(texto.value); b.textContent = 'Mensagem copiada'; } catch { texto.select(); }
+  });
+
+  irPara(uf ? 2 : 1);
+</script>

@@ -1,0 +1,82 @@
+---
+import '@fontsource/atkinson-hyperlegible/400.css';
+import '@fontsource/atkinson-hyperlegible/700.css';
+import '@fontsource-variable/bricolage-grotesque/wght.css';
+import '../styles/global.css';
+import { SITE_URL, atualizado, site } from '../lib/site';
+
+interface Props {
+  titulo: string;
+  descricao?: string;
+  voltar?: { href: string; texto: string };
+  imagem?: string;
+}
+const { titulo, descricao = 'Veja o que deputados e senadores vão votar nos próximos dias e diga o que você pensa antes da votação.', voltar, imagem = '/og.png' } = Astro.props;
+const url = new URL(Astro.url.pathname, SITE_URL).toString();
+// A versão muda a cada coleta, para o WhatsApp não reaproveitar uma prévia antiga.
+const versao = new Date(site.atualizadoEm).getTime().toString(36);
+const urlImagem = `${new URL(imagem, SITE_URL).toString()}?v=${versao}`;
+const tituloCompleto = titulo === 'Vai a Voto' ? titulo : `${titulo} · Vai a Voto`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloCompleto}</title>
+    <meta name="description" content={descricao} />
+    <link rel="canonical" href={url} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Vai a Voto" />
+    <meta property="og:title" content={titulo} />
+    <meta property="og:description" content={descricao} />
+    <meta property="og:url" content={url} />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:image" content={urlImagem} />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={titulo} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#1D4ED8" />
+    <link rel="icon" href="/icone.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+  </head>
+  <body>
+    <a class="pular" href="#conteudo">Ir para o conteúdo</a>
+    <header class="topo">
+      {voltar ? (
+        <a class="voltar" href={voltar.href}>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"></path></svg>
+          {voltar.texto}
+        </a>
+      ) : (
+        <a class="marca" href="/" aria-label="Vai a Voto, página inicial">
+          <svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><rect x="3" y="12" width="22" height="13" rx="2.5" fill="#1D4ED8"></rect><rect x="8" y="10.5" width="12" height="3" rx="1.5" fill="#111827"></rect><path d="M9 6.5l3.2 3.2L19.5 2.5" fill="none" stroke="#1D4ED8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+          <span>Vai a Voto</span>
+        </a>
+      )}
+      <a class="link-topo" href="/como-funciona/">Como funciona</a>
+    </header>
+    <main id="conteudo">
+      <slot />
+    </main>
+    <footer class="rodape">
+      <p>Dados oficiais da Câmara dos Deputados e do Senado Federal. Atualizado em {atualizado()}.</p>
+      <p>O que aparece aqui segue <a href="/regras/">regras públicas</a>, sem escolha editorial. Site independente e de código aberto: não é do governo nem de partido.</p>
+    </footer>
+    <script>
+      // Datas relativas ("amanhã", "em 2 dias"), calculadas no celular de quem lê.
+      const hoje = new Date(new Date().toLocaleDateString('en-CA', { timeZone: 'America/Sao_Paulo' }) + 'T00:00:00');
+      document.querySelectorAll<HTMLElement>('[data-quando]').forEach((el) => {
+        const dia = new Date(el.dataset.quando!.slice(0, 10) + 'T00:00:00');
+        const n = Math.round((dia.getTime() - hoje.getTime()) / 86400000);
+        const rel = n === 0 ? 'hoje' : n === 1 ? 'amanhã' : n > 1 ? `em ${n} dias` : '';
+        if (rel) {
+          el.querySelector('.rel')!.textContent = ` · ${rel}`;
+          if (n <= 1) el.classList.add('urgente');
+        }
+      });
+    </script>
+  </body>
+</html>

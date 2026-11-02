@@ -1,0 +1,1380 @@
+{
+  "atualizadoEm": "2026-11-02T20:11:48.558Z",
+  "hoje": "2026-11-02",
+  "pautaCamaraPublicada": false,
+  "pautaSenadoPublicada": true,
+  "vemAi": [
+    "senado/pec-18-2025",
+    "senado/pl-186-2025",
+    "senado/pl-5782-2023",
+    "senado/pdl-575-2026",
+    "senado/pl-6461-2019",
+    "senado/pl-2234-2024",
+    "senado/pdl-344-2024",
+    "senado/pdl-359-2024",
+    "senado/pdl-618-2026"
+  ],
+  "emAlta": {
+    "porSemana": false,
+    "itens": [
+      "senado/pl-5064-2023",
+      "senado/pl-2374-2024",
+      "camara/pl-994-2026",
+      "camara/pec-2-2025",
+      "camara/pl-1007-2026",
+      "senado/pl-452-2025",
+      "camara/pl-1005-2026",
+      "camara/pl-995-2026",
+      "camara/pl-1001-2026",
+      "camara/pl-9212-2017"
+    ]
+  },
+  "propostas": {
+    "camara/pec-2-2025": {
+      "slug": "camara/pec-2-2025",
+      "chave": "camara-2483164",
+      "casa": "camara",
+      "rotulo": "PEC 2/2025",
+      "tipo": "Mudança na Constituição",
+      "sigla": "PEC",
+      "titulo": "Dá nova redação ao Capítulo II, do Título IV, da Constituição Federal, que dispõe sobre o Poder Executivo e dá outras providências.",
+      "tituloCompleto": true,
+      "ementa": "Dá nova redação ao Capítulo II, do Título IV, da Constituição Federal, que dispõe sobre o Poder Executivo e dá outras providências.",
+      "explicacao": {
+        "fonte": "camara",
+        "texto": "A Proposta de Emenda à Constituição (PEC) 2/25 institui o semipresidencialismo e o voto distrital misto no Brasil. O texto, apresentado pelo deputado Luiz Carlos Hauly (Pode-PR) e outros parlamentares à Câmara dos Deputados, resgata uma proposição antiga (PEC 20/95) do ex-deputado Eduardo Jorge (SP). Se aprovado ainda neste ano, o semipresidencialismo só passaria a valer a partir das eleições de 2030. Já o voto distrito misto entraria em vigor nas eleições de 2026. No semipresidencialismo, o presidente eleito pelo voto popular direto divide o poder com um primeiro-ministro nomeado por ele, ouvido os partidos com maiores representações na Câmara. De acordo com a proposta, o primeiro-ministro será nomeado dentre os integrantes do Congresso Nacional maiores de 35 anos. Entenda a discussão sobre semipresidencialismo Presidente O presidente da República atua como chefe de Estado e comandante supremo das Forças. A ele cabe garantir a unidade e a independência da República, a defesa nacional e o livre exercício das instituições democráticas. Primeiro-ministro Por sua vez, o primeiro-ministro, juntamente com o conselho de ministros de Estado, chefia o governo. O primeiro-ministro elabora e apresenta ao presidente da República o programa de governo e, uma vez aprovado, comunica seu teor à Câmara dos Deputados. O primeiro-ministro deve comparecer mensalmente ao Congresso, para explicar a execução do programa de governo ou expor assunto de relevância para o país. A atuação do primeiro-ministro sustenta-se no apoio da Câmara dos Deputados. O primeiro-ministro e o conselho de ministros devem exonerar-se quando esse apoio faltar. Ou a Câmara pode votar a destituição do governo antes do fim do mandato, por meio do voto de censura. Concentração de poder Luiz Carlos Hauly argumenta que hoje não há mais espaço para o que chama de “presidencialismo arcaico praticado no Brasil”, no qual uma única autoridade concentra as responsabilidades de chefe de governo e de Estado. “Esse quadro institucional precisa ser revisto para que, em caso de uma nova crise institucional envolvendo o presidente da República, o Brasil não enfrente as prolongadas e incertas crises institucionais que antecederam as quedas de [Fernando] Collor e Dilma [Rousseff] e acabam afetando também o quadro econômico brasileiro”, justifica. Sem vice-presidente A PEC em análise na Câmara acaba com a figura do vice-presidente da República. O texto estabelece que, em caso de impedimento do presidente da República, ausência do país ou vacância, serão sucessivamente chamados ao exercício do cargo os presidentes da Câmara, do Senado Federal e do Supremo Tribunal Federal. A renúncia do presidente da República será efetivada por meio de mensagem ao Congresso. Na vacância do cargo, nova eleição será realizada em 45 dias, contados da data da declaração, iniciando o eleito um novo mandato. A proposta mantém o mandato do presidente da República em quatro anos, com início em 5 de janeiro do ano seguinte ao da eleição. Sistema eleitoral misto A proposta de Luiz Carlos Hauly muda também o sistema eleitoral no Brasil, instituindo o voto distrital misto para a Câmara dos Deputados. Pelo sistema sugerido, o eleitor terá dois votos desvinculados: um para o candidato de seu distrito eleitoral e outro para o partido de sua preferência. A combinação busca unir a representação local (distrital) e a proporcionalidade na distribuição de vagas entre os partidos. “O voto distrital misto permitiria uma maior aproximação entre os eleitores e seus representantes”, acredita Luiz Carlos Hauly. Próximos passos A PEC 2/25 será analisada pela Comissão de Constituição e Justiça e de Cidadania quanto a sua legalidade, juridicidade e constitucionalidade. Se admitida, será examinada por uma comissão especial a ser criada, antes de ser votada em dois turnos pelo Plenário. Para ser promulgado, o texto precisa ser aprovado pelos deputados e pelos senadores. Conheça a tramitação de propostas de emenda à Constituição",
+        "pontos": [],
+        "introPontos": "",
+        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
+        "url": "https://www.camara.leg.br/noticias/1131679-proposta-muda-a-constituicao-para-instituir-o-semipresidencialismo-no-brasil"
+      },
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Promulgação",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Na Constituição",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 519,
+        "contra": 90306,
+        "indecisos": 28,
+        "total": 90853,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2483164",
+        "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2025-02-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-994-2026": {
+      "slug": "camara/pl-994-2026",
+      "chave": "camara-2607415",
+      "casa": "camara",
+      "rotulo": "PL 994/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
+      "tituloCompleto": true,
+      "ementa": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1175,
+        "contra": 118745,
+        "indecisos": 37,
+        "total": 119957,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607415",
+        "pergunta": "Qual sua opinião sobre o PL 994/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-9212-2017": {
+      "slug": "camara/pl-9212-2017",
+      "chave": "camara-2163674",
+      "casa": "camara",
+      "rotulo": "PL 9212/2017",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera a legislação eleitoral para instituir o voto distrital misto nas eleições proporcionais.",
+      "tituloCompleto": true,
+      "ementa": "Altera a legislação eleitoral para instituir o voto distrital misto nas eleições proporcionais.",
+      "explicacao": {
+        "fonte": "camara",
+        "texto": "A Câmara dos Deputados analisa proposta que institui o voto distrital misto nas eleições proporcionais (PL 9212/17, do Senado). Se aprovadas, as regras serão aplicadas para a escolha de vereadores e deputados estaduais, distritais e federais. O sistema distrital misto combina o voto proporcional com o distrital. De acordo com a proposta, o eleitor vai fazer duas escolhas na urna: o candidato de seu respectivo distrito e o partido de sua preferência. As cadeiras das casas legislativas serão preenchidas primeiramente pelos candidatos eleitos pelo voto distrital. Esgotadas essas vagas, as cadeiras remanescentes serão distribuídas entre candidatos dos partidos mais bem votados. De acordo com o texto, o número de representantes distritais deve corresponder à metade do número de cadeiras de cada circunscrição, arredondando-se para baixo no caso de números fracionários. Por exemplo: no caso de um estado com nove cadeiras de deputado federal, quatro serão escolhidos na modalidade do voto distrital. A proposta, que altera o Código Eleitoral (Lei 4.737/65) e a Lei das Eleições (Lei 9.504/97), delega à Justiça Eleitoral a missão de demarcar os distritos, que precisam ser geograficamente contíguos. A divisão deve seguir como critério o número de habitantes. Tramitação A proposta será analisada pela Comissão de Constituição e Justiça e de Cidadania e depois seguirá para o Plenário.",
+        "pontos": [],
+        "introPontos": "",
+        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
+        "url": "https://www.camara.leg.br/noticias/536698-proposta-do-senado-institui-o-voto-distrital-misto-nas-eleicoes-proporcionais"
+      },
+      "origem": "senado",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Parecer",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 73,
+        "contra": 4007,
+        "indecisos": 1,
+        "total": 4081,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2163674",
+        "pergunta": "Qual sua opinião sobre o PL 9212/2017?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2017-11-29",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2163674",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1005-2026": {
+      "slug": "camara/pl-1005-2026",
+      "chave": "camara-2607436",
+      "casa": "camara",
+      "rotulo": "PL 1005/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas…",
+      "tituloCompleto": false,
+      "ementa": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas funções.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 117,
+        "contra": 24898,
+        "indecisos": 16,
+        "total": 25031,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607436",
+        "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-5671-2026": {
+      "slug": "camara/pl-5671-2026",
+      "chave": "camara-2649062",
+      "casa": "camara",
+      "rotulo": "PL 5671/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera a legislação eleitoral para instituir o sistema federativo misto majoritário-proporcional para as eleições de Deputado Federal, Deputado…",
+      "tituloCompleto": false,
+      "ementa": "Altera a legislação eleitoral para instituir o sistema federativo misto majoritário-proporcional para as eleições de Deputado Federal, Deputado Estadual, Deputado Distrital e Vereador.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 32,
+        "contra": 2710,
+        "indecisos": 5,
+        "total": 2747,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2649062",
+        "pergunta": "Qual sua opinião sobre o PL 5671/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-10-27",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649062",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1007-2026": {
+      "slug": "camara/pl-1007-2026",
+      "chave": "camara-2607440",
+      "casa": "camara",
+      "rotulo": "PL 1007/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre a reorganização das competências federais relativas ao patrimônio histórico e artístico nacional, extinguindo o Instituto do Patrimônio…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre a reorganização das competências federais relativas ao patrimônio histórico e artístico nacional, extinguindo o Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN), instituído com fundamento na Lei nº 8.113, de 12 de dezembro de 1990.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1230,
+        "contra": 59452,
+        "indecisos": 39,
+        "total": 60721,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607440",
+        "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-995-2026": {
+      "slug": "camara/pl-995-2026",
+      "chave": "camara-2607416",
+      "casa": "camara",
+      "rotulo": "PL 995/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
+      "tituloCompleto": true,
+      "ementa": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 137,
+        "contra": 11915,
+        "indecisos": 12,
+        "total": 12064,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607416",
+        "pergunta": "Qual sua opinião sobre o PL 995/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1001-2026": {
+      "slug": "camara/pl-1001-2026",
+      "chave": "camara-2607424",
+      "casa": "camara",
+      "rotulo": "PL 1001/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras providências.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 105,
+        "contra": 9533,
+        "indecisos": 12,
+        "total": 9650,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607424",
+        "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pec-18-2025": {
+      "slug": "senado/pec-18-2025",
+      "chave": "senado-172997",
+      "casa": "senado",
+      "rotulo": "PEC 18/2025",
+      "tipo": "Mudança na Constituição",
+      "sigla": "PEC",
+      "titulo": "PEC da Segurança Pública",
+      "tituloCompleto": false,
+      "ementa": "Altera os arts. 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição Federal e o art.76 do Ato das Disposições Constitucionais Transitórias; acrescenta os arts. 144-A e 144-B à Constituição Federal e os arts. 139, 140 e 141 ao Ato das Disposições Constitucionais Transitórias; e dá outras providências.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta altera a Constituição Federal para redefinir regras sobre segurança pública, defesa social, sistema penitenciário e atividade de inteligência. O texto prevê regime jurídico mais rigoroso para integrantes e líderes de organizações criminosas, facções, milícias privadas e grupos paramilitares. Também amplia a competência da Polícia Federal, autoriza a Polícia Rodoviária Federal a atuar em rodovias, ferrovias e hidrovias federais, cria a possibilidade de polícias municipais e constitucionaliza o Sistema Único de Segurança Pública. A proposta ainda cria o Sistema de Políticas Penais, reforça fundos nacionais de segurança pública e penitenciário e prevê corregedorias e ouvidorias autônomas.",
+        "pontos": [
+          "Maior rigor contra organizações criminosas, facções, milícias privadas e grupos paramilitares.",
+          "Sanções mais severas para líderes e integrantes desses grupos.",
+          "Maior proteção às vítimas de crimes.",
+          "Ampliação da atuação da Polícia Federal em crimes com repercussão interestadual ou internacional.",
+          "Expansão das atribuições da Polícia Rodoviária Federal em diferentes modais federais.",
+          "Melhoria na coordenação entre diferentes níveis de governo e órgãos de segurança pública.",
+          "Reforço da segurança local por meio da criação de polícias municipais.",
+          "Aprimoramento dos sistemas de controle dos órgãos de segurança pública por meio de corregedorias e ouvidorias autônomas.",
+          "Aumento dos recursos destinados à segurança pública e ao sistema penitenciário."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172997"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-03T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 3/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só a promulgação.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Promulgação",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Na Constituição",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1045,
+        "contra": 181,
+        "indecisos": 0,
+        "total": 1226,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172997",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172997",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-186-2025": {
+      "slug": "senado/pl-186-2025",
+      "chave": "senado-173226",
+      "casa": "senado",
+      "rotulo": "PL 186/2025",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera a Lei nº 14.826, de 20 de março de 2024, para incluir entre as ações destinadas à promoção da parentalidade positiva a realização de cursos, de…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei nº 14.826, de 20 de março de 2024, para incluir entre as ações destinadas à promoção da parentalidade positiva a realização de cursos, de campanhas e de palestras embasados em evidências científicas.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta inclui a realização de cursos, campanhas e palestras baseadas em evidências científicas como parte de grupo de ações voltado a promover a parentalidade positiva.",
+        "pontos": [
+          "Aumento da conscientização sobre a importância e os benefícios da parentalidade positiva.",
+          "Fortalecimento das políticas públicas voltadas para o apoio às famílias, promovendo um ambiente mais saudável para o desenvolvimento das crianças."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173226"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-03T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 3/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 2,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 2,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173226",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173226",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-5782-2023": {
+      "slug": "senado/pl-5782-2023",
+      "chave": "senado-171335",
+      "casa": "senado",
+      "rotulo": "PL 5782/2023",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Institui a campanha Setembro em Flor, destinada à conscientização sobre os tumores ginecológicos.",
+      "tituloCompleto": true,
+      "ementa": "Institui a campanha Setembro em Flor, destinada à conscientização sobre os tumores ginecológicos.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta institui a campanha anual “Setembro em Flor”, com o objetivo de conscientizar a população sobre os tumores ginecológicos, seus fatores de risco, sinais e sintomas precoces.",
+        "pontos": [],
+        "introPontos": "A medida busca favorecer o diagnóstico precoce, reduzir a necessidade de tratamentos invasivos e suas sequelas e contribuir para a diminuição da mortalidade por tumores ginecológicos, ao estimular a informação e a busca por atendimento médico.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171335"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-03T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 3/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171335",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171335",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pdl-575-2026": {
+      "slug": "senado/pdl-575-2026",
+      "chave": "senado-174513",
+      "casa": "senado",
+      "rotulo": "PDL 575/2026",
+      "tipo": "Projeto de decreto legislativo",
+      "sigla": "PDL",
+      "titulo": "Aprova o texto do Acordo-Quadro de Cooperação em Ciência e Tecnologia Espacial entre o Governo da República Federativa do Brasil e o Governo da…",
+      "tituloCompleto": false,
+      "ementa": "Aprova o texto do Acordo-Quadro de Cooperação em Ciência e Tecnologia Espacial entre o Governo da República Federativa do Brasil e o Governo da República Bolivariana da Venezuela, assinado em Caracas, em 27 de junho de 2008.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-03T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 3/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 3,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 3,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174513",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174513",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-6461-2019": {
+      "slug": "senado/pl-6461-2019",
+      "chave": "senado-174061",
+      "casa": "senado",
+      "rotulo": "PL 6461/2019",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Estatuto do Aprendiz",
+      "tituloCompleto": false,
+      "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta cria o Estatuto do Aprendiz, que estabelece regras para a aprendizagem profissional de jovens e pessoas com deficiência. A proposta altera normas trabalhistas para incentivar a contratação de aprendizes, define direitos e deveres dos aprendizes e empregadores, e cria mecanismos para promover a inclusão social e profissional desses jovens.",
+        "pontos": [
+          "Aumento das oportunidades de trabalho e renda para jovens e pessoas com deficiência.",
+          "Maior inclusão social de jovens em situação de vulnerabilidade ou risco social.",
+          "Incentivo à profissionalização e combate ao trabalho infantil.",
+          "Melhoria na qualificação profissional dos jovens, preparando-os melhor para o mercado de trabalho.",
+          "Criação de um ambiente mais seguro e educativo para o desenvolvimento dos aprendizes."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-04T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 4/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 77,
+        "contra": 6,
+        "indecisos": 0,
+        "total": 83,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-2234-2024": {
+      "slug": "senado/pl-2234-2024",
+      "chave": "senado-172593",
+      "casa": "senado",
+      "rotulo": "PL 2234/2024",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma disposta na Constituição Federal.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta modifica a legislação para alinhar a obrigatoriedade da educação básica à Constituição Federal. Ela estabelece que a educação básica gratuita deve ser oferecida a todas as crianças e adolescentes dos 4 aos 17 anos. A proposta também prevê programas de apoio, como fornecimento de material escolar, transporte, alimentação e assistência à saúde.",
+        "pontos": [],
+        "introPontos": "As possíveis consequências da proposta incluem maior alinhamento entre o Estatuto da Criança e do Adolescente e a Constituição Federal, trazendo mais clareza sobre a faixa etária da educação básica obrigatória. A medida também pode fortalecer ações de acompanhamento escolar, incentivar estratégias para reinserção de estudantes fora da escola e facilitar a aplicação uniforme das regras educacionais pelos órgãos públicos e pelas instituições de ensino.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172593"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-04T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 4/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172593",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172593",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pdl-344-2024": {
+      "slug": "senado/pdl-344-2024",
+      "chave": "senado-168799",
+      "casa": "senado",
+      "rotulo": "PDL 344/2024",
+      "tipo": "Projeto de decreto legislativo",
+      "sigla": "PDL",
+      "titulo": "Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre Cooperação na Área de Educação,…",
+      "tituloCompleto": false,
+      "ementa": "Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre Cooperação na Área de Educação, assinado em Zagreb, em 14 de fevereiro de 2023.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-04T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 4/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 4,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 4,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=168799",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168799",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pdl-359-2024": {
+      "slug": "senado/pdl-359-2024",
+      "chave": "senado-171234",
+      "casa": "senado",
+      "rotulo": "PDL 359/2024",
+      "tipo": "Projeto de decreto legislativo",
+      "sigla": "PDL",
+      "titulo": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições…",
+      "tituloCompleto": false,
+      "ementa": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições Internacionais, alterado pelas Emendas de 24 de junho de 1982 e de 31 de maio de 1988.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-04T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 4/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 4,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 4,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171234",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171234",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pdl-618-2026": {
+      "slug": "senado/pdl-618-2026",
+      "chave": "senado-174759",
+      "casa": "senado",
+      "rotulo": "PDL 618/2026",
+      "tipo": "Projeto de decreto legislativo",
+      "sigla": "PDL",
+      "titulo": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de…",
+      "tituloCompleto": false,
+      "ementa": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de 2011, durante a XLII Reunião Ordinária do Conselho do Mercado Comum.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-04T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 4/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174759",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174759",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-2374-2024": {
+      "slug": "senado/pl-2374-2024",
+      "chave": "senado-164123",
+      "casa": "senado",
+      "rotulo": "PL 2374/2024",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criminalizar a criação e divulgação de notícias falsas (fake news).",
+      "tituloCompleto": true,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criminalizar a criação e divulgação de notícias falsas (fake news).",
+      "explicacao": null,
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 154619,
+        "contra": 723,
+        "indecisos": 0,
+        "total": 155342,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=164123",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164123",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-5064-2023": {
+      "slug": "senado/pl-5064-2023",
+      "chave": "senado-160575",
+      "casa": "senado",
+      "rotulo": "PL 5064/2023",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Concede anistia aos acusados e condenados pelos crimes definidos nos arts. 359-L e 359-M do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código…",
+      "tituloCompleto": false,
+      "ementa": "Concede anistia aos acusados e condenados pelos crimes definidos nos arts. 359-L e 359-M do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, em razão das manifestações ocorridas em Brasília, na Praça dos Três Poderes, no dia 8 de janeiro de 2023.",
+      "explicacao": null,
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "MATÉRIA COM A RELATORIA",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 731245,
+        "contra": 1262604,
+        "indecisos": 0,
+        "total": 1993849,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=160575",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160575",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-452-2025": {
+      "slug": "senado/pl-452-2025",
+      "chave": "senado-167204",
+      "casa": "senado",
+      "rotulo": "PL 452/2025",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Proíbe a adoção de sistema de cotas em processos seletivos de programas de Residência Médica.",
+      "tituloCompleto": true,
+      "ementa": "Proíbe a adoção de sistema de cotas em processos seletivos de programas de Residência Médica.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta o ingresso em programas de Residência Médica, tanto em instituições públicas quanto privadas, por meio de sistemas de cotas. Restringe a seleção apenas por critérios de capacidade, por meio de provas que avaliem o conhecimento dos candidatos.",
+        "pontos": [],
+        "introPontos": "A proposta busca garantir que o acesso à Residência Médica seja feito com base no mérito e no desempenho dos candidatos. O autor argumenta que, após a graduação em Medicina, todos os profissionais estão aptos a competir em igualdade, e a seleção por mérito é essencial para formar médicos qualificados. Assim, a proibição de cotas preserva o caráter técnico e científico dos programas de Residência Médica, assegurando a isonomia entre os candidatos.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167204"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AUDIÊNCIA PÚBLICA REALIZADA",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 18301,
+        "contra": 11955,
+        "indecisos": 0,
+        "total": 30256,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167204",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167204",
+      "votosPeriodo": {
+        "semana": null
+      }
+    }
+  }
+}

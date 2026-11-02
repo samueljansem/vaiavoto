@@ -1,0 +1,13 @@
+---
+import type { Passo } from '../lib/site';
+interface Props { passos: Passo[] }
+const { passos } = Astro.props;
+---
+<ol class="etapas" aria-label="Etapas até virar lei">
+  {passos.map((p, i) => (
+    <li class={p.estado} aria-current={p.estado === 'atual' ? 'step' : undefined}>
+      <span class="n">{p.estado === 'feito' ? '✓' : i + 1}</span>
+      {p.rotulo}
+    </li>
+  ))}
+</ol>

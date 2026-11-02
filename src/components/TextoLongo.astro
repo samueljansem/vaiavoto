@@ -1,0 +1,25 @@
+---
+// Mostra o começo de um texto longo e guarda o resto em "Continuar lendo" (funciona sem JavaScript).
+import { paragrafos } from '../lib/site';
+
+interface Props { texto: string; visivel?: number; rotulo?: string }
+const { texto, visivel = 380, rotulo = 'Continuar lendo' } = Astro.props;
+const partes = paragrafos(texto);
+const inicio: string[] = [];
+let tamanho = 0;
+for (const p of partes) {
+  if (inicio.length && tamanho + p.length > visivel) break;
+  inicio.push(p);
+  tamanho += p.length;
+}
+const resto = partes.slice(inicio.length);
+---
+<div class="texto">
+  {inicio.map((p) => <p>{p}</p>)}
+  {resto.length > 0 && (
+    <details class="mais">
+      <summary>{rotulo}</summary>
+      {resto.map((p) => <p>{p}</p>)}
+    </details>
+  )}
+</div>
