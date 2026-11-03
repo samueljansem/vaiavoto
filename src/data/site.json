@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T03:25:56.302Z",
+  "atualizadoEm": "2026-11-03T07:45:10.056Z",
   "hoje": "2026-11-03",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
@@ -73,10 +73,10 @@
         }
       ],
       "enquete": {
-        "favor": 533,
-        "contra": 92250,
+        "favor": 534,
+        "contra": 92421,
         "indecisos": 29,
-        "total": 92812,
+        "total": 92984,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -141,9 +141,9 @@
       ],
       "enquete": {
         "favor": 1178,
-        "contra": 119062,
+        "contra": 119091,
         "indecisos": 37,
-        "total": 120277,
+        "total": 120306,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -215,9 +215,9 @@
       ],
       "enquete": {
         "favor": 75,
-        "contra": 4214,
+        "contra": 4241,
         "indecisos": 2,
-        "total": 4291,
+        "total": 4318,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2163674",
         "pergunta": "Qual sua opinião sobre o PL 9212/2017?",
@@ -282,9 +282,9 @@
       ],
       "enquete": {
         "favor": 119,
-        "contra": 25161,
+        "contra": 25191,
         "indecisos": 16,
-        "total": 25296,
+        "total": 25326,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -348,10 +348,10 @@
         }
       ],
       "enquete": {
-        "favor": 34,
-        "contra": 2996,
+        "favor": 35,
+        "contra": 3030,
         "indecisos": 7,
-        "total": 3037,
+        "total": 3072,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2649062",
         "pergunta": "Qual sua opinião sobre o PL 5671/2026?",
@@ -416,9 +416,9 @@
       ],
       "enquete": {
         "favor": 1233,
-        "contra": 59735,
+        "contra": 59763,
         "indecisos": 39,
-        "total": 61007,
+        "total": 61035,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -483,9 +483,9 @@
       ],
       "enquete": {
         "favor": 139,
-        "contra": 12126,
+        "contra": 12137,
         "indecisos": 12,
-        "total": 12277,
+        "total": 12288,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -550,9 +550,9 @@
       ],
       "enquete": {
         "favor": 107,
-        "contra": 9796,
+        "contra": 9814,
         "indecisos": 13,
-        "total": 9916,
+        "total": 9934,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1228,10 +1228,10 @@
         }
       ],
       "enquete": {
-        "favor": 157694,
+        "favor": 158072,
         "contra": 753,
         "indecisos": 0,
-        "total": 158447,
+        "total": 158825,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=164123",
         "pergunta": "Você apoia essa proposição?",
@@ -1294,10 +1294,10 @@
         }
       ],
       "enquete": {
-        "favor": 13495,
-        "contra": 34,
+        "favor": 13626,
+        "contra": 36,
         "indecisos": 0,
-        "total": 13529,
+        "total": 13662,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1353,10 +1353,10 @@
         }
       ],
       "enquete": {
-        "favor": 731411,
-        "contra": 1264398,
+        "favor": 731417,
+        "contra": 1264561,
         "indecisos": 0,
-        "total": 1995809,
+        "total": 1995978,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=160575",
         "pergunta": "Você apoia essa proposição?",
