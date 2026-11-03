@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-11-02T20:30:56.871Z",
-  "hoje": "2026-11-02",
+  "atualizadoEm": "2026-11-03T03:25:56.302Z",
+  "hoje": "2026-11-03",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
@@ -22,8 +22,8 @@
       "camara/pl-994-2026",
       "camara/pec-2-2025",
       "camara/pl-1007-2026",
-      "senado/pl-452-2025",
       "camara/pl-1005-2026",
+      "senado/pl-1809-2026",
       "camara/pl-995-2026",
       "camara/pl-1001-2026",
       "camara/pl-9212-2017"
@@ -73,10 +73,10 @@
         }
       ],
       "enquete": {
-        "favor": 520,
-        "contra": 90412,
-        "indecisos": 28,
-        "total": 90960,
+        "favor": 533,
+        "contra": 92250,
+        "indecisos": 29,
+        "total": 92812,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -140,10 +140,10 @@
         }
       ],
       "enquete": {
-        "favor": 1176,
-        "contra": 118761,
+        "favor": 1178,
+        "contra": 119062,
         "indecisos": 37,
-        "total": 119974,
+        "total": 120277,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -214,10 +214,10 @@
         }
       ],
       "enquete": {
-        "favor": 73,
-        "contra": 4019,
-        "indecisos": 1,
-        "total": 4093,
+        "favor": 75,
+        "contra": 4214,
+        "indecisos": 2,
+        "total": 4291,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2163674",
         "pergunta": "Qual sua opinião sobre o PL 9212/2017?",
@@ -281,10 +281,10 @@
         }
       ],
       "enquete": {
-        "favor": 118,
-        "contra": 24909,
+        "favor": 119,
+        "contra": 25161,
         "indecisos": 16,
-        "total": 25043,
+        "total": 25296,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -348,10 +348,10 @@
         }
       ],
       "enquete": {
-        "favor": 32,
-        "contra": 2718,
-        "indecisos": 5,
-        "total": 2755,
+        "favor": 34,
+        "contra": 2996,
+        "indecisos": 7,
+        "total": 3037,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2649062",
         "pergunta": "Qual sua opinião sobre o PL 5671/2026?",
@@ -415,10 +415,10 @@
         }
       ],
       "enquete": {
-        "favor": 1231,
-        "contra": 59462,
+        "favor": 1233,
+        "contra": 59735,
         "indecisos": 39,
-        "total": 60732,
+        "total": 61007,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -482,10 +482,10 @@
         }
       ],
       "enquete": {
-        "favor": 138,
-        "contra": 11919,
+        "favor": 139,
+        "contra": 12126,
         "indecisos": 12,
-        "total": 12069,
+        "total": 12277,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -549,10 +549,10 @@
         }
       ],
       "enquete": {
-        "favor": 106,
-        "contra": 9540,
-        "indecisos": 12,
-        "total": 9658,
+        "favor": 107,
+        "contra": 9796,
+        "indecisos": 13,
+        "total": 9916,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -636,10 +636,10 @@
         }
       ],
       "enquete": {
-        "favor": 1045,
+        "favor": 1052,
         "contra": 181,
         "indecisos": 0,
-        "total": 1226,
+        "total": 1233,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172997",
         "pergunta": "Você apoia essa proposição?",
@@ -708,10 +708,10 @@
         }
       ],
       "enquete": {
-        "favor": 2,
+        "favor": 3,
         "contra": 0,
         "indecisos": 0,
-        "total": 2,
+        "total": 3,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173226",
         "pergunta": "Você apoia essa proposição?",
@@ -777,10 +777,10 @@
         }
       ],
       "enquete": {
-        "favor": 1,
+        "favor": 2,
         "contra": 0,
         "indecisos": 0,
-        "total": 1,
+        "total": 2,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171335",
         "pergunta": "Você apoia essa proposição?",
@@ -914,10 +914,10 @@
         }
       ],
       "enquete": {
-        "favor": 77,
+        "favor": 78,
         "contra": 6,
         "indecisos": 0,
-        "total": 83,
+        "total": 84,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -983,10 +983,10 @@
         }
       ],
       "enquete": {
-        "favor": 1,
+        "favor": 2,
         "contra": 0,
         "indecisos": 0,
-        "total": 1,
+        "total": 2,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172593",
         "pergunta": "Você apoia essa proposição?",
@@ -1169,10 +1169,10 @@
         }
       ],
       "enquete": {
-        "favor": 1,
+        "favor": 2,
         "contra": 0,
         "indecisos": 0,
-        "total": 1,
+        "total": 2,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174759",
         "pergunta": "Você apoia essa proposição?",
@@ -1228,10 +1228,10 @@
         }
       ],
       "enquete": {
-        "favor": 154735,
-        "contra": 725,
+        "favor": 157694,
+        "contra": 753,
         "indecisos": 0,
-        "total": 155460,
+        "total": 158447,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=164123",
         "pergunta": "Você apoia essa proposição?",
@@ -1247,6 +1247,72 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164123",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-1809-2026": {
+      "slug": "senado/pl-1809-2026",
+      "chave": "senado-173618",
+      "casa": "senado",
+      "rotulo": "PL 1809/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
+        "pontos": [],
+        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 13495,
+        "contra": 34,
+        "indecisos": 0,
+        "total": 13529,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
         "semana": null
       }
@@ -1287,10 +1353,10 @@
         }
       ],
       "enquete": {
-        "favor": 731255,
-        "contra": 1262690,
+        "favor": 731411,
+        "contra": 1264398,
         "indecisos": 0,
-        "total": 1993945,
+        "total": 1995809,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=160575",
         "pergunta": "Você apoia essa proposição?",
@@ -1306,72 +1372,6 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160575",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pl-452-2025": {
-      "slug": "senado/pl-452-2025",
-      "chave": "senado-167204",
-      "casa": "senado",
-      "rotulo": "PL 452/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Proíbe a adoção de sistema de cotas em processos seletivos de programas de Residência Médica.",
-      "tituloCompleto": true,
-      "ementa": "Proíbe a adoção de sistema de cotas em processos seletivos de programas de Residência Médica.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta o ingresso em programas de Residência Médica, tanto em instituições públicas quanto privadas, por meio de sistemas de cotas. Restringe a seleção apenas por critérios de capacidade, por meio de provas que avaliem o conhecimento dos candidatos.",
-        "pontos": [],
-        "introPontos": "A proposta busca garantir que o acesso à Residência Médica seja feito com base no mérito e no desempenho dos candidatos. O autor argumenta que, após a graduação em Medicina, todos os profissionais estão aptos a competir em igualdade, e a seleção por mérito é essencial para formar médicos qualificados. Assim, a proibição de cotas preserva o caráter técnico e científico dos programas de Residência Médica, assegurando a isonomia entre os candidatos.",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167204"
-      },
-      "origem": "senado",
-      "etapa": "senado",
-      "situacaoOficial": "AUDIÊNCIA PÚBLICA REALIZADA",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 18307,
-        "contra": 12025,
-        "indecisos": 0,
-        "total": 30332,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167204",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167204",
       "votosPeriodo": {
         "semana": null
       }
