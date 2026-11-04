@@ -1,9 +1,14 @@
 {
-  "atualizadoEm": "2026-11-04T07:23:55.856Z",
+  "atualizadoEm": "2026-11-04T17:55:23.495Z",
   "hoje": "2026-11-04",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
   "vemAi": [
+    "senado/pl-6461-2019",
+    "senado/pl-2234-2024",
+    "senado/pdl-344-2024",
+    "senado/pdl-359-2024",
+    "senado/pdl-618-2026",
     "camara/pl-2879-2011",
     "camara/pl-1932-2021",
     "camara/pl-3099-2019",
@@ -19,12 +24,7 @@
     "camara/pl-5815-2025",
     "camara/pl-5542-2026",
     "camara/pl-565-2020",
-    "camara/pl-5974-2023",
-    "senado/pl-6461-2019",
-    "senado/pl-2234-2024",
-    "senado/pdl-344-2024",
-    "senado/pdl-359-2024",
-    "senado/pdl-618-2026"
+    "camara/pl-5974-2023"
   ],
   "emAlta": {
     "porSemana": false,
@@ -63,7 +63,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -161,7 +161,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -247,7 +247,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Encaminhamento",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -328,7 +328,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -402,7 +402,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -467,7 +467,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -572,7 +572,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -661,7 +661,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -750,7 +750,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -824,7 +824,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -898,7 +898,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Encaminhamento",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -976,7 +976,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -1065,7 +1065,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -1139,7 +1139,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Encaminhamento",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -1204,7 +1204,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -1285,7 +1285,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T13:55",
+        "data": "2026-11-04T14:44",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 4/11",
@@ -1395,10 +1395,10 @@
         }
       ],
       "enquete": {
-        "favor": 564,
-        "contra": 96135,
-        "indecisos": 33,
-        "total": 96732,
+        "favor": 573,
+        "contra": 97020,
+        "indecisos": 34,
+        "total": 97627,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1462,10 +1462,10 @@
         }
       ],
       "enquete": {
-        "favor": 1193,
-        "contra": 121016,
-        "indecisos": 37,
-        "total": 122246,
+        "favor": 1206,
+        "contra": 121810,
+        "indecisos": 38,
+        "total": 123054,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1529,10 +1529,10 @@
         }
       ],
       "enquete": {
-        "favor": 129,
-        "contra": 26972,
-        "indecisos": 16,
-        "total": 27117,
+        "favor": 137,
+        "contra": 27682,
+        "indecisos": 17,
+        "total": 27836,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1556,73 +1556,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-1007-2026": {
-      "slug": "camara/pl-1007-2026",
-      "chave": "camara-2607440",
-      "casa": "camara",
-      "rotulo": "PL 1007/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Dispõe sobre a reorganização das competências federais relativas ao patrimônio histórico e artístico nacional, extinguindo o Instituto do Patrimônio…",
-      "tituloCompleto": false,
-      "ementa": "Dispõe sobre a reorganização das competências federais relativas ao patrimônio histórico e artístico nacional, extinguindo o Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN), instituído com fundamento na Lei nº 8.113, de 12 de dezembro de 1990.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 1244,
-        "contra": 61704,
-        "indecisos": 39,
-        "total": 62987,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607440",
-        "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
         "semana": null
       }
@@ -1663,10 +1596,10 @@
         }
       ],
       "enquete": {
-        "favor": 135,
-        "contra": 12011,
+        "favor": 149,
+        "contra": 12935,
         "indecisos": 13,
-        "total": 12159,
+        "total": 13097,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1690,6 +1623,73 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1007-2026": {
+      "slug": "camara/pl-1007-2026",
+      "chave": "camara-2607440",
+      "casa": "camara",
+      "rotulo": "PL 1007/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre a reorganização das competências federais relativas ao patrimônio histórico e artístico nacional, extinguindo o Instituto do Patrimônio…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre a reorganização das competências federais relativas ao patrimônio histórico e artístico nacional, extinguindo o Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN), instituído com fundamento na Lei nº 8.113, de 12 de dezembro de 1990.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1254,
+        "contra": 62502,
+        "indecisos": 40,
+        "total": 63796,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607440",
+        "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
         "semana": null
       }
@@ -1737,10 +1737,10 @@
         }
       ],
       "enquete": {
-        "favor": 76,
-        "contra": 4727,
+        "favor": 77,
+        "contra": 4855,
         "indecisos": 2,
-        "total": 4805,
+        "total": 4934,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2163674",
         "pergunta": "Qual sua opinião sobre o PL 9212/2017?",
@@ -1804,10 +1804,10 @@
         }
       ],
       "enquete": {
-        "favor": 157,
-        "contra": 13805,
+        "favor": 171,
+        "contra": 14494,
         "indecisos": 13,
-        "total": 13975,
+        "total": 14678,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1887,10 +1887,10 @@
         }
       ],
       "enquete": {
-        "favor": 87,
+        "favor": 112,
         "contra": 6,
         "indecisos": 0,
-        "total": 93,
+        "total": 118,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -2165,72 +2165,6 @@
         "semana": null
       }
     },
-    "senado/mpv-1394-2026": {
-      "slug": "senado/mpv-1394-2026",
-      "chave": "senado-175871",
-      "casa": "senado",
-      "rotulo": "MPV 1394/2026",
-      "tipo": "Medida provisória",
-      "sigla": "MPV",
-      "titulo": "Proibição das bets no Brasil",
-      "tituloCompleto": false,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização\nda Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": ": A medida proíbe as apostas de quota fixa (apostas com prêmio definido por um multiplicador), incluindo apostas esportivas e jogos on-line. Ela encerra as autorizações existentes em 30 dias, exige a devolução de saldos e prêmios aos apostadores e proíbe publicidade, patrocínio e pagamentos ligados a essas apostas. Também prevê bloqueio de sites e aplicativos, fiscalização conjunta de órgãos públicos e sanções para empresas que descumprirem as regras.",
-        "pontos": [],
-        "introPontos": "Segundo o autor, a medida poderá reduzir os efeitos econômicos, sociais e de saúde associados às apostas, especialmente o endividamento das famílias, os problemas de saúde mental e a exposição de crianças e adolescentes. A medida também poderá interromper a transferência de recursos das famílias para plataformas de apostas e reduzir efeitos sobre o consumo, a arrecadação tributária e a distribuição de renda. Durante a transição, os apostadores deverão receber os valores devidos, enquanto operadores continuarão responsáveis por obrigações tributárias, regulatórias e de prevenção à lavagem de dinheiro. O autor estima redução de receitas tributárias e de taxas de fiscalização para o governo.",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871"
-      },
-      "origem": "senado",
-      "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO INSTALAÇÃO DA COMISSÃO",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 528564,
-        "contra": 81603,
-        "indecisos": 0,
-        "total": 610167,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175871",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "senado/pl-1809-2026": {
       "slug": "senado/pl-1809-2026",
       "chave": "senado-173618",
@@ -2274,10 +2208,10 @@
         }
       ],
       "enquete": {
-        "favor": 29556,
-        "contra": 134,
+        "favor": 38083,
+        "contra": 190,
         "indecisos": 0,
-        "total": 29690,
+        "total": 38273,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -2293,6 +2227,72 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/mpv-1394-2026": {
+      "slug": "senado/mpv-1394-2026",
+      "chave": "senado-175871",
+      "casa": "senado",
+      "rotulo": "MPV 1394/2026",
+      "tipo": "Medida provisória",
+      "sigla": "MPV",
+      "titulo": "Proibição das bets no Brasil",
+      "tituloCompleto": false,
+      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização\nda Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": ": A medida proíbe as apostas de quota fixa (apostas com prêmio definido por um multiplicador), incluindo apostas esportivas e jogos on-line. Ela encerra as autorizações existentes em 30 dias, exige a devolução de saldos e prêmios aos apostadores e proíbe publicidade, patrocínio e pagamentos ligados a essas apostas. Também prevê bloqueio de sites e aplicativos, fiscalização conjunta de órgãos públicos e sanções para empresas que descumprirem as regras.",
+        "pontos": [],
+        "introPontos": "Segundo o autor, a medida poderá reduzir os efeitos econômicos, sociais e de saúde associados às apostas, especialmente o endividamento das famílias, os problemas de saúde mental e a exposição de crianças e adolescentes. A medida também poderá interromper a transferência de recursos das famílias para plataformas de apostas e reduzir efeitos sobre o consumo, a arrecadação tributária e a distribuição de renda. Durante a transição, os apostadores deverão receber os valores devidos, enquanto operadores continuarão responsáveis por obrigações tributárias, regulatórias e de prevenção à lavagem de dinheiro. O autor estima redução de receitas tributárias e de taxas de fiscalização para o governo.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO INSTALAÇÃO DA COMISSÃO",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 531028,
+        "contra": 81656,
+        "indecisos": 0,
+        "total": 612684,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175871",
       "votosPeriodo": {
         "semana": null
       }
