@@ -1,14 +1,9 @@
 {
-  "atualizadoEm": "2026-11-05T00:18:18.012Z",
-  "hoje": "2026-11-04",
+  "atualizadoEm": "2026-11-05T07:49:38.473Z",
+  "hoje": "2026-11-05",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
   "vemAi": [
-    "senado/pl-6461-2019",
-    "senado/pl-2234-2024",
-    "senado/pdl-344-2024",
-    "senado/pdl-359-2024",
-    "senado/pdl-618-2026",
     "camara/pl-2879-2011",
     "camara/pl-1932-2021",
     "camara/pl-3099-2019",
@@ -58,10 +53,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -156,10 +151,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
       "passos": [
         {
@@ -242,10 +237,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -316,10 +311,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
       "passos": [
         {
@@ -381,10 +376,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -486,10 +481,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Parecer",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -575,10 +570,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -657,10 +652,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -681,10 +676,10 @@
         }
       ],
       "enquete": {
-        "favor": 163,
+        "favor": 165,
         "contra": 1,
         "indecisos": 0,
-        "total": 164,
+        "total": 166,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2515534",
         "pergunta": "Qual sua opinião sobre o PL 2475/2025?",
@@ -731,10 +726,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -813,10 +808,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -878,10 +873,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -959,10 +954,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-04T14:44",
+        "data": "2026-11-05T10:00",
         "quem": "deputados"
       },
-      "chip": "Deputados votam quarta, 4/11",
+      "chip": "Deputados votam quinta, 5/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -1069,10 +1064,10 @@
         }
       ],
       "enquete": {
-        "favor": 581,
-        "contra": 97792,
+        "favor": 592,
+        "contra": 98344,
         "indecisos": 34,
-        "total": 98407,
+        "total": 98970,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1136,10 +1131,10 @@
         }
       ],
       "enquete": {
-        "favor": 1227,
-        "contra": 123088,
+        "favor": 1236,
+        "contra": 123491,
         "indecisos": 38,
-        "total": 124353,
+        "total": 124765,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1163,73 +1158,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-1005-2026": {
-      "slug": "camara/pl-1005-2026",
-      "chave": "camara-2607436",
-      "casa": "camara",
-      "rotulo": "PL 1005/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas…",
-      "tituloCompleto": false,
-      "ementa": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas funções.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 143,
-        "contra": 28950,
-        "indecisos": 17,
-        "total": 29110,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607436",
-        "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
         "semana": null
       }
@@ -1270,10 +1198,10 @@
         }
       ],
       "enquete": {
-        "favor": 170,
-        "contra": 14678,
+        "favor": 177,
+        "contra": 15173,
         "indecisos": 14,
-        "total": 14862,
+        "total": 15364,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1297,6 +1225,73 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1005-2026": {
+      "slug": "camara/pl-1005-2026",
+      "chave": "camara-2607436",
+      "casa": "camara",
+      "rotulo": "PL 1005/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas…",
+      "tituloCompleto": false,
+      "ementa": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas funções.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 149,
+        "contra": 29351,
+        "indecisos": 17,
+        "total": 29517,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607436",
+        "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
         "semana": null
       }
@@ -1337,10 +1332,10 @@
         }
       ],
       "enquete": {
-        "favor": 1262,
-        "contra": 63902,
-        "indecisos": 40,
-        "total": 65204,
+        "favor": 1264,
+        "contra": 64329,
+        "indecisos": 41,
+        "total": 65634,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1404,10 +1399,10 @@
         }
       ],
       "enquete": {
-        "favor": 190,
-        "contra": 15915,
+        "favor": 199,
+        "contra": 16344,
         "indecisos": 13,
-        "total": 16118,
+        "total": 16556,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1431,277 +1426,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pl-6461-2019": {
-      "slug": "senado/pl-6461-2019",
-      "chave": "senado-174061",
-      "casa": "senado",
-      "rotulo": "PL 6461/2019",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Estatuto do Aprendiz",
-      "tituloCompleto": false,
-      "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta cria o Estatuto do Aprendiz, que estabelece regras para a aprendizagem profissional de jovens e pessoas com deficiência. A proposta altera normas trabalhistas para incentivar a contratação de aprendizes, define direitos e deveres dos aprendizes e empregadores, e cria mecanismos para promover a inclusão social e profissional desses jovens.",
-        "pontos": [
-          "Aumento das oportunidades de trabalho e renda para jovens e pessoas com deficiência.",
-          "Maior inclusão social de jovens em situação de vulnerabilidade ou risco social.",
-          "Incentivo à profissionalização e combate ao trabalho infantil.",
-          "Melhoria na qualificação profissional dos jovens, preparando-os melhor para o mercado de trabalho.",
-          "Criação de um ambiente mais seguro e educativo para o desenvolvimento dos aprendizes."
-        ],
-        "introPontos": "As possíveis consequências da proposta incluem:",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061"
-      },
-      "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
-      "votacao": {
-        "data": "2026-11-04T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 4/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 112,
-        "contra": 7,
-        "indecisos": 0,
-        "total": 119,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pl-2234-2024": {
-      "slug": "senado/pl-2234-2024",
-      "chave": "senado-172593",
-      "casa": "senado",
-      "rotulo": "PL 2234/2024",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma disposta na Constituição Federal.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-04T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 4/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172593",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pdl-344-2024": {
-      "slug": "senado/pdl-344-2024",
-      "chave": "senado-168799",
-      "casa": "senado",
-      "rotulo": "PDL 344/2024",
-      "tipo": "Projeto de decreto legislativo",
-      "sigla": "PDL",
-      "titulo": "Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre Cooperação na Área de Educação,…",
-      "tituloCompleto": false,
-      "ementa": "Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre Cooperação na Área de Educação, assinado em Zagreb, em 14 de fevereiro de 2023.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-04T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 4/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168799",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pdl-359-2024": {
-      "slug": "senado/pdl-359-2024",
-      "chave": "senado-171234",
-      "casa": "senado",
-      "rotulo": "PDL 359/2024",
-      "tipo": "Projeto de decreto legislativo",
-      "sigla": "PDL",
-      "titulo": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições…",
-      "tituloCompleto": false,
-      "ementa": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições Internacionais, alterado pelas Emendas de 24 de junho de 1982 e de 31 de maio de 1988.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-04T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 4/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171234",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pdl-618-2026": {
-      "slug": "senado/pdl-618-2026",
-      "chave": "senado-174759",
-      "casa": "senado",
-      "rotulo": "PDL 618/2026",
-      "tipo": "Projeto de decreto legislativo",
-      "sigla": "PDL",
-      "titulo": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de…",
-      "tituloCompleto": false,
-      "ementa": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de 2011, durante a XLII Reunião Ordinária do Conselho do Mercado Comum.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-04T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 4/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174759",
       "votosPeriodo": {
         "semana": null
       }
@@ -1749,10 +1473,10 @@
         }
       ],
       "enquete": {
-        "favor": 43221,
-        "contra": 253,
+        "favor": 44458,
+        "contra": 284,
         "indecisos": 0,
-        "total": 43474,
+        "total": 44742,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1815,10 +1539,10 @@
         }
       ],
       "enquete": {
-        "favor": 532292,
-        "contra": 81679,
+        "favor": 532744,
+        "contra": 81686,
         "indecisos": 0,
-        "total": 613971,
+        "total": 614430,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871",
         "pergunta": "Você apoia essa proposição?",
