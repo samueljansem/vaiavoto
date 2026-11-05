@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T17:55:23.495Z",
+  "atualizadoEm": "2026-11-05T00:18:18.012Z",
   "hoje": "2026-11-04",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
@@ -12,16 +12,12 @@
     "camara/pl-2879-2011",
     "camara/pl-1932-2021",
     "camara/pl-3099-2019",
-    "camara/pl-3220-2019",
     "camara/pl-79-2020",
     "camara/pl-2994-2020",
     "camara/pl-2726-2022",
     "camara/pl-2374-2023",
-    "camara/pl-5902-2023",
     "camara/pl-2475-2025",
-    "camara/pl-3220-2025",
     "camara/pl-4159-2025",
-    "camara/pl-5815-2025",
     "camara/pl-5542-2026",
     "camara/pl-565-2020",
     "camara/pl-5974-2023"
@@ -36,8 +32,7 @@
       "senado/pl-1809-2026",
       "camara/pl-1005-2026",
       "camara/pl-995-2026",
-      "camara/pl-1001-2026",
-      "camara/pl-9212-2017"
+      "camara/pl-1001-2026"
     ]
   },
   "propostas": {
@@ -245,7 +240,7 @@
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Encaminhamento",
+      "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
         "data": "2026-11-04T14:44",
         "quem": "deputados"
@@ -302,87 +297,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2204495",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-3220-2019": {
-      "slug": "camara/pl-3220-2019",
-      "chave": "camara-2617269",
-      "casa": "camara",
-      "rotulo": "PL 3220/2019",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com…",
-      "tituloCompleto": false,
-      "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, e a Lei nº 14.947, de 2 de agosto de 2024, e dá outras providências.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 3220/19, do senador Weverton, cria regras para o compartilhamento de postes entre empresas de energia elétrica e de telecomunicações. O texto estabelece que a responsabilidade pela gestão dos postes será da empresa de energia elétrica, proprietária da estrutura. Outras empresas interessadas em usar os postes deverão firmar contrato com essa empresa. Agências reguladoras A proposta prevê as competências e responsabilidades das duas agências reguladoras, Agência Nacional de Energia Elétrica (Aneel) e Agência Nacional de Telecomunicações (Anatel), no compartilhamento de postes. Entre as competências e responsabilidades da Aneel, estão: definir a parcela da infraestrutura física aérea de distribuição de energia elétrica a ser compartilhada; estabelecer as obrigações dos envolvidos no compartilhamento; determinar o valor máximo a ser cobrado pelo compartilhamento; e estabelecer diretrizes para o preço, como incentivo à concorrência, uso eficiente da infraestrutura e remuneração adequada do titular. Caberá à Anatel, entre outras atribuições: estabelecer termos técnicos e operacionais complementares à ocupação da infraestrutura; garantir isonomia no acesso; fomentar a concorrência entre os interessados; e sugerir à Aneel metodologias para cálculo do valor máximo do compartilhamento. Segundo o senador Weverton, atualmente as concessionárias de energia elétrica não acatam todas as determinações das normas setoriais, causando um desequilíbrio prejudicial na relação contratual com as prestadoras de serviços de telecomunicações. \"É necessário regularizar o compartilhamento de postes por intermédio de lei específica, que poderá solucionar problemas críticos e viabilizar uma relação justa e isonômica entre as partes envolvidas\", disse. O valor máximo cobrado provisoriamente pelo uso compartilhado de postes, a ser definido pelo Executivo durante o período de regularização, terá validade até a definição do valor definitivo pela Aneel. Sanções O projeto classifica como infração grave o uso do poste por prestadora de serviços de telecomunicação sem contrato com a titular da estrutura. Nesse caso, poderá ser declarada a caducidade do serviço (fim do contrato de concessão, autorização ou permissão) como sanção. Recursos do Fiis O projeto destina recursos para infraestrutura de redes aéreas e subterrâneas compartilhadas de serviços essenciais, incluindo distribuição de energia elétrica, telecomunicações, iluminação pública e sistemas de videomonitoramento urbano. Os recursos virão do Fundo de Investimento em Infraestrutura Social (Fiis), criado pela Lei 14.947/24. O Fiis é constituído por recursos do Orçamento da União, além de convênios com órgãos públicos e empréstimos de instituições financeiras. Atualmente, a lei que rege o Fiis prevê a aplicação dos recursos nas áreas de educação, saúde e segurança pública. Próximos passos A proposta ainda não foi distribuída às comissões da Câmara. Como teve a urgência aprovada, poderá ser analisada diretamente pelo Plenário. Para virar lei, precisa ser aprovada pela Câmara e pelo Senado.",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1294330-projeto-estabelece-regras-para-uso-de-postes-por-empresas-de-energia-e-teles"
-      },
-      "origem": "senado",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-04T14:44",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 4/11",
-      "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 7,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 7,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2617269",
-        "pergunta": "Qual sua opinião sobre o PL 3220/2019?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-05-19",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2026-04-16",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617269",
       "votosPeriodo": {
         "semana": null
       }
@@ -570,7 +484,7 @@
       },
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "situacaoOficial": "Aguardando Parecer",
       "votacao": {
         "data": "2026-11-04T14:44",
         "quem": "deputados"
@@ -728,87 +642,6 @@
         "semana": null
       }
     },
-    "camara/pl-5902-2023": {
-      "slug": "camara/pl-5902-2023",
-      "chave": "camara-2410357",
-      "casa": "camara",
-      "rotulo": "PL 5902/2023",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera o Decreto-Lei nº 2848, de 07 de dezembro de 1940 – Código Penal, para dispor sobre o uso de drones no espaço aéreo dos presídios.",
-      "tituloCompleto": true,
-      "ementa": "Altera o Decreto-Lei nº 2848, de 07 de dezembro de 1940 – Código Penal, para dispor sobre o uso de drones no espaço aéreo dos presídios.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 5902/23 altera o Código Penal para prever pena de 1 a 5 anos de reclusão e multa para quem utilizar drones para entregar objetos a detentos em presídios. A Câmara dos Deputados analisa a proposta. O deputado Kim Kataguiri (União-SP), autor do projeto, argumenta que “os drones têm sido uma alternativa para a entrega de itens ilícios em presídios brasileiros, como celulares, drogas e até armas”. Ele destaca que, desde 2018, foram registradas mais de 700 ocorrências de drones invadindo o espaço aéreo de presídios em 20 estados brasileiros. Mato Grosso lidera com 235 episódios. “Um drone de grande porte foi apreendido, em outubro de 2023, enquanto sobrevoava um presídio em Tremembé, em São Paulo, levando um pacote com celulares, drogas e outros objetos para detentos. Ninguém foi preso”, lembra o parlamentar. Tramitação A proposta será analisada pela Comissão de Constituição e Justiça e de Cidadania (CCJ). Depois, seguirá para discussão e votação no Plenário. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1037692-projeto-preve-ate-5-anos-de-prisao-para-quem-invadir-espaco-aereo-de-presidios-com-drone"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-04T14:44",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 4/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 10,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 11,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2410357",
-        "pergunta": "Qual sua opinião sobre o PL 5902/2023?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-04-08",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2023-12-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2410357",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-2475-2025": {
       "slug": "camara/pl-2475-2025",
       "chave": "camara-2515534",
@@ -848,10 +681,10 @@
         }
       ],
       "enquete": {
-        "favor": 162,
+        "favor": 163,
         "contra": 1,
         "indecisos": 0,
-        "total": 163,
+        "total": 164,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2515534",
         "pergunta": "Qual sua opinião sobre o PL 2475/2025?",
@@ -879,84 +712,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515534",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-3220-2025": {
-      "slug": "camara/pl-3220-2025",
-      "chave": "camara-2531613",
-      "casa": "camara",
-      "rotulo": "PL 3220/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Institui o Dia Nacional da Consolidação da Independência do Brasil.",
-      "tituloCompleto": true,
-      "ementa": "Institui o Dia Nacional da Consolidação da Independência do Brasil.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Encaminhamento",
-      "votacao": {
-        "data": "2026-11-04T14:44",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 4/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 3,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 4,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2531613",
-        "pergunta": "Qual sua opinião sobre o PL 3220/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-10-13",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-07-02",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2025-07-01",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531613",
       "votosPeriodo": {
         "semana": null
       }
@@ -1043,87 +798,6 @@
         "semana": null
       }
     },
-    "camara/pl-5815-2025": {
-      "slug": "camara/pl-5815-2025",
-      "chave": "camara-2584437",
-      "casa": "camara",
-      "rotulo": "PL 5815/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Institui e cria o Programa Nacional de Acompanhamento Anual Pediátrico/Médico e Emocional/Psicossocial da Infância e Adolescência - PNAPE, com o…",
-      "tituloCompleto": false,
-      "ementa": "Institui e cria o Programa Nacional de Acompanhamento Anual Pediátrico/Médico e Emocional/Psicossocial da Infância e Adolescência - PNAPE, com o objetivo de colocar crianças e adolescentes, os filhos da sociedade brasileira, a salvo das mais  diversas forma de transtorno mental, negligência, discriminação, exploração, violência, automutilação, crueldade, opressão, tráfico humano e especialmente prevenindo abuso e exploração sexual (Lei Augusto Cury). A partir da Lei Augusto Cury o Estado brasileiro não será apenas o  responsável teórico pelo desenvolvimento saudável dos seus filhos, mas acompanhará anualmente este desenvolvimento! Os predadores sexuais, em destaque, saberão que o Estado Brasileiro estará de olho em suas crianças e adolescentes através de escuta ativa e periódica.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 5815/25 cria o Programa Nacional de Acompanhamento Anual Pediátrico e Emocional (Pnape), que prevê avaliações obrigatórias, feitas uma vez por ano, para monitorar a saúde física e emocional de crianças e adolescentes. O objetivo da proposta, apelidada de \"Lei Augusto Cury\", é avaliar a evolução da saúde dessa parcela da população e prevenir situações de abandono, maus tratos, abuso, exploração sexual ou tráfico humano a partir da análise precoce de fatores de risco. Pelo projeto, o acompanhamento será obrigatório e realizado anualmente. Os resultados terão caráter preventivo e clínico e serão compartilhados apenas com os pais ou responsáveis, sempre sob sigilo profissional. Em situações específicas, os profissionais poderão recomendar acompanhamento mais frequente ou indicar tratamento médico ou psicológico, se julgarem necessário. Caso haja suspeita de negligência, violência, crueldade, opressão ou abuso sexual, o fato deverá ser comunicado pelos profissionais, de forma sigilosa, ao Ministério Público e ao Conselho Tutelar, para adoção das medidas de proteção. Monitoramento contínuo Segundo a autora, deputada Rosângela Reis (PL-MG), o projeto é inspirado nos estudos do psiquiatra Augusto Cury, que defendem a gestão das emoções como ferramenta de proteção e cidadania. Ela afirma que o acompanhamento regular fortalece a rede pública de proteção e dificulta a ação de abusadores. “Além de promover o desenvolvimento emocional saudável, a medida fortalece os mecanismos de proteção contra abusos sexuais, assédios, exploração e tráfico humano, inibindo potenciais predadores em razão do cuidado permanente da rede pública de proteção”, diz a deputada. Pais e responsáveis Pelo texto, se pais ou responsáveis deixarem de levar a criança ou o adolescente para realizar as avaliações obrigatórias por mais de 60 dias, sem justificativa, o fato será comunicado ao Ministério Público e ao Conselho Tutelar. Nesses casos, poderão ser aplicadas medidas de proteção previstas no Estatuto da Criança e do Adolescente (ECA). Benefícios sociais, como o Bolsa Família, poderão ser suspensos até a regularização da situação. Para crianças de até 12 anos, a escola deverá exigir o comprovante das avaliações no momento da matrícula. Omissão Por fim, o texto também prevê punição para quem deixar de comunicar às autoridades casos de violência, tratamento cruel, disciplina violenta ou abandono de criança ou adolescente. A pena prevista é de detenção de 6 meses a 3 anos. Essa pena aumenta o equivalente à metade se houver lesão corporal grave e é triplicada se resultar em morte. Quando o crime for cometido por pais ou responsáveis, parentes até o 3º grau, tutor, guardião, padrasto ou madrasta, a pena será aplicada em dobro. Próximas etapas A proposta será analisada pelas comissões de Previdência, Assistência Social, Infância, Adolescência e Família; de Saúde; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Depois, será analisada pelo Plenário. Para virar lei, o texto deve ser aprovado pela Câmara e pelo Senado. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1238150-proposta-cria-programa-de-acompanhamento-da-saude-mental-de-criancas-e-adolescentes"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-04T14:44",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 4/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 3046,
-        "contra": 67,
-        "indecisos": 4,
-        "total": 3117,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2584437",
-        "pergunta": "Qual sua opinião sobre o PL 5815/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-06-09",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-11-12",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584437",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-5542-2026": {
       "slug": "camara/pl-5542-2026",
       "chave": "camara-2647427",
@@ -1137,7 +811,7 @@
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Encaminhamento",
+      "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
         "data": "2026-11-04T14:44",
         "quem": "deputados"
@@ -1395,10 +1069,10 @@
         }
       ],
       "enquete": {
-        "favor": 573,
-        "contra": 97020,
+        "favor": 581,
+        "contra": 97792,
         "indecisos": 34,
-        "total": 97627,
+        "total": 98407,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1462,10 +1136,10 @@
         }
       ],
       "enquete": {
-        "favor": 1206,
-        "contra": 121810,
+        "favor": 1227,
+        "contra": 123088,
         "indecisos": 38,
-        "total": 123054,
+        "total": 124353,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1529,10 +1203,10 @@
         }
       ],
       "enquete": {
-        "favor": 137,
-        "contra": 27682,
+        "favor": 143,
+        "contra": 28950,
         "indecisos": 17,
-        "total": 27836,
+        "total": 29110,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1596,10 +1270,10 @@
         }
       ],
       "enquete": {
-        "favor": 149,
-        "contra": 12935,
-        "indecisos": 13,
-        "total": 13097,
+        "favor": 170,
+        "contra": 14678,
+        "indecisos": 14,
+        "total": 14862,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1663,10 +1337,10 @@
         }
       ],
       "enquete": {
-        "favor": 1254,
-        "contra": 62502,
+        "favor": 1262,
+        "contra": 63902,
         "indecisos": 40,
-        "total": 63796,
+        "total": 65204,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1690,80 +1364,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-9212-2017": {
-      "slug": "camara/pl-9212-2017",
-      "chave": "camara-2163674",
-      "casa": "camara",
-      "rotulo": "PL 9212/2017",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a legislação eleitoral para instituir o voto distrital misto nas eleições proporcionais.",
-      "tituloCompleto": true,
-      "ementa": "Altera a legislação eleitoral para instituir o voto distrital misto nas eleições proporcionais.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "A Câmara dos Deputados analisa proposta que institui o voto distrital misto nas eleições proporcionais (PL 9212/17, do Senado). Se aprovadas, as regras serão aplicadas para a escolha de vereadores e deputados estaduais, distritais e federais. O sistema distrital misto combina o voto proporcional com o distrital. De acordo com a proposta, o eleitor vai fazer duas escolhas na urna: o candidato de seu respectivo distrito e o partido de sua preferência. As cadeiras das casas legislativas serão preenchidas primeiramente pelos candidatos eleitos pelo voto distrital. Esgotadas essas vagas, as cadeiras remanescentes serão distribuídas entre candidatos dos partidos mais bem votados. De acordo com o texto, o número de representantes distritais deve corresponder à metade do número de cadeiras de cada circunscrição, arredondando-se para baixo no caso de números fracionários. Por exemplo: no caso de um estado com nove cadeiras de deputado federal, quatro serão escolhidos na modalidade do voto distrital. A proposta, que altera o Código Eleitoral (Lei 4.737/65) e a Lei das Eleições (Lei 9.504/97), delega à Justiça Eleitoral a missão de demarcar os distritos, que precisam ser geograficamente contíguos. A divisão deve seguir como critério o número de habitantes. Tramitação A proposta será analisada pela Comissão de Constituição e Justiça e de Cidadania e depois seguirá para o Plenário.",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/536698-proposta-do-senado-institui-o-voto-distrital-misto-nas-eleicoes-proporcionais"
-      },
-      "origem": "senado",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Parecer",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 77,
-        "contra": 4855,
-        "indecisos": 2,
-        "total": 4934,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2163674",
-        "pergunta": "Qual sua opinião sobre o PL 9212/2017?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2017-11-29",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2163674",
       "votosPeriodo": {
         "semana": null
       }
@@ -1804,10 +1404,10 @@
         }
       ],
       "enquete": {
-        "favor": 171,
-        "contra": 14494,
+        "favor": 190,
+        "contra": 15915,
         "indecisos": 13,
-        "total": 14678,
+        "total": 16118,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1888,9 +1488,9 @@
       ],
       "enquete": {
         "favor": 112,
-        "contra": 6,
+        "contra": 7,
         "indecisos": 0,
-        "total": 118,
+        "total": 119,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -1920,17 +1520,10 @@
       "titulo": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma…",
       "tituloCompleto": false,
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma disposta na Constituição Federal.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta modifica a legislação para alinhar a obrigatoriedade da educação básica à Constituição Federal. Ela estabelece que a educação básica gratuita deve ser oferecida a todas as crianças e adolescentes dos 4 aos 17 anos. A proposta também prevê programas de apoio, como fornecimento de material escolar, transporte, alimentação e assistência à saúde.",
-        "pontos": [],
-        "introPontos": "As possíveis consequências da proposta incluem maior alinhamento entre o Estatuto da Criança e do Adolescente e a Constituição Federal, trazendo mais clareza sobre a faixa etária da educação básica obrigatória. A medida também pode fortalecer ações de acompanhamento escolar, incentivar estratégias para reinserção de estudantes fora da escola e facilitar a aplicação uniforme das regras educacionais pelos órgãos públicos e pelas instituições de ensino.",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172593"
-      },
+      "explicacao": null,
       "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "etapa": "encerrada",
+      "situacaoOficial": "APROVADA",
       "votacao": {
         "data": "2026-11-04T14:00",
         "quem": "senadores"
@@ -1940,11 +1533,11 @@
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "feito"
+          "estado": "falta"
         },
         {
           "rotulo": "Senadores",
-          "estado": "atual"
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -1955,23 +1548,10 @@
           "estado": "falta"
         }
       ],
-      "enquete": {
-        "favor": 3,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 3,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172593",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
+      "enquete": null,
       "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
+        "enquete": false,
+        "falarCom": null
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172593",
@@ -1991,8 +1571,8 @@
       "ementa": "Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre Cooperação na Área de Educação, assinado em Zagreb, em 14 de fevereiro de 2023.",
       "explicacao": null,
       "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "etapa": "encerrada",
+      "situacaoOficial": "APROVADA",
       "votacao": {
         "data": "2026-11-04T14:00",
         "quem": "senadores"
@@ -2002,11 +1582,11 @@
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "feito"
+          "estado": "falta"
         },
         {
           "rotulo": "Senadores",
-          "estado": "atual"
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -2017,23 +1597,10 @@
           "estado": "falta"
         }
       ],
-      "enquete": {
-        "favor": 4,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 4,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=168799",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
+      "enquete": null,
       "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
+        "enquete": false,
+        "falarCom": null
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168799",
@@ -2053,8 +1620,8 @@
       "ementa": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições Internacionais, alterado pelas Emendas de 24 de junho de 1982 e de 31 de maio de 1988.",
       "explicacao": null,
       "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "etapa": "encerrada",
+      "situacaoOficial": "APROVADA",
       "votacao": {
         "data": "2026-11-04T14:00",
         "quem": "senadores"
@@ -2064,11 +1631,11 @@
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "feito"
+          "estado": "falta"
         },
         {
           "rotulo": "Senadores",
-          "estado": "atual"
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -2079,23 +1646,10 @@
           "estado": "falta"
         }
       ],
-      "enquete": {
-        "favor": 4,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 4,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171234",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
+      "enquete": null,
       "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
+        "enquete": false,
+        "falarCom": null
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171234",
@@ -2115,8 +1669,8 @@
       "ementa": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de 2011, durante a XLII Reunião Ordinária do Conselho do Mercado Comum.",
       "explicacao": null,
       "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "etapa": "encerrada",
+      "situacaoOficial": "APROVADA",
       "votacao": {
         "data": "2026-11-04T14:00",
         "quem": "senadores"
@@ -2126,11 +1680,11 @@
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "feito"
+          "estado": "falta"
         },
         {
           "rotulo": "Senadores",
-          "estado": "atual"
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -2141,23 +1695,10 @@
           "estado": "falta"
         }
       ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 2,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174759",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
+      "enquete": null,
       "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
+        "enquete": false,
+        "falarCom": null
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174759",
@@ -2208,10 +1749,10 @@
         }
       ],
       "enquete": {
-        "favor": 38083,
-        "contra": 190,
+        "favor": 43221,
+        "contra": 253,
         "indecisos": 0,
-        "total": 38273,
+        "total": 43474,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -2274,10 +1815,10 @@
         }
       ],
       "enquete": {
-        "favor": 531028,
-        "contra": 81656,
+        "favor": 532292,
+        "contra": 81679,
         "indecisos": 0,
-        "total": 612684,
+        "total": 613971,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871",
         "pergunta": "Você apoia essa proposição?",
