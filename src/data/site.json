@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T07:49:38.473Z",
+  "atualizadoEm": "2026-11-05T17:58:01.389Z",
   "hoje": "2026-11-05",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
@@ -20,14 +20,15 @@
   "emAlta": {
     "porSemana": false,
     "itens": [
-      "senado/mpv-1394-2026",
       "camara/pl-994-2026",
       "camara/pec-2-2025",
       "camara/pl-1007-2026",
       "senado/pl-1809-2026",
       "camara/pl-1005-2026",
+      "camara/pl-1424-2026",
       "camara/pl-995-2026",
-      "camara/pl-1001-2026"
+      "camara/pl-1001-2026",
+      "senado/pec-13-2022"
     ]
   },
   "propostas": {
@@ -50,10 +51,10 @@
         "url": "https://www.camara.leg.br/noticias/228202-proposta-reforca-sinalizacao-das-travessias-de-pedestres"
       },
       "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "etapa": "senado",
+      "situacaoOficial": "Aguardando Envio ao Senado Federal",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -61,11 +62,11 @@
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "atual"
+          "estado": "feito"
         },
         {
           "rotulo": "Senadores",
-          "estado": "falta"
+          "estado": "atual"
         },
         {
           "rotulo": "Presidente",
@@ -91,13 +92,17 @@
           "Discordo na maior parte",
           "Discordo totalmente"
         ],
-        "participavel": true
+        "participavel": false
       },
       "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
+        "enquete": false,
+        "falarCom": "senadores"
       },
       "linhaDoTempo": [
+        {
+          "data": "2026-11-05",
+          "texto": "Aprovada pelos deputados"
+        },
         {
           "data": "2026-04-17",
           "texto": "Aprovada pelos deputados"
@@ -125,10 +130,6 @@
         {
           "data": "2015-01-31",
           "texto": "Arquivada"
-        },
-        {
-          "data": "2014-12-10",
-          "texto": "Retirada da pauta de votação"
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=530513",
@@ -148,10 +149,10 @@
       "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar que o abastecimento de medicamentos e de produtos para a saúde nos entes da federação será controlado por meio de sistema integrado de acompanhamento em tempo real do consumo e do estoque.",
       "explicacao": null,
       "origem": "senado",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "etapa": "presidente",
+      "situacaoOficial": "Aguardando Remessa à Sanção",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -163,11 +164,11 @@
         },
         {
           "rotulo": "Deputados",
-          "estado": "atual"
+          "estado": "feito"
         },
         {
           "rotulo": "Presidente",
-          "estado": "falta"
+          "estado": "atual"
         },
         {
           "rotulo": "Vira lei",
@@ -189,13 +190,17 @@
           "Discordo na maior parte",
           "Discordo totalmente"
         ],
-        "participavel": true
+        "participavel": false
       },
       "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
+        "enquete": false,
+        "falarCom": null
       },
       "linhaDoTempo": [
+        {
+          "data": "2026-11-05",
+          "texto": "Aprovada pelos deputados"
+        },
         {
           "data": "2026-08-13",
           "texto": "Aprovada pelos deputados"
@@ -237,7 +242,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -311,7 +316,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -376,7 +381,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -479,9 +484,9 @@
       },
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Parecer",
+      "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -570,7 +575,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -652,7 +657,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -676,10 +681,10 @@
         }
       ],
       "enquete": {
-        "favor": 165,
+        "favor": 167,
         "contra": 1,
         "indecisos": 0,
-        "total": 166,
+        "total": 168,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2515534",
         "pergunta": "Qual sua opinião sobre o PL 2475/2025?",
@@ -726,7 +731,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -806,9 +811,9 @@
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "situacaoOficial": "Aguardando Designação de Relator(a)",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -871,9 +876,9 @@
       },
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "situacaoOficial": "Aguardando Encaminhamento",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -919,6 +924,10 @@
       },
       "linhaDoTempo": [
         {
+          "data": "2026-11-05",
+          "texto": "Aprovada pelos deputados"
+        },
+        {
           "data": "2023-06-20",
           "texto": "Aprovada na comissão CCJC"
         },
@@ -952,9 +961,9 @@
       },
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "situacaoOficial": "Aguardando Encaminhamento",
       "votacao": {
-        "data": "2026-11-05T10:00",
+        "data": "2026-11-05T11:07",
         "quem": "deputados"
       },
       "chip": "Deputados votam quinta, 5/11",
@@ -999,6 +1008,10 @@
         "falarCom": "deputados"
       },
       "linhaDoTempo": [
+        {
+          "data": "2026-11-05",
+          "texto": "Aprovada pelos deputados"
+        },
         {
           "data": "2025-11-06",
           "texto": "Aprovada na comissão CCJC"
@@ -1064,10 +1077,10 @@
         }
       ],
       "enquete": {
-        "favor": 592,
-        "contra": 98344,
-        "indecisos": 34,
-        "total": 98970,
+        "favor": 606,
+        "contra": 100709,
+        "indecisos": 36,
+        "total": 101351,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1131,10 +1144,10 @@
         }
       ],
       "enquete": {
-        "favor": 1236,
-        "contra": 123491,
-        "indecisos": 38,
-        "total": 124765,
+        "favor": 1256,
+        "contra": 125002,
+        "indecisos": 40,
+        "total": 126298,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1198,10 +1211,10 @@
         }
       ],
       "enquete": {
-        "favor": 177,
-        "contra": 15173,
-        "indecisos": 14,
-        "total": 15364,
+        "favor": 197,
+        "contra": 17258,
+        "indecisos": 15,
+        "total": 17470,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1265,10 +1278,10 @@
         }
       ],
       "enquete": {
-        "favor": 149,
-        "contra": 29351,
+        "favor": 159,
+        "contra": 30789,
         "indecisos": 17,
-        "total": 29517,
+        "total": 30965,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1332,10 +1345,10 @@
         }
       ],
       "enquete": {
-        "favor": 1264,
-        "contra": 64329,
+        "favor": 1274,
+        "contra": 65907,
         "indecisos": 41,
-        "total": 65634,
+        "total": 67222,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1359,6 +1372,80 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1424-2026": {
+      "slug": "camara/pl-1424-2026",
+      "chave": "camara-2612333",
+      "casa": "camara",
+      "rotulo": "PL 1424/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "tituloCompleto": true,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "explicacao": {
+        "fonte": "camara",
+        "texto": "O Projeto de Lei 1424/26, da deputada Tabata Amaral (PSB-SP), equipara o antissemitismo ao crime de racismo, com pena de reclusão de 2 a 5 anos e multa, não podendo ter prescrição ou fiança. O texto está em análise na Câmara dos Deputados. \"A proposta contribui para o aprimoramento das políticas públicas e para a consolidação do entendimento já adotado pelos tribunais brasileiros\", defende Tabata Amaral. Segundo o projeto, os atos são antissemitas quando os alvos dos ataques, sejam pessoas ou bens, são selecionados porque são judaicos ou associados aos judeus, incluindo instituições comunitárias e instalações religiosas. As manifestações de antissemitismo podem ter como alvo o Estado de Israel, encarado como uma coletividade judaica. A definição de antissemitismo vale tanto para expressões orais, por escrito, sob forma visual ou por meio de ações. A proposta define a discriminação antissemita como qualquer atitude ou tratamento dado à pessoa ou grupo de pessoas que cause constrangimento, humilhação, vergonha, medo ou exposição indevida, e que usualmente não se dispensaria a outros grupos, em razão da sua condição de judia ou judeu, ou da sua relação com a comunidade judaica. Tabata Amaral nega que a proposta limite a liberdade de expressão. \"Críticas, análises ou posicionamentos sobre fatos políticos, conflitos internacionais ou sobre ações de qualquer governo, incluindo o Estado de Israel enquanto organização político-jurídica soberana e não como coletividade judaica, são legítimos e devem ser preservados\", defende. De acordo com o projeto, críticas a Israel que sejam semelhantes às dirigidas contra qualquer outro país não podem ser consideradas antissemitas. Políticas públicas A proposta determina a orientação de políticas públicas nacionais educativas, preventivas e de monitoramento por meio de exemplos contemporâneos de antissemitismo na vida pública reconhecidos pela Aliança Internacional para a Memória do Holocausto, para melhor interpretação da definição estabelecida. Entre esses exemplos estão: incitar, ajudar a cometer ou justificar violência, assassinato ou danos contra judeus em nome de ideologia radical, extremismo religioso ou argumentos desumanizantes; propagar alegações injuriosas, difamatórias ou caluniosas, desumanizantes ou estereotipadas sobre judeus; responsabilizar coletivamente os judeus, como povo, por atos reais ou imaginários; negar o fato histórico, a escala ou a intencionalidade do genocídio de judeus durante o Holocausto; sustentar que o Holocausto é invenção ou exagero; afirmar que cidadãos judeus seriam mais leais a Israel, ou a prioridades internacionais judaicas, do que à sua própria nação; negar o direito à autodeterminação do povo judeu, utilizar símbolos, imagens ou narrativas atreladas ao antissemitismo clássico; efetuar comparações entre as políticas israelenses e a dos nazistas; imputar aos judeus, de forma coletiva, responsabilidade por ações praticadas pelo Estado de Israel. Próximos passos O projeto foi apresentado pela autora com o apoio de outros 44 deputados, mas 9 deles pediram depois a retirada de suas assinaturas da proposta. O texto será distribuído para análise das comissões da Câmara. Saiba mais sobre a tramitação de projetos de lei",
+        "pontos": [],
+        "introPontos": "",
+        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
+        "url": "https://www.camara.leg.br/noticias/1261955-projeto-equipara-antissemitismo-a-crime-de-racismo"
+      },
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Designação de Relator(a)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 2613,
+        "contra": 15857,
+        "indecisos": 7,
+        "total": 18477,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2612333",
+        "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-26",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
         "semana": null
       }
@@ -1399,10 +1486,10 @@
         }
       ],
       "enquete": {
-        "favor": 199,
-        "contra": 16344,
+        "favor": 217,
+        "contra": 17908,
         "indecisos": 13,
-        "total": 16556,
+        "total": 18138,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1473,10 +1560,10 @@
         }
       ],
       "enquete": {
-        "favor": 44458,
-        "contra": 284,
+        "favor": 49394,
+        "contra": 699,
         "indecisos": 0,
-        "total": 44742,
+        "total": 50093,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1496,27 +1583,32 @@
         "semana": null
       }
     },
-    "senado/mpv-1394-2026": {
-      "slug": "senado/mpv-1394-2026",
-      "chave": "senado-175871",
+    "senado/pec-13-2022": {
+      "slug": "senado/pec-13-2022",
+      "chave": "senado-153397",
       "casa": "senado",
-      "rotulo": "MPV 1394/2026",
-      "tipo": "Medida provisória",
-      "sigla": "MPV",
-      "titulo": "Proibição das bets no Brasil",
+      "rotulo": "PEC 13/2022",
+      "tipo": "Mudança na Constituição",
+      "sigla": "PEC",
+      "titulo": "Define como Instituições permanentes de Estado o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA e o Instituto Chico…",
       "tituloCompleto": false,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização\nda Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "ementa": "Define como Instituições permanentes de Estado o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA e o Instituto Chico Mendes de Conservação da Biodiversidade – ICMBio, e dá outras providências.",
       "explicacao": {
         "fonte": "senado",
-        "texto": ": A medida proíbe as apostas de quota fixa (apostas com prêmio definido por um multiplicador), incluindo apostas esportivas e jogos on-line. Ela encerra as autorizações existentes em 30 dias, exige a devolução de saldos e prêmios aos apostadores e proíbe publicidade, patrocínio e pagamentos ligados a essas apostas. Também prevê bloqueio de sites e aplicativos, fiscalização conjunta de órgãos públicos e sanções para empresas que descumprirem as regras.",
-        "pontos": [],
-        "introPontos": "Segundo o autor, a medida poderá reduzir os efeitos econômicos, sociais e de saúde associados às apostas, especialmente o endividamento das famílias, os problemas de saúde mental e a exposição de crianças e adolescentes. A medida também poderá interromper a transferência de recursos das famílias para plataformas de apostas e reduzir efeitos sobre o consumo, a arrecadação tributária e a distribuição de renda. Durante a transição, os apostadores deverão receber os valores devidos, enquanto operadores continuarão responsáveis por obrigações tributárias, regulatórias e de prevenção à lavagem de dinheiro. O autor estima redução de receitas tributárias e de taxas de fiscalização para o governo.",
+        "texto": "A proposta visa alterar a Constituição Federal para definir o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) e o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) como instituições permanentes de Estado. A proposta também garante a essas instituições autonomia funcional, técnica, administrativa, financeira, orçamentária e patrimonial, além de estabelecer mandatos de quatro anos para seus dirigentes, que podem ser reconduzidos uma vez.",
+        "pontos": [
+          "Para o IBAMA e o ICMBio, haverá maior estabilidade e independência para realizar suas funções de proteção ambiental, com autonomia garantida em várias áreas.",
+          "Para os servidores dessas instituições, haverá reconhecimento de suas carreiras e cargos como típicos de Estado, o que pode trazer mais segurança e valorização profissional.",
+          "Para o governo federal, a proposta exigirá a nomeação de dirigentes com critérios técnicos e a aprovação pelo Senado, o que pode aumentar a transparência e a eficiência na gestão ambiental.",
+          "Para a sociedade, a medida pode resultar em uma proteção ambiental mais eficaz e consistente, contribuindo para a preservação dos recursos naturais e da biodiversidade no Brasil."
+        ],
+        "introPontos": "As possíveis consequências dessa proposta são diversas:",
         "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871"
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397"
       },
       "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO INSTALAÇÃO DA COMISSÃO",
+      "situacaoOficial": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
       "votacao": null,
       "chip": "No Senado",
       "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
@@ -1530,21 +1622,21 @@
           "estado": "falta"
         },
         {
-          "rotulo": "Presidente",
+          "rotulo": "Promulgação",
           "estado": "falta"
         },
         {
-          "rotulo": "Vira lei",
+          "rotulo": "Na Constituição",
           "estado": "falta"
         }
       ],
       "enquete": {
-        "favor": 532744,
-        "contra": 81686,
+        "favor": 8826,
+        "contra": 100,
         "indecisos": 0,
-        "total": 614430,
+        "total": 8926,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175871",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -1557,7 +1649,7 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175871",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/153397",
       "votosPeriodo": {
         "semana": null
       }
