@@ -1,22 +1,9 @@
 {
-  "atualizadoEm": "2026-11-05T17:58:01.389Z",
-  "hoje": "2026-11-05",
-  "pautaCamaraPublicada": true,
+  "atualizadoEm": "2026-11-06T17:22:20.783Z",
+  "hoje": "2026-11-06",
+  "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
-  "vemAi": [
-    "camara/pl-2879-2011",
-    "camara/pl-1932-2021",
-    "camara/pl-3099-2019",
-    "camara/pl-79-2020",
-    "camara/pl-2994-2020",
-    "camara/pl-2726-2022",
-    "camara/pl-2374-2023",
-    "camara/pl-2475-2025",
-    "camara/pl-4159-2025",
-    "camara/pl-5542-2026",
-    "camara/pl-565-2020",
-    "camara/pl-5974-2023"
-  ],
+  "vemAi": [],
   "emAlta": {
     "porSemana": false,
     "itens": [
@@ -32,1008 +19,6 @@
     ]
   },
   "propostas": {
-    "camara/pl-2879-2011": {
-      "slug": "camara/pl-2879-2011",
-      "chave": "camara-530513",
-      "casa": "camara",
-      "rotulo": "PL 2879/2011",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a sinalização vertical da travessia…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a sinalização vertical da travessia de pedestre.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "Tramita na Câmara o Projeto de Lei 2879/11, do deputado Luis Tibé (PTdoB-MG), que reforça a sinalização das travessias de pedestre. Atualmente, o Código de Trânsito Brasileiro exige apenas que as travessias sejam sinalizadas com faixas pintadas no chão. O projeto acrescenta que, nas travessias onde houver semáforos, estes deverão ter sinalização específica para pedestres: figuras humanas nas cores vermelha e verde, sincronizadas a contador digital regressivo e sinalizador sonoro diferenciado para os comandos de parar e seguir. A implantação dessa sinalização deverá ser progressiva, atingindo 25% do total de semáforos a cada três anos, de forma cumulativa, de modo que seja completada em 12 anos. Conforme o projeto, o agente público que descumprir essas determinações incorre em improbidade administrativa. “A visualização regressiva do tempo disponível de retenção ou de liberação para a travessia é determinante na decisão dessas pessoas de passar ou parar, conforme a condição de mobilidade de cada um. Para o deficiente visual, o apelo sonoro representa uma ferramenta apropriada e fundamental à sua independência e locomoção segura”, afirma Luiz Tibé. Tramitação O projeto será analisado pelas comissões de Viação e Transportes; e de Constituição e Justiça e de Cidadania. Depois, seguirá para o Plenário.",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/228202-proposta-reforca-sinalizacao-das-travessias-de-pedestres"
-      },
-      "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "Aguardando Envio ao Senado Federal",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 5,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 6,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/530513",
-        "pergunta": "Qual sua opinião sobre o PL 2879/2011?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": false
-      },
-      "acoes": {
-        "enquete": false,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-05",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2026-04-17",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2021-12-16",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2019-01-31",
-          "texto": "Arquivada"
-        },
-        {
-          "data": "2017-08-16",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2015-10-07",
-          "texto": "Aprovada na comissão CVT"
-        },
-        {
-          "data": "2015-09-30",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2015-01-31",
-          "texto": "Arquivada"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=530513",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-1932-2021": {
-      "slug": "camara/pl-1932-2021",
-      "chave": "camara-2305879",
-      "casa": "camara",
-      "rotulo": "PL 1932/2021",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar que o abastecimento de medicamentos e de produtos para a saúde nos entes da…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar que o abastecimento de medicamentos e de produtos para a saúde nos entes da federação será controlado por meio de sistema integrado de acompanhamento em tempo real do consumo e do estoque.",
-      "explicacao": null,
-      "origem": "senado",
-      "etapa": "presidente",
-      "situacaoOficial": "Aguardando Remessa à Sanção",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 3,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 3,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2305879",
-        "pergunta": "Qual sua opinião sobre o PL 1932/2021?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": false
-      },
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-05",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2026-08-13",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2023-04-18",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2022-06-21",
-          "texto": "Aprovada na comissão CSAUDE"
-        },
-        {
-          "data": "2022-06-14",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2021-11-05",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2305879",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-3099-2019": {
-      "slug": "camara/pl-3099-2019",
-      "chave": "camara-2204495",
-      "casa": "camara",
-      "rotulo": "PL 3099/2019",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Institui no calendário nacional o \"Dia Nacional do Autocuidado\".",
-      "tituloCompleto": true,
-      "ementa": "Institui no calendário nacional o \"Dia Nacional do Autocuidado\".",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-10-28",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2026-08-14",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2025-08-26",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2025-05-21",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2024-06-05",
-          "texto": "Aprovada na comissão CSAUDE"
-        },
-        {
-          "data": "2019-05-22",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2204495",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-79-2020": {
-      "slug": "camara/pl-79-2020",
-      "chave": "camara-2596596",
-      "casa": "camara",
-      "rotulo": "PL 79/2020",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de…",
-      "tituloCompleto": false,
-      "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA).",
-      "explicacao": null,
-      "origem": "senado",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-10-13",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-12-12",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2596596",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-2994-2020": {
-      "slug": "camara/pl-2994-2020",
-      "chave": "camara-2254065",
-      "casa": "camara",
-      "rotulo": "PL 2994/2020",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 11.771, de 17 de setembro de 2008, para dispor sobre o Turismo Colaborativo.",
-      "tituloCompleto": true,
-      "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008, para dispor sobre o Turismo Colaborativo.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 2994/20 altera a Lei do Turismo para regulamentar a prática, no Brasil, do turismo colaborativo – sistema que permite ao hóspede pagar parcial ou totalmente sua estada por meio da prestação de serviços no estabelecimento hoteleiro. O texto tramita na Câmara dos Deputados. Na prática, o projeto define regras mínimas para situações em que o viajante com formação, conhecimento ou habilidade em determinada área possa utilizar esses recursos em troca de hospedagens em hotéis, pousadas e estabelecimentos similares de todo o País. Conforme o projeto, o turismo colaborativo depende de um contrato de troca de experiências que defina as contrapartidas de cada parte e as datas de início e fim da experiência. O texto obriga ainda os contratantes a firmar parcerias com entidades ou associações beneficentes locais, a fim de destinar 20% do tempo total da experiência a essas entidades. Em nenhuma hipótese, segundo o projeto, as relações decorrentes da prática do turismo colaborativo configuram vínculo empregatício. Autores do projeto, os deputados Paulo Ganime (Novo-RJ) e Adriana Ventura (Novo-SP) afirmam que o objetivo é regular o turismo colaborativo para que ele possa se desenvolver de forma segura, tanto para empresários quanto para viajantes. \"A relação colaborativa entre viajantes e empresários não se destina apenas a economizar dinheiro. Há vantagens para o empresário, mas também para o destino turístico, que poderá receber uma categoria de turista que, normalmente, não seria capaz de viajar. Para o viajante, há a chance de experimentar outras culturas, de praticar novos idiomas e de conhecer lugares e pessoas”, diz a justificativa que acompanha o projeto. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/713402-projeto-regulamenta-o-turismo-colaborativo-no-brasil"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 43,
-        "contra": 1,
-        "indecisos": 1,
-        "total": 45,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2254065",
-        "pergunta": "Qual sua opinião sobre o PL 2994/2020?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-06-16",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2024-06-13",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2023-04-24",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2022-12-14",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2021-09-22",
-          "texto": "Aprovada na comissão CDE"
-        },
-        {
-          "data": "2021-05-27",
-          "texto": "Aprovada na comissão CTUR"
-        },
-        {
-          "data": "2021-05-20",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2021-04-29",
-          "texto": "Retirada da pauta de votação"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2254065",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-2726-2022": {
-      "slug": "camara/pl-2726-2022",
-      "chave": "camara-2336566",
-      "casa": "camara",
-      "rotulo": "PL 2726/2022",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Institui a Política Nacional de Convivência Sociocultural e Economia Solidária (PNCS).",
-      "tituloCompleto": true,
-      "ementa": "Institui a Política Nacional de Convivência Sociocultural e Economia Solidária (PNCS).",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 2726/22 institui, no âmbito do Sistema Único de Saúde (SUS), a Política Nacional de Convivência Sociocultural e Economia Solidária (PNCS), com o objetivo de criar espaços facilitadores para o convívio humano. A proposta tramita na Câmara dos Deputados. Segundo o texto, a política será desenvolvida por equipes multidisciplinares por meio de atividades coletivas com grupos heterogêneos – conjunto de pessoas de qualquer idade, gênero, etnia, raça, credo, escolaridade, independentemente da condição econômica, social, cultural ou de saúde. Os serviços da PNCS serão prestados em \"centros de convivência, cultura e economia solidária\", os quais deverão ser implementados por municípios e pelo Distrito Federal, preferencialmente, em parques, praças, centros esportivos, áreas de lazer, centros culturais, centros comunitários ou outro espaço de acesso livre e gratuito. A deputada Luiza Erundina (Psol-SP), autora do projeto, explica que a inspiração vem dos Centros de Convivência e Cooperativa (CeCCos), implementados pela prefeitura de São Paulo entre 1989 e 1992. “O conceito de ‘centro de convivência’ fundamenta-se na promoção pelo poder público de uma cultura de alianças, de vizinhança, de amizade, ou seja, uma cultura do encontro, do acolhimento, destinada – embora não exclusivamente – àquelas pessoas que se encontram com algum grau de vulnerabilidade social ou de saúde”, explica. A política define vulnerabilidade social ou de saúde como “processos acentuados de discriminação, de exclusão social, econômica e cultural de grupos ou indivíduos”, sobretudo em razão de pobreza, trabalho precário, baixo nível educacional, moradia precária, orientação sexual, crença, raça, etnia, deficiência, síndrome, entre outros. Educação permanente De acordo com a PNCS, os centros de convivência poderão instituir programas de educação permanente e estabelecer parcerias com instituições de ensino, pesquisa e extensão, oferecendo campos de estágio e cenários de prática para estudantes e residentes de diversas profissões. Os centros poderão também acessar recursos de fundos públicos e de pesquisa, notadamente da cultura, da saúde, dos direitos da criança e do adolescente, da pessoa idosa e de conservação ambiental, visando captar recursos para formação, estudos, pesquisas, oficinas e atividades econômicas solidárias com aquisição de recursos materiais e humanos, entre outros. Por fim, o projeto autoriza o Executivo a instituir o Imposto sobre Grandes Fortunas (IGF), a fim de que uma parcela do imposto possa financiar o PNCS. Tramitação O projeto será analisado, em caráter conclusivo, pelas comissões de Seguridade Social e Família; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/920220-projeto-estabelece-politica-nacional-para-incentivar-a-criacao-de-centros-de-convivencia"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 8,
-        "contra": 1,
-        "indecisos": 1,
-        "total": 10,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2336566",
-        "pergunta": "Qual sua opinião sobre o PL 2726/2022?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-08-12",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2026-08-12",
-          "texto": "Aprovada na comissão CFT"
-        },
-        {
-          "data": "2024-12-04",
-          "texto": "Aprovada na comissão CSAUDE"
-        },
-        {
-          "data": "2022-11-05",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2336566",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-2374-2023": {
-      "slug": "camara/pl-2374-2023",
-      "chave": "camara-2360367",
-      "casa": "camara",
-      "rotulo": "PL 2374/2023",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei n.º 11.947, de 16 de junho de 2009 e a Lei n.º 14.113, de 25 de dezembro de 2020 de modo a assegurar que haja a inclusão das escolas…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei n.º 11.947, de 16 de junho de 2009 e a Lei n.º 14.113, de 25 de dezembro de 2020 de modo a assegurar que haja a inclusão das escolas comunitárias e o repasse direto dos recursos do Programa Nacional de Alimentação Escolar – PNAE e do Programa Dinheiro Direto na Escola – PDDE, e dá outras providências.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 2374/23 deixa claro na legislação que as escolas comunitárias estão entre as beneficiárias dos recursos do Programa Nacional de Alimentação Escolar (PNAE), que atende alunos da educação básica (educação infantil, ensino fundamental, ensino médio e educação de jovens e adultos) matriculados em escolas públicas, filantrópicas e em entidades comunitárias conveniadas com o poder público. \"Essas escolas, algumas vezes, são mantidas por associações ou união de moradores sem fins lucrativos que dependem da verba pública para dar continuidade em suas atividades\", explica o autor do projeto, deputado Duarte Jr. (PSB-MA), O texto também inclui as escolas comunitárias conveniadas no Programa Dinheiro Direto na Escola (PDDE), com o objetivo de prestar assistência financeira, em caráter suplementar. Em análise na Câmara dos Deputados, o projeto altera a Lei 11.947/09, que trata da alimentação escolar e do Programa Dinheiro Direto na Escola. A proposta também determina que o repasse dos recursos seja feito de forma direta aos entes e às entidades beneficiadas. Duarte Jr., explica que, atualmente, o dinheiro desses programas é transferido para contas da União, de estados, do Distrito Federal ou de municípios e, só depois, é repassado para as entidades cadastradas. “Ocorre que toda essa burocracia para que haja o repasse as entidades tem causado diversos transtornos, uma vez que nem sempre há o repasse devido e, quando ocorre, alguma das vezes não é em sua totalidade”, justificou o parlamentar. Essa burocracia, continua Duarte, prejudica a população. \"Na cidade de São Luís, no Maranhão, por exemplo, as escolas comunitárias estão sendo notificadas pela Justiça do Trabalho em virtude da falta de pagamento dos seus colaboradores que não está sendo realizada pela falta de pagamento por parte do município\", alerta o deputado. Tramitação O projeto será analisado, em caráter conclusivo, pelas comissões de Educação; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/966125-projeto-reforca-direito-das-escolas-comunitarias-a-verbas-do-programa-de-alimentacao-escolar"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 4,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 4,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2360367",
-        "pergunta": "Qual sua opinião sobre o PL 2374/2023?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2025-07-02",
-          "texto": "Aprovada na comissão CFT"
-        },
-        {
-          "data": "2023-12-21",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2023-12-13",
-          "texto": "Aprovada na comissão CE"
-        },
-        {
-          "data": "2023-05-05",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2360367",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-2475-2025": {
-      "slug": "camara/pl-2475-2025",
-      "chave": "camara-2515534",
-      "casa": "camara",
-      "rotulo": "PL 2475/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 167,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 168,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2515534",
-        "pergunta": "Qual sua opinião sobre o PL 2475/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-17",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-05-22",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515534",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-4159-2025": {
-      "slug": "camara/pl-4159-2025",
-      "chave": "camara-2551091",
-      "casa": "camara",
-      "rotulo": "PL 4159/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria.",
-      "tituloCompleto": true,
-      "ementa": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 1,
-        "total": 3,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2551091",
-        "pergunta": "Qual sua opinião sobre o PL 4159/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-09-01",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2026-08-12",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2026-04-08",
-          "texto": "Aprovada na comissão CCULT"
-        },
-        {
-          "data": "2025-08-21",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551091",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-5542-2026": {
-      "slug": "camara/pl-5542-2026",
-      "chave": "camara-2647427",
-      "casa": "camara",
-      "rotulo": "PL 5542/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Designação de Relator(a)",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-10-28",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2026-10-13",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647427",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-565-2020": {
-      "slug": "camara/pl-565-2020",
-      "chave": "camara-2238560",
-      "casa": "camara",
-      "rotulo": "PL 565/2020",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para tratar de ações de educação em saúde executadas pelos profissionais do Sistema Único de Saúde.",
-      "tituloCompleto": true,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para tratar de ações de educação em saúde executadas pelos profissionais do Sistema Único de Saúde.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 565/20 determina que os profissionais que prestam serviço na área de atenção básica do Sistema Único de Saúde (SUS) deverão promover ações de educação em saúde, com enfoque na família, para a prevenção de doenças e agravos. Em análise na Câmara dos Deputados, o texto acrescenta artigo à Lei do SUS, também conhecida como Lei Orgânica da Saúde. A proposta foi apresentada pela Comissão de Seguridade Social e Família. “As equipes de Saúde da Família já têm como uma das suas atividades básicas a promoção da saúde por meio da educação sanitária. No entanto, acreditamos não apenas que essa obrigação deve constar da Lei Orgânica da Saúde, como também deve ficar claro nesta norma que o enfoque dessas ações é a família”, afirma o deputado Antonio Brito (PSD-BA). “Diversos estudos de instituições prestigiosas evidenciaram que as intervenções centradas na família são relevantes para a prevenção de comportamentos socialmente inadequados, como o abuso de drogas; para o desenvolvimento de hábitos saudáveis, como o da alimentação adequada; e até mesmo para a prevenção do suicídio”, complementa. Tramitação A proposta, que tramita em regime de prioridade, será analisada pela Comissão de Constituição e Justiça e de Cidadania e está sujeita à analise do Plenário. Saiba mais sobre tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/647061-projeto-determina-que-profissionais-do-sus-promovam-acoes-de-educacao-em-saude"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Encaminhamento",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 3,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 4,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2238560",
-        "pergunta": "Qual sua opinião sobre o PL 565/2020?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-05",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2023-06-20",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2020-03-05",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2238560",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-5974-2023": {
-      "slug": "camara/pl-5974-2023",
-      "chave": "camara-2412504",
-      "casa": "camara",
-      "rotulo": "PL 5974/2023",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Dispõe sobre a permissão de reprodução adaptada de obras para pessoas com deficiência intelectual.",
-      "tituloCompleto": true,
-      "ementa": "Dispõe sobre a permissão de reprodução adaptada de obras para pessoas com deficiência intelectual.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 5974/23 permite a reprodução de obras literárias, artísticas ou científicas em linguagem simples e para uso exclusivo por pessoas com deficiência intelectual. A Câmara dos Deputados analisa a proposta, que altera a Lei de Direitos Autorais. Pelo texto, a reprodução feita sem fins comerciais que utilize linguagem simples voltada a pessoas com deficiência intelectual não será considerada ofensa aos direitos do autor. A linguagem simples tem como finalidade facilitar a comunicação, utilizando frases curtas, palavras simples, imagens e outros recursos que tornem a mensagem compreensível a todos. Atualmente, a lei já autoriza a reprodução de obras em braile para o uso exclusivo por deficientes visuais. O projeto foi proposto pela Comissão de Legislação Participativa, que acolheu sugestão da Federação Brasileira das Associações de Síndrome de Down. A entidade defende a edição de obras literárias em linguagem simples como forma de difundir a cultura e a informação para pessoas com deficiência intelectual. Próximos Passos O projeto será analisado pelas comissões de Defesa dos Direitos das Pessoas com Deficiência; de Cultura; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Depois, será analisado pelo Plenário da Câmara dos Deputados. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1046001-projeto-autoriza-reproducao-de-obras-em-linguagem-simples-para-pessoa-com-deficiencia-intelectual"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Encaminhamento",
-      "votacao": {
-        "data": "2026-11-05T11:07",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quinta, 5/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 2,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2412504",
-        "pergunta": "Qual sua opinião sobre o PL 5974/2023?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-05",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2025-11-06",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2024-10-30",
-          "texto": "Aprovada na comissão CCULT"
-        },
-        {
-          "data": "2024-06-11",
-          "texto": "Aprovada na comissão CPD"
-        },
-        {
-          "data": "2023-12-12",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2412504",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pec-2-2025": {
       "slug": "camara/pec-2-2025",
       "chave": "camara-2483164",
@@ -1077,10 +62,10 @@
         }
       ],
       "enquete": {
-        "favor": 606,
-        "contra": 100709,
+        "favor": 632,
+        "contra": 104219,
         "indecisos": 36,
-        "total": 101351,
+        "total": 104887,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1144,10 +129,10 @@
         }
       ],
       "enquete": {
-        "favor": 1256,
-        "contra": 125002,
-        "indecisos": 40,
-        "total": 126298,
+        "favor": 1287,
+        "contra": 126174,
+        "indecisos": 41,
+        "total": 127502,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1211,10 +196,10 @@
         }
       ],
       "enquete": {
-        "favor": 197,
-        "contra": 17258,
+        "favor": 236,
+        "contra": 18732,
         "indecisos": 15,
-        "total": 17470,
+        "total": 18983,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1238,6 +223,80 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1424-2026": {
+      "slug": "camara/pl-1424-2026",
+      "chave": "camara-2612333",
+      "casa": "camara",
+      "rotulo": "PL 1424/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "tituloCompleto": true,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "explicacao": {
+        "fonte": "camara",
+        "texto": "O Projeto de Lei 1424/26, da deputada Tabata Amaral (PSB-SP), equipara o antissemitismo ao crime de racismo, com pena de reclusão de 2 a 5 anos e multa, não podendo ter prescrição ou fiança. O texto está em análise na Câmara dos Deputados. \"A proposta contribui para o aprimoramento das políticas públicas e para a consolidação do entendimento já adotado pelos tribunais brasileiros\", defende Tabata Amaral. Segundo o projeto, os atos são antissemitas quando os alvos dos ataques, sejam pessoas ou bens, são selecionados porque são judaicos ou associados aos judeus, incluindo instituições comunitárias e instalações religiosas. As manifestações de antissemitismo podem ter como alvo o Estado de Israel, encarado como uma coletividade judaica. A definição de antissemitismo vale tanto para expressões orais, por escrito, sob forma visual ou por meio de ações. A proposta define a discriminação antissemita como qualquer atitude ou tratamento dado à pessoa ou grupo de pessoas que cause constrangimento, humilhação, vergonha, medo ou exposição indevida, e que usualmente não se dispensaria a outros grupos, em razão da sua condição de judia ou judeu, ou da sua relação com a comunidade judaica. Tabata Amaral nega que a proposta limite a liberdade de expressão. \"Críticas, análises ou posicionamentos sobre fatos políticos, conflitos internacionais ou sobre ações de qualquer governo, incluindo o Estado de Israel enquanto organização político-jurídica soberana e não como coletividade judaica, são legítimos e devem ser preservados\", defende. De acordo com o projeto, críticas a Israel que sejam semelhantes às dirigidas contra qualquer outro país não podem ser consideradas antissemitas. Políticas públicas A proposta determina a orientação de políticas públicas nacionais educativas, preventivas e de monitoramento por meio de exemplos contemporâneos de antissemitismo na vida pública reconhecidos pela Aliança Internacional para a Memória do Holocausto, para melhor interpretação da definição estabelecida. Entre esses exemplos estão: incitar, ajudar a cometer ou justificar violência, assassinato ou danos contra judeus em nome de ideologia radical, extremismo religioso ou argumentos desumanizantes; propagar alegações injuriosas, difamatórias ou caluniosas, desumanizantes ou estereotipadas sobre judeus; responsabilizar coletivamente os judeus, como povo, por atos reais ou imaginários; negar o fato histórico, a escala ou a intencionalidade do genocídio de judeus durante o Holocausto; sustentar que o Holocausto é invenção ou exagero; afirmar que cidadãos judeus seriam mais leais a Israel, ou a prioridades internacionais judaicas, do que à sua própria nação; negar o direito à autodeterminação do povo judeu, utilizar símbolos, imagens ou narrativas atreladas ao antissemitismo clássico; efetuar comparações entre as políticas israelenses e a dos nazistas; imputar aos judeus, de forma coletiva, responsabilidade por ações praticadas pelo Estado de Israel. Próximos passos O projeto foi apresentado pela autora com o apoio de outros 44 deputados, mas 9 deles pediram depois a retirada de suas assinaturas da proposta. O texto será distribuído para análise das comissões da Câmara. Saiba mais sobre a tramitação de projetos de lei",
+        "pontos": [],
+        "introPontos": "",
+        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
+        "url": "https://www.camara.leg.br/noticias/1261955-projeto-equipara-antissemitismo-a-crime-de-racismo"
+      },
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Designação de Relator(a)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 2675,
+        "contra": 18951,
+        "indecisos": 8,
+        "total": 21634,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2612333",
+        "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-26",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
         "semana": null
       }
@@ -1278,10 +337,10 @@
         }
       ],
       "enquete": {
-        "favor": 159,
-        "contra": 30789,
-        "indecisos": 17,
-        "total": 30965,
+        "favor": 171,
+        "contra": 31880,
+        "indecisos": 18,
+        "total": 32069,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1345,10 +404,10 @@
         }
       ],
       "enquete": {
-        "favor": 1274,
-        "contra": 65907,
+        "favor": 1292,
+        "contra": 67069,
         "indecisos": 41,
-        "total": 67222,
+        "total": 68402,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1372,80 +431,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-1424-2026": {
-      "slug": "camara/pl-1424-2026",
-      "chave": "camara-2612333",
-      "casa": "camara",
-      "rotulo": "PL 1424/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
-      "tituloCompleto": true,
-      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 1424/26, da deputada Tabata Amaral (PSB-SP), equipara o antissemitismo ao crime de racismo, com pena de reclusão de 2 a 5 anos e multa, não podendo ter prescrição ou fiança. O texto está em análise na Câmara dos Deputados. \"A proposta contribui para o aprimoramento das políticas públicas e para a consolidação do entendimento já adotado pelos tribunais brasileiros\", defende Tabata Amaral. Segundo o projeto, os atos são antissemitas quando os alvos dos ataques, sejam pessoas ou bens, são selecionados porque são judaicos ou associados aos judeus, incluindo instituições comunitárias e instalações religiosas. As manifestações de antissemitismo podem ter como alvo o Estado de Israel, encarado como uma coletividade judaica. A definição de antissemitismo vale tanto para expressões orais, por escrito, sob forma visual ou por meio de ações. A proposta define a discriminação antissemita como qualquer atitude ou tratamento dado à pessoa ou grupo de pessoas que cause constrangimento, humilhação, vergonha, medo ou exposição indevida, e que usualmente não se dispensaria a outros grupos, em razão da sua condição de judia ou judeu, ou da sua relação com a comunidade judaica. Tabata Amaral nega que a proposta limite a liberdade de expressão. \"Críticas, análises ou posicionamentos sobre fatos políticos, conflitos internacionais ou sobre ações de qualquer governo, incluindo o Estado de Israel enquanto organização político-jurídica soberana e não como coletividade judaica, são legítimos e devem ser preservados\", defende. De acordo com o projeto, críticas a Israel que sejam semelhantes às dirigidas contra qualquer outro país não podem ser consideradas antissemitas. Políticas públicas A proposta determina a orientação de políticas públicas nacionais educativas, preventivas e de monitoramento por meio de exemplos contemporâneos de antissemitismo na vida pública reconhecidos pela Aliança Internacional para a Memória do Holocausto, para melhor interpretação da definição estabelecida. Entre esses exemplos estão: incitar, ajudar a cometer ou justificar violência, assassinato ou danos contra judeus em nome de ideologia radical, extremismo religioso ou argumentos desumanizantes; propagar alegações injuriosas, difamatórias ou caluniosas, desumanizantes ou estereotipadas sobre judeus; responsabilizar coletivamente os judeus, como povo, por atos reais ou imaginários; negar o fato histórico, a escala ou a intencionalidade do genocídio de judeus durante o Holocausto; sustentar que o Holocausto é invenção ou exagero; afirmar que cidadãos judeus seriam mais leais a Israel, ou a prioridades internacionais judaicas, do que à sua própria nação; negar o direito à autodeterminação do povo judeu, utilizar símbolos, imagens ou narrativas atreladas ao antissemitismo clássico; efetuar comparações entre as políticas israelenses e a dos nazistas; imputar aos judeus, de forma coletiva, responsabilidade por ações praticadas pelo Estado de Israel. Próximos passos O projeto foi apresentado pela autora com o apoio de outros 44 deputados, mas 9 deles pediram depois a retirada de suas assinaturas da proposta. O texto será distribuído para análise das comissões da Câmara. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1261955-projeto-equipara-antissemitismo-a-crime-de-racismo"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Designação de Relator(a)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2613,
-        "contra": 15857,
-        "indecisos": 7,
-        "total": 18477,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2612333",
-        "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-26",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
         "semana": null
       }
@@ -1486,10 +471,10 @@
         }
       ],
       "enquete": {
-        "favor": 217,
-        "contra": 17908,
-        "indecisos": 13,
-        "total": 18138,
+        "favor": 242,
+        "contra": 18972,
+        "indecisos": 14,
+        "total": 19228,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1513,72 +498,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pl-1809-2026": {
-      "slug": "senado/pl-1809-2026",
-      "chave": "senado-173618",
-      "casa": "senado",
-      "rotulo": "PL 1809/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
-        "pontos": [],
-        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
-      },
-      "origem": "senado",
-      "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 49394,
-        "contra": 699,
-        "indecisos": 0,
-        "total": 50093,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
         "semana": null
       }
@@ -1631,10 +550,10 @@
         }
       ],
       "enquete": {
-        "favor": 8826,
-        "contra": 100,
+        "favor": 17722,
+        "contra": 166,
         "indecisos": 0,
-        "total": 8926,
+        "total": 17888,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
@@ -1650,6 +569,72 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/153397",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-1809-2026": {
+      "slug": "senado/pl-1809-2026",
+      "chave": "senado-173618",
+      "casa": "senado",
+      "rotulo": "PL 1809/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
+        "pontos": [],
+        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 53805,
+        "contra": 761,
+        "indecisos": 0,
+        "total": 54566,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
         "semana": null
       }

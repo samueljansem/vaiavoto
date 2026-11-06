@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T17:58:01.721Z",
+  "atualizadoEm": "2026-11-06T17:22:21.690Z",
   "deputados": [
     {
       "id": 204379,
@@ -2922,16 +2922,6 @@
       "verificadoEm": "2026-11-02T19:06:51.455Z"
     },
     {
-      "id": 122195,
-      "nome": "Leonardo Gadelha",
-      "partido": "PODE",
-      "uf": "PB",
-      "email": "dep.leonardogadelha@camara.leg.br",
-      "telefone": "(61) 3215-5610",
-      "pagina": "https://www.camara.leg.br/deputados/122195",
-      "verificadoEm": "2026-11-02T19:06:51.033Z"
-    },
-    {
       "id": 74156,
       "nome": "Leonardo Monteiro",
       "partido": "PT",
@@ -4480,6 +4470,16 @@
       "telefone": "(61) 3215-5614",
       "pagina": "https://www.camara.leg.br/deputados/204480",
       "verificadoEm": "2026-11-02T19:07:03.364Z"
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "partido": "PODE",
+      "uf": "PB",
+      "email": "dep.romerorodrigues@camara.leg.br",
+      "telefone": "(61) 3215-5610",
+      "pagina": "https://www.camara.leg.br/deputados/160629",
+      "verificadoEm": "2026-11-06T17:22:21.690Z"
     },
     {
       "id": 204525,
