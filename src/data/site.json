@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T17:22:20.783Z",
+  "atualizadoEm": "2026-11-06T23:42:42.060Z",
   "hoje": "2026-11-06",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
@@ -62,10 +62,10 @@
         }
       ],
       "enquete": {
-        "favor": 632,
-        "contra": 104219,
-        "indecisos": 36,
-        "total": 104887,
+        "favor": 646,
+        "contra": 105433,
+        "indecisos": 37,
+        "total": 106116,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -89,6 +89,80 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pl-1424-2026": {
+      "slug": "camara/pl-1424-2026",
+      "chave": "camara-2612333",
+      "casa": "camara",
+      "rotulo": "PL 1424/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "tituloCompleto": true,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "explicacao": {
+        "fonte": "camara",
+        "texto": "O Projeto de Lei 1424/26, da deputada Tabata Amaral (PSB-SP), equipara o antissemitismo ao crime de racismo, com pena de reclusão de 2 a 5 anos e multa, não podendo ter prescrição ou fiança. O texto está em análise na Câmara dos Deputados. \"A proposta contribui para o aprimoramento das políticas públicas e para a consolidação do entendimento já adotado pelos tribunais brasileiros\", defende Tabata Amaral. Segundo o projeto, os atos são antissemitas quando os alvos dos ataques, sejam pessoas ou bens, são selecionados porque são judaicos ou associados aos judeus, incluindo instituições comunitárias e instalações religiosas. As manifestações de antissemitismo podem ter como alvo o Estado de Israel, encarado como uma coletividade judaica. A definição de antissemitismo vale tanto para expressões orais, por escrito, sob forma visual ou por meio de ações. A proposta define a discriminação antissemita como qualquer atitude ou tratamento dado à pessoa ou grupo de pessoas que cause constrangimento, humilhação, vergonha, medo ou exposição indevida, e que usualmente não se dispensaria a outros grupos, em razão da sua condição de judia ou judeu, ou da sua relação com a comunidade judaica. Tabata Amaral nega que a proposta limite a liberdade de expressão. \"Críticas, análises ou posicionamentos sobre fatos políticos, conflitos internacionais ou sobre ações de qualquer governo, incluindo o Estado de Israel enquanto organização político-jurídica soberana e não como coletividade judaica, são legítimos e devem ser preservados\", defende. De acordo com o projeto, críticas a Israel que sejam semelhantes às dirigidas contra qualquer outro país não podem ser consideradas antissemitas. Políticas públicas A proposta determina a orientação de políticas públicas nacionais educativas, preventivas e de monitoramento por meio de exemplos contemporâneos de antissemitismo na vida pública reconhecidos pela Aliança Internacional para a Memória do Holocausto, para melhor interpretação da definição estabelecida. Entre esses exemplos estão: incitar, ajudar a cometer ou justificar violência, assassinato ou danos contra judeus em nome de ideologia radical, extremismo religioso ou argumentos desumanizantes; propagar alegações injuriosas, difamatórias ou caluniosas, desumanizantes ou estereotipadas sobre judeus; responsabilizar coletivamente os judeus, como povo, por atos reais ou imaginários; negar o fato histórico, a escala ou a intencionalidade do genocídio de judeus durante o Holocausto; sustentar que o Holocausto é invenção ou exagero; afirmar que cidadãos judeus seriam mais leais a Israel, ou a prioridades internacionais judaicas, do que à sua própria nação; negar o direito à autodeterminação do povo judeu, utilizar símbolos, imagens ou narrativas atreladas ao antissemitismo clássico; efetuar comparações entre as políticas israelenses e a dos nazistas; imputar aos judeus, de forma coletiva, responsabilidade por ações praticadas pelo Estado de Israel. Próximos passos O projeto foi apresentado pela autora com o apoio de outros 44 deputados, mas 9 deles pediram depois a retirada de suas assinaturas da proposta. O texto será distribuído para análise das comissões da Câmara. Saiba mais sobre a tramitação de projetos de lei",
+        "pontos": [],
+        "introPontos": "",
+        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
+        "url": "https://www.camara.leg.br/noticias/1261955-projeto-equipara-antissemitismo-a-crime-de-racismo"
+      },
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Designação de Relator(a)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 2788,
+        "contra": 28368,
+        "indecisos": 15,
+        "total": 31171,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2612333",
+        "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-26",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
         "semana": null
       }
@@ -129,10 +203,10 @@
         }
       ],
       "enquete": {
-        "favor": 1287,
-        "contra": 126174,
+        "favor": 1294,
+        "contra": 126801,
         "indecisos": 41,
-        "total": 127502,
+        "total": 128136,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -196,10 +270,10 @@
         }
       ],
       "enquete": {
-        "favor": 236,
-        "contra": 18732,
+        "favor": 246,
+        "contra": 19400,
         "indecisos": 15,
-        "total": 18983,
+        "total": 19661,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -223,80 +297,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-1424-2026": {
-      "slug": "camara/pl-1424-2026",
-      "chave": "camara-2612333",
-      "casa": "camara",
-      "rotulo": "PL 1424/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
-      "tituloCompleto": true,
-      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 1424/26, da deputada Tabata Amaral (PSB-SP), equipara o antissemitismo ao crime de racismo, com pena de reclusão de 2 a 5 anos e multa, não podendo ter prescrição ou fiança. O texto está em análise na Câmara dos Deputados. \"A proposta contribui para o aprimoramento das políticas públicas e para a consolidação do entendimento já adotado pelos tribunais brasileiros\", defende Tabata Amaral. Segundo o projeto, os atos são antissemitas quando os alvos dos ataques, sejam pessoas ou bens, são selecionados porque são judaicos ou associados aos judeus, incluindo instituições comunitárias e instalações religiosas. As manifestações de antissemitismo podem ter como alvo o Estado de Israel, encarado como uma coletividade judaica. A definição de antissemitismo vale tanto para expressões orais, por escrito, sob forma visual ou por meio de ações. A proposta define a discriminação antissemita como qualquer atitude ou tratamento dado à pessoa ou grupo de pessoas que cause constrangimento, humilhação, vergonha, medo ou exposição indevida, e que usualmente não se dispensaria a outros grupos, em razão da sua condição de judia ou judeu, ou da sua relação com a comunidade judaica. Tabata Amaral nega que a proposta limite a liberdade de expressão. \"Críticas, análises ou posicionamentos sobre fatos políticos, conflitos internacionais ou sobre ações de qualquer governo, incluindo o Estado de Israel enquanto organização político-jurídica soberana e não como coletividade judaica, são legítimos e devem ser preservados\", defende. De acordo com o projeto, críticas a Israel que sejam semelhantes às dirigidas contra qualquer outro país não podem ser consideradas antissemitas. Políticas públicas A proposta determina a orientação de políticas públicas nacionais educativas, preventivas e de monitoramento por meio de exemplos contemporâneos de antissemitismo na vida pública reconhecidos pela Aliança Internacional para a Memória do Holocausto, para melhor interpretação da definição estabelecida. Entre esses exemplos estão: incitar, ajudar a cometer ou justificar violência, assassinato ou danos contra judeus em nome de ideologia radical, extremismo religioso ou argumentos desumanizantes; propagar alegações injuriosas, difamatórias ou caluniosas, desumanizantes ou estereotipadas sobre judeus; responsabilizar coletivamente os judeus, como povo, por atos reais ou imaginários; negar o fato histórico, a escala ou a intencionalidade do genocídio de judeus durante o Holocausto; sustentar que o Holocausto é invenção ou exagero; afirmar que cidadãos judeus seriam mais leais a Israel, ou a prioridades internacionais judaicas, do que à sua própria nação; negar o direito à autodeterminação do povo judeu, utilizar símbolos, imagens ou narrativas atreladas ao antissemitismo clássico; efetuar comparações entre as políticas israelenses e a dos nazistas; imputar aos judeus, de forma coletiva, responsabilidade por ações praticadas pelo Estado de Israel. Próximos passos O projeto foi apresentado pela autora com o apoio de outros 44 deputados, mas 9 deles pediram depois a retirada de suas assinaturas da proposta. O texto será distribuído para análise das comissões da Câmara. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1261955-projeto-equipara-antissemitismo-a-crime-de-racismo"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Designação de Relator(a)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2675,
-        "contra": 18951,
-        "indecisos": 8,
-        "total": 21634,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2612333",
-        "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-26",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
         "semana": null
       }
@@ -337,10 +337,10 @@
         }
       ],
       "enquete": {
-        "favor": 171,
-        "contra": 31880,
+        "favor": 172,
+        "contra": 32427,
         "indecisos": 18,
-        "total": 32069,
+        "total": 32617,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -404,10 +404,10 @@
         }
       ],
       "enquete": {
-        "favor": 1292,
-        "contra": 67069,
+        "favor": 1295,
+        "contra": 67607,
         "indecisos": 41,
-        "total": 68402,
+        "total": 68943,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -471,10 +471,10 @@
         }
       ],
       "enquete": {
-        "favor": 242,
-        "contra": 18972,
+        "favor": 246,
+        "contra": 19413,
         "indecisos": 14,
-        "total": 19228,
+        "total": 19673,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -550,10 +550,10 @@
         }
       ],
       "enquete": {
-        "favor": 17722,
-        "contra": 166,
+        "favor": 19203,
+        "contra": 181,
         "indecisos": 0,
-        "total": 17888,
+        "total": 19384,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
@@ -616,10 +616,10 @@
         }
       ],
       "enquete": {
-        "favor": 53805,
-        "contra": 761,
+        "favor": 54516,
+        "contra": 775,
         "indecisos": 0,
-        "total": 54566,
+        "total": 55291,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
