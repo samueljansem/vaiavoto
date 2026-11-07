@@ -1,21 +1,27 @@
 {
-  "atualizadoEm": "2026-11-06T23:42:42.060Z",
-  "hoje": "2026-11-06",
+  "atualizadoEm": "2026-11-07T17:11:55.526Z",
+  "hoje": "2026-11-07",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
-  "vemAi": [],
+  "vemAi": [
+    "senado/plp-109-2025",
+    "senado/pl-5608-2023",
+    "senado/pdl-934-2025",
+    "senado/plp-230-2025",
+    "senado/pl-6461-2019",
+    "senado/pl-6683-2025"
+  ],
   "emAlta": {
     "porSemana": false,
     "itens": [
       "camara/pl-994-2026",
       "camara/pec-2-2025",
       "camara/pl-1007-2026",
-      "senado/pl-1809-2026",
-      "camara/pl-1005-2026",
       "camara/pl-1424-2026",
-      "camara/pl-995-2026",
+      "camara/pl-1005-2026",
+      "senado/pec-13-2022",
       "camara/pl-1001-2026",
-      "senado/pec-13-2022"
+      "senado/pl-2326-2022"
     ]
   },
   "propostas": {
@@ -62,10 +68,10 @@
         }
       ],
       "enquete": {
-        "favor": 646,
-        "contra": 105433,
+        "favor": 654,
+        "contra": 106673,
         "indecisos": 37,
-        "total": 106116,
+        "total": 107364,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -136,10 +142,10 @@
         }
       ],
       "enquete": {
-        "favor": 2788,
-        "contra": 28368,
-        "indecisos": 15,
-        "total": 31171,
+        "favor": 2922,
+        "contra": 36415,
+        "indecisos": 16,
+        "total": 39353,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -163,73 +169,6 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-994-2026": {
-      "slug": "camara/pl-994-2026",
-      "chave": "camara-2607415",
-      "casa": "camara",
-      "rotulo": "PL 994/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
-      "tituloCompleto": true,
-      "ementa": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 1294,
-        "contra": 126801,
-        "indecisos": 41,
-        "total": 128136,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607415",
-        "pergunta": "Qual sua opinião sobre o PL 994/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
         "semana": null
       }
@@ -270,10 +209,10 @@
         }
       ],
       "enquete": {
-        "favor": 246,
-        "contra": 19400,
-        "indecisos": 15,
-        "total": 19661,
+        "favor": 255,
+        "contra": 20095,
+        "indecisos": 16,
+        "total": 20366,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -301,16 +240,16 @@
         "semana": null
       }
     },
-    "camara/pl-1005-2026": {
-      "slug": "camara/pl-1005-2026",
-      "chave": "camara-2607436",
+    "camara/pl-994-2026": {
+      "slug": "camara/pl-994-2026",
+      "chave": "camara-2607415",
       "casa": "camara",
-      "rotulo": "PL 1005/2026",
+      "rotulo": "PL 994/2026",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas…",
-      "tituloCompleto": false,
-      "ementa": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas funções.",
+      "titulo": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
+      "tituloCompleto": true,
+      "ementa": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
@@ -337,13 +276,13 @@
         }
       ],
       "enquete": {
-        "favor": 172,
-        "contra": 32427,
-        "indecisos": 18,
-        "total": 32617,
+        "favor": 1301,
+        "contra": 127412,
+        "indecisos": 41,
+        "total": 128754,
         "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607436",
-        "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
+        "url": "https://www.camara.leg.br/enquetes/2607415",
+        "pergunta": "Qual sua opinião sobre o PL 994/2026?",
         "opcoes": [
           "Concordo totalmente",
           "Concordo na maior parte",
@@ -363,7 +302,7 @@
           "texto": "Proposta apresentada na Câmara"
         }
       ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
         "semana": null
       }
@@ -404,10 +343,10 @@
         }
       ],
       "enquete": {
-        "favor": 1295,
-        "contra": 67607,
+        "favor": 1301,
+        "contra": 68161,
         "indecisos": 41,
-        "total": 68943,
+        "total": 69503,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -435,16 +374,16 @@
         "semana": null
       }
     },
-    "camara/pl-995-2026": {
-      "slug": "camara/pl-995-2026",
-      "chave": "camara-2607416",
+    "camara/pl-1005-2026": {
+      "slug": "camara/pl-1005-2026",
+      "chave": "camara-2607436",
       "casa": "camara",
-      "rotulo": "PL 995/2026",
+      "rotulo": "PL 1005/2026",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
-      "tituloCompleto": true,
-      "ementa": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
+      "titulo": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas…",
+      "tituloCompleto": false,
+      "ementa": "Extingue a Companhia Nacional de Abastecimento (CONAB), criada pela Lei nº 8.029, de 12 de abril de 1990, e dispõe sobre a transferência de suas funções.",
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
@@ -471,13 +410,13 @@
         }
       ],
       "enquete": {
-        "favor": 246,
-        "contra": 19413,
-        "indecisos": 14,
-        "total": 19673,
+        "favor": 177,
+        "contra": 32992,
+        "indecisos": 18,
+        "total": 33187,
         "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607416",
-        "pergunta": "Qual sua opinião sobre o PL 995/2026?",
+        "url": "https://www.camara.leg.br/enquetes/2607436",
+        "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
         "opcoes": [
           "Concordo totalmente",
           "Concordo na maior parte",
@@ -497,7 +436,437 @@
           "texto": "Proposta apresentada na Câmara"
         }
       ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/plp-109-2025": {
+      "slug": "senado/plp-109-2025",
+      "chave": "senado-173581",
+      "casa": "senado",
+      "rotulo": "PLP 109/2025",
+      "tipo": "Projeto de lei complementar",
+      "sigla": "PLP",
+      "titulo": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do § 1º do art. 145 da Constituição Federal.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta estabelece que a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) terá acesso às informações fiscais dos agentes regulados. Isso será feito para melhorar a fiscalização e regulação do setor de petróleo e biocombustíveis. Os agentes regulados precisarão autorizar o acesso aos dados das suas Notas Fiscais Eletrônicas. A ANP poderá obter essas informações das autoridades fiscais federais, estaduais e do Distrito Federal.",
+        "pontos": [
+          "A ANP poderá identificar rapidamente inconsistências nas informações fiscais, ajudando a combater crimes como adulteração de combustíveis e sonegação fiscal.",
+          "A medida pode reduzir a concorrência desleal, beneficiando empresas que operam dentro da legalidade.",
+          "A sociedade poderá sofrer menos com combustíveis adulterados e danos ambientais, além de melhorar a arrecadação de tributos.",
+          "A proposta pode fortalecer a fiscalização do setor de combustíveis, trazendo ganhos significativos para a sociedade brasileira."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173581"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-10T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 10/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173581",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173581",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-5608-2023": {
+      "slug": "senado/pl-5608-2023",
+      "chave": "senado-162645",
+      "casa": "senado",
+      "rotulo": "PL 5608/2023",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Programa Empresa Rosa\nSelo Rosa",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta estabelece condições de trabalho específicas para mulheres com câncer de mama, incluindo aquelas em tratamento ou aguardando remissão. Ela cria o Programa Empresa Rosa, que incentiva a contratação e reinserção dessas mulheres no mercado de trabalho, e institui o Selo Rosa para reconhecer empresas que adotam essas práticas.",
+        "pontos": [
+          "Maior inclusão e reinserção de mulheres com câncer de mama no mercado de trabalho, promovendo igualdade de oportunidades.",
+          "Incentivo para que empresas adotem políticas de apoio e conscientização sobre o câncer de mama, melhorando as condições de trabalho para essas mulheres.",
+          "Reconhecimento público e benefícios para empresas que participam do Programa Empresa Rosa, o que pode aumentar a visibilidade e a responsabilidade social dessas empresas."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=162645"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-10T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 10/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 2,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 2,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=162645",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162645",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pdl-934-2025": {
+      "slug": "senado/pdl-934-2025",
+      "chave": "senado-171607",
+      "casa": "senado",
+      "rotulo": "PDL 934/2025",
+      "tipo": "Projeto de decreto legislativo",
+      "sigla": "PDL",
+      "titulo": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no…",
+      "tituloCompleto": false,
+      "ementa": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no Caribe (Acordo de Escazú), assinado em Nova York, em 27 de setembro de 2018.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-10T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 10/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 76,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 76,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171607",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171607",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/plp-230-2025": {
+      "slug": "senado/plp-230-2025",
+      "chave": "senado-175647",
+      "casa": "senado",
+      "rotulo": "PLP 230/2025",
+      "tipo": "Projeto de lei complementar",
+      "sigla": "PLP",
+      "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta impede que o dinheiro destinado ao Fundo de Universalização dos Serviços de Telecomunicações (Fust) seja limitado ou bloqueado. Ela também garante que esses recursos sejam usados para melhorar o acesso à internet nas escolas públicas, especialmente nas áreas rurais, e proíbe que o dinheiro do Fust seja reservado para emergências financeiras.",
+        "pontos": [
+          "Maior garantia de que os recursos do Fust serão usados para melhorar a conectividade nas escolas públicas, o que pode beneficiar a educação.",
+          "A segurança de que o dinheiro do Fust não será desviado para outras finalidades, mesmo em situações de crise financeira.",
+          "A possibilidade de que as escolas, especialmente as localizadas fora das áreas urbanas, tenham acesso à internet de qualidade, o que pode melhorar o ensino e a administração escolar."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175647"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-11T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 11/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 2,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 2,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175647",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175647",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-6461-2019": {
+      "slug": "senado/pl-6461-2019",
+      "chave": "senado-174061",
+      "casa": "senado",
+      "rotulo": "PL 6461/2019",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Estatuto do Aprendiz",
+      "tituloCompleto": false,
+      "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta cria o Estatuto do Aprendiz, que estabelece regras para a aprendizagem profissional de jovens e pessoas com deficiência. A proposta altera normas trabalhistas para incentivar a contratação de aprendizes, define direitos e deveres dos aprendizes e empregadores, e cria mecanismos para promover a inclusão social e profissional desses jovens.",
+        "pontos": [
+          "Aumento das oportunidades de trabalho e renda para jovens e pessoas com deficiência.",
+          "Maior inclusão social de jovens em situação de vulnerabilidade ou risco social.",
+          "Incentivo à profissionalização e combate ao trabalho infantil.",
+          "Melhoria na qualificação profissional dos jovens, preparando-os melhor para o mercado de trabalho.",
+          "Criação de um ambiente mais seguro e educativo para o desenvolvimento dos aprendizes."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-11T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 11/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 120,
+        "contra": 32,
+        "indecisos": 0,
+        "total": 152,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-6683-2025": {
+      "slug": "senado/pl-6683-2025",
+      "chave": "senado-172286",
+      "casa": "senado",
+      "rotulo": "PL 6683/2025",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes.",
+      "tituloCompleto": true,
+      "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta estabelece regras para melhorar a qualidade e segurança dos implantes cirúrgicos. Ela proíbe o uso de materiais tóxicos e exige autorização prévia para produção, importação e venda desses produtos. Além disso, obriga a notificação de falhas nos implantes às autoridades sanitárias.",
+        "pontos": [
+          "Aumento na segurança e qualidade dos implantes cirúrgicos, beneficiando pacientes que necessitam desses dispositivos.",
+          "Maior controle sobre a fabricação e comercialização de implantes, garantindo que apenas produtos seguros e eficazes sejam disponibilizados no mercado.",
+          "Melhoria na vigilância sanitária, com a notificação obrigatória de falhas, permitindo ações rápidas para corrigir problemas e evitar riscos à saúde pública."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-11T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 11/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 0,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 0,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172286",
       "votosPeriodo": {
         "semana": null
       }
@@ -550,10 +919,10 @@
         }
       ],
       "enquete": {
-        "favor": 19203,
-        "contra": 181,
+        "favor": 20351,
+        "contra": 192,
         "indecisos": 0,
-        "total": 19384,
+        "total": 20543,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
@@ -573,27 +942,20 @@
         "semana": null
       }
     },
-    "senado/pl-1809-2026": {
-      "slug": "senado/pl-1809-2026",
-      "chave": "senado-173618",
+    "senado/pl-2326-2022": {
+      "slug": "senado/pl-2326-2022",
+      "chave": "senado-154535",
       "casa": "senado",
-      "rotulo": "PL 1809/2026",
+      "rotulo": "PL 2326/2022",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
+      "titulo": "Altera o art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, para conceder o porte de arma de fogo aos integrantes da Fundação Nacional do Índio em…",
       "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
-        "pontos": [],
-        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
-      },
+      "ementa": "Altera o art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, para conceder o porte de arma de fogo aos integrantes da Fundação Nacional do Índio em atividades de fiscalização.",
+      "explicacao": null,
       "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "situacaoOficial": "MATÉRIA COM A RELATORIA",
       "votacao": null,
       "chip": "No Senado",
       "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
@@ -616,12 +978,12 @@
         }
       ],
       "enquete": {
-        "favor": 54516,
-        "contra": 775,
+        "favor": 3961,
+        "contra": 26,
         "indecisos": 0,
-        "total": 55291,
+        "total": 3987,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154535",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -634,7 +996,7 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/154535",
       "votosPeriodo": {
         "semana": null
       }
