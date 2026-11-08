@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-11-07T17:11:55.526Z",
-  "hoje": "2026-11-07",
+  "atualizadoEm": "2026-11-08T17:24:37.635Z",
+  "hoje": "2026-11-08",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
@@ -14,91 +14,17 @@
   "emAlta": {
     "porSemana": false,
     "itens": [
+      "senado/pl-1338-2022",
       "camara/pl-994-2026",
       "camara/pec-2-2025",
       "camara/pl-1007-2026",
       "camara/pl-1424-2026",
       "camara/pl-1005-2026",
       "senado/pec-13-2022",
-      "camara/pl-1001-2026",
-      "senado/pl-2326-2022"
+      "camara/pl-1001-2026"
     ]
   },
   "propostas": {
-    "camara/pec-2-2025": {
-      "slug": "camara/pec-2-2025",
-      "chave": "camara-2483164",
-      "casa": "camara",
-      "rotulo": "PEC 2/2025",
-      "tipo": "Mudança na Constituição",
-      "sigla": "PEC",
-      "titulo": "Dá nova redação ao Capítulo II, do Título IV, da Constituição Federal, que dispõe sobre o Poder Executivo e dá outras providências.",
-      "tituloCompleto": true,
-      "ementa": "Dá nova redação ao Capítulo II, do Título IV, da Constituição Federal, que dispõe sobre o Poder Executivo e dá outras providências.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "A Proposta de Emenda à Constituição (PEC) 2/25 institui o semipresidencialismo e o voto distrital misto no Brasil. O texto, apresentado pelo deputado Luiz Carlos Hauly (Pode-PR) e outros parlamentares à Câmara dos Deputados, resgata uma proposição antiga (PEC 20/95) do ex-deputado Eduardo Jorge (SP). Se aprovado ainda neste ano, o semipresidencialismo só passaria a valer a partir das eleições de 2030. Já o voto distrito misto entraria em vigor nas eleições de 2026. No semipresidencialismo, o presidente eleito pelo voto popular direto divide o poder com um primeiro-ministro nomeado por ele, ouvido os partidos com maiores representações na Câmara. De acordo com a proposta, o primeiro-ministro será nomeado dentre os integrantes do Congresso Nacional maiores de 35 anos. Entenda a discussão sobre semipresidencialismo Presidente O presidente da República atua como chefe de Estado e comandante supremo das Forças. A ele cabe garantir a unidade e a independência da República, a defesa nacional e o livre exercício das instituições democráticas. Primeiro-ministro Por sua vez, o primeiro-ministro, juntamente com o conselho de ministros de Estado, chefia o governo. O primeiro-ministro elabora e apresenta ao presidente da República o programa de governo e, uma vez aprovado, comunica seu teor à Câmara dos Deputados. O primeiro-ministro deve comparecer mensalmente ao Congresso, para explicar a execução do programa de governo ou expor assunto de relevância para o país. A atuação do primeiro-ministro sustenta-se no apoio da Câmara dos Deputados. O primeiro-ministro e o conselho de ministros devem exonerar-se quando esse apoio faltar. Ou a Câmara pode votar a destituição do governo antes do fim do mandato, por meio do voto de censura. Concentração de poder Luiz Carlos Hauly argumenta que hoje não há mais espaço para o que chama de “presidencialismo arcaico praticado no Brasil”, no qual uma única autoridade concentra as responsabilidades de chefe de governo e de Estado. “Esse quadro institucional precisa ser revisto para que, em caso de uma nova crise institucional envolvendo o presidente da República, o Brasil não enfrente as prolongadas e incertas crises institucionais que antecederam as quedas de [Fernando] Collor e Dilma [Rousseff] e acabam afetando também o quadro econômico brasileiro”, justifica. Sem vice-presidente A PEC em análise na Câmara acaba com a figura do vice-presidente da República. O texto estabelece que, em caso de impedimento do presidente da República, ausência do país ou vacância, serão sucessivamente chamados ao exercício do cargo os presidentes da Câmara, do Senado Federal e do Supremo Tribunal Federal. A renúncia do presidente da República será efetivada por meio de mensagem ao Congresso. Na vacância do cargo, nova eleição será realizada em 45 dias, contados da data da declaração, iniciando o eleito um novo mandato. A proposta mantém o mandato do presidente da República em quatro anos, com início em 5 de janeiro do ano seguinte ao da eleição. Sistema eleitoral misto A proposta de Luiz Carlos Hauly muda também o sistema eleitoral no Brasil, instituindo o voto distrital misto para a Câmara dos Deputados. Pelo sistema sugerido, o eleitor terá dois votos desvinculados: um para o candidato de seu distrito eleitoral e outro para o partido de sua preferência. A combinação busca unir a representação local (distrital) e a proporcionalidade na distribuição de vagas entre os partidos. “O voto distrital misto permitiria uma maior aproximação entre os eleitores e seus representantes”, acredita Luiz Carlos Hauly. Próximos passos A PEC 2/25 será analisada pela Comissão de Constituição e Justiça e de Cidadania quanto a sua legalidade, juridicidade e constitucionalidade. Se admitida, será examinada por uma comissão especial a ser criada, antes de ser votada em dois turnos pelo Plenário. Para ser promulgado, o texto precisa ser aprovado pelos deputados e pelos senadores. Conheça a tramitação de propostas de emenda à Constituição",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1131679-proposta-muda-a-constituicao-para-instituir-o-semipresidencialismo-no-brasil"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Promulgação",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Na Constituição",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 654,
-        "contra": 106673,
-        "indecisos": 37,
-        "total": 107364,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2483164",
-        "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2025-02-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-1424-2026": {
       "slug": "camara/pl-1424-2026",
       "chave": "camara-2612333",
@@ -142,10 +68,10 @@
         }
       ],
       "enquete": {
-        "favor": 2922,
-        "contra": 36415,
-        "indecisos": 16,
-        "total": 39353,
+        "favor": 2988,
+        "contra": 41736,
+        "indecisos": 19,
+        "total": 44743,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -169,6 +95,80 @@
         }
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "camara/pec-2-2025": {
+      "slug": "camara/pec-2-2025",
+      "chave": "camara-2483164",
+      "casa": "camara",
+      "rotulo": "PEC 2/2025",
+      "tipo": "Mudança na Constituição",
+      "sigla": "PEC",
+      "titulo": "Dá nova redação ao Capítulo II, do Título IV, da Constituição Federal, que dispõe sobre o Poder Executivo e dá outras providências.",
+      "tituloCompleto": true,
+      "ementa": "Dá nova redação ao Capítulo II, do Título IV, da Constituição Federal, que dispõe sobre o Poder Executivo e dá outras providências.",
+      "explicacao": {
+        "fonte": "camara",
+        "texto": "A Proposta de Emenda à Constituição (PEC) 2/25 institui o semipresidencialismo e o voto distrital misto no Brasil. O texto, apresentado pelo deputado Luiz Carlos Hauly (Pode-PR) e outros parlamentares à Câmara dos Deputados, resgata uma proposição antiga (PEC 20/95) do ex-deputado Eduardo Jorge (SP). Se aprovado ainda neste ano, o semipresidencialismo só passaria a valer a partir das eleições de 2030. Já o voto distrito misto entraria em vigor nas eleições de 2026. No semipresidencialismo, o presidente eleito pelo voto popular direto divide o poder com um primeiro-ministro nomeado por ele, ouvido os partidos com maiores representações na Câmara. De acordo com a proposta, o primeiro-ministro será nomeado dentre os integrantes do Congresso Nacional maiores de 35 anos. Entenda a discussão sobre semipresidencialismo Presidente O presidente da República atua como chefe de Estado e comandante supremo das Forças. A ele cabe garantir a unidade e a independência da República, a defesa nacional e o livre exercício das instituições democráticas. Primeiro-ministro Por sua vez, o primeiro-ministro, juntamente com o conselho de ministros de Estado, chefia o governo. O primeiro-ministro elabora e apresenta ao presidente da República o programa de governo e, uma vez aprovado, comunica seu teor à Câmara dos Deputados. O primeiro-ministro deve comparecer mensalmente ao Congresso, para explicar a execução do programa de governo ou expor assunto de relevância para o país. A atuação do primeiro-ministro sustenta-se no apoio da Câmara dos Deputados. O primeiro-ministro e o conselho de ministros devem exonerar-se quando esse apoio faltar. Ou a Câmara pode votar a destituição do governo antes do fim do mandato, por meio do voto de censura. Concentração de poder Luiz Carlos Hauly argumenta que hoje não há mais espaço para o que chama de “presidencialismo arcaico praticado no Brasil”, no qual uma única autoridade concentra as responsabilidades de chefe de governo e de Estado. “Esse quadro institucional precisa ser revisto para que, em caso de uma nova crise institucional envolvendo o presidente da República, o Brasil não enfrente as prolongadas e incertas crises institucionais que antecederam as quedas de [Fernando] Collor e Dilma [Rousseff] e acabam afetando também o quadro econômico brasileiro”, justifica. Sem vice-presidente A PEC em análise na Câmara acaba com a figura do vice-presidente da República. O texto estabelece que, em caso de impedimento do presidente da República, ausência do país ou vacância, serão sucessivamente chamados ao exercício do cargo os presidentes da Câmara, do Senado Federal e do Supremo Tribunal Federal. A renúncia do presidente da República será efetivada por meio de mensagem ao Congresso. Na vacância do cargo, nova eleição será realizada em 45 dias, contados da data da declaração, iniciando o eleito um novo mandato. A proposta mantém o mandato do presidente da República em quatro anos, com início em 5 de janeiro do ano seguinte ao da eleição. Sistema eleitoral misto A proposta de Luiz Carlos Hauly muda também o sistema eleitoral no Brasil, instituindo o voto distrital misto para a Câmara dos Deputados. Pelo sistema sugerido, o eleitor terá dois votos desvinculados: um para o candidato de seu distrito eleitoral e outro para o partido de sua preferência. A combinação busca unir a representação local (distrital) e a proporcionalidade na distribuição de vagas entre os partidos. “O voto distrital misto permitiria uma maior aproximação entre os eleitores e seus representantes”, acredita Luiz Carlos Hauly. Próximos passos A PEC 2/25 será analisada pela Comissão de Constituição e Justiça e de Cidadania quanto a sua legalidade, juridicidade e constitucionalidade. Se admitida, será examinada por uma comissão especial a ser criada, antes de ser votada em dois turnos pelo Plenário. Para ser promulgado, o texto precisa ser aprovado pelos deputados e pelos senadores. Conheça a tramitação de propostas de emenda à Constituição",
+        "pontos": [],
+        "introPontos": "",
+        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
+        "url": "https://www.camara.leg.br/noticias/1131679-proposta-muda-a-constituicao-para-instituir-o-semipresidencialismo-no-brasil"
+      },
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Promulgação",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Na Constituição",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 666,
+        "contra": 107956,
+        "indecisos": 38,
+        "total": 108660,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2483164",
+        "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2025-02-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
         "semana": null
       }
@@ -209,10 +209,10 @@
         }
       ],
       "enquete": {
-        "favor": 255,
-        "contra": 20095,
+        "favor": 270,
+        "contra": 21004,
         "indecisos": 16,
-        "total": 20366,
+        "total": 21290,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -276,10 +276,10 @@
         }
       ],
       "enquete": {
-        "favor": 1301,
-        "contra": 127412,
+        "favor": 1313,
+        "contra": 128182,
         "indecisos": 41,
-        "total": 128754,
+        "total": 129536,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -343,10 +343,10 @@
         }
       ],
       "enquete": {
-        "favor": 1301,
-        "contra": 68161,
+        "favor": 1303,
+        "contra": 68916,
         "indecisos": 41,
-        "total": 69503,
+        "total": 70260,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -410,10 +410,10 @@
         }
       ],
       "enquete": {
-        "favor": 177,
-        "contra": 32992,
-        "indecisos": 18,
-        "total": 33187,
+        "favor": 183,
+        "contra": 33720,
+        "indecisos": 19,
+        "total": 33922,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -565,10 +565,10 @@
         }
       ],
       "enquete": {
-        "favor": 2,
+        "favor": 3,
         "contra": 0,
         "indecisos": 0,
-        "total": 2,
+        "total": 3,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=162645",
         "pergunta": "Você apoia essa proposição?",
@@ -627,10 +627,10 @@
         }
       ],
       "enquete": {
-        "favor": 76,
+        "favor": 85,
         "contra": 0,
         "indecisos": 0,
-        "total": 76,
+        "total": 85,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171607",
         "pergunta": "Você apoia essa proposição?",
@@ -919,10 +919,10 @@
         }
       ],
       "enquete": {
-        "favor": 20351,
-        "contra": 192,
+        "favor": 22669,
+        "contra": 214,
         "indecisos": 0,
-        "total": 20543,
+        "total": 22883,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
@@ -942,31 +942,31 @@
         "semana": null
       }
     },
-    "senado/pl-2326-2022": {
-      "slug": "senado/pl-2326-2022",
-      "chave": "senado-154535",
+    "senado/pl-1338-2022": {
+      "slug": "senado/pl-1338-2022",
+      "chave": "senado-153194",
       "casa": "senado",
-      "rotulo": "PL 2326/2022",
+      "rotulo": "PL 1338/2022",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Altera o art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, para conceder o porte de arma de fogo aos integrantes da Fundação Nacional do Índio em…",
+      "titulo": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da…",
       "tituloCompleto": false,
-      "ementa": "Altera o art. 6º da Lei nº 10.826, de 22 de dezembro de 2003, para conceder o porte de arma de fogo aos integrantes da Fundação Nacional do Índio em atividades de fiscalização.",
+      "ementa": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da Criança e do Adolescente), para dispor sobre a possibilidade de oferta domiciliar da educação básica.",
       "explicacao": null,
-      "origem": "senado",
+      "origem": "camara",
       "etapa": "senado",
-      "situacaoOficial": "MATÉRIA COM A RELATORIA",
+      "situacaoOficial": "PRONTA PARA A PAUTA NA COMISSÃO",
       "votacao": null,
       "chip": "No Senado",
       "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
       "passos": [
         {
-          "rotulo": "Senadores",
-          "estado": "atual"
+          "rotulo": "Deputados",
+          "estado": "feito"
         },
         {
-          "rotulo": "Deputados",
-          "estado": "falta"
+          "rotulo": "Senadores",
+          "estado": "atual"
         },
         {
           "rotulo": "Presidente",
@@ -978,12 +978,12 @@
         }
       ],
       "enquete": {
-        "favor": 3961,
-        "contra": 26,
+        "favor": 67554,
+        "contra": 82762,
         "indecisos": 0,
-        "total": 3987,
+        "total": 150316,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154535",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153194",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -996,7 +996,7 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/154535",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/153194",
       "votosPeriodo": {
         "semana": null
       }
