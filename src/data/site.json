@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-11-08T17:24:37.635Z",
-  "hoje": "2026-11-08",
+  "atualizadoEm": "2026-11-09T07:48:37.734Z",
+  "hoje": "2026-11-09",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
@@ -12,16 +12,14 @@
     "senado/pl-6683-2025"
   ],
   "emAlta": {
-    "porSemana": false,
+    "porSemana": true,
     "itens": [
-      "senado/pl-1338-2022",
-      "camara/pl-994-2026",
       "camara/pec-2-2025",
+      "camara/pl-1001-2026",
+      "camara/pl-994-2026",
       "camara/pl-1007-2026",
-      "camara/pl-1424-2026",
       "camara/pl-1005-2026",
-      "senado/pec-13-2022",
-      "camara/pl-1001-2026"
+      "senado/pl-6461-2019"
     ]
   },
   "propostas": {
@@ -68,10 +66,10 @@
         }
       ],
       "enquete": {
-        "favor": 2988,
-        "contra": 41736,
+        "favor": 3016,
+        "contra": 43175,
         "indecisos": 19,
-        "total": 44743,
+        "total": 46210,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -142,10 +140,10 @@
         }
       ],
       "enquete": {
-        "favor": 666,
-        "contra": 107956,
-        "indecisos": 38,
-        "total": 108660,
+        "favor": 673,
+        "contra": 108383,
+        "indecisos": 39,
+        "total": 109095,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -170,7 +168,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": null
+        "semana": 18135
       }
     },
     "camara/pl-1001-2026": {
@@ -209,10 +207,10 @@
         }
       ],
       "enquete": {
-        "favor": 270,
-        "contra": 21004,
+        "favor": 278,
+        "contra": 21510,
         "indecisos": 16,
-        "total": 21290,
+        "total": 21804,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -237,7 +235,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": null
+        "semana": 12146
       }
     },
     "camara/pl-994-2026": {
@@ -276,10 +274,10 @@
         }
       ],
       "enquete": {
-        "favor": 1313,
-        "contra": 128182,
-        "indecisos": 41,
-        "total": 129536,
+        "favor": 1319,
+        "contra": 128571,
+        "indecisos": 42,
+        "total": 129932,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -304,7 +302,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": null
+        "semana": 9958
       }
     },
     "camara/pl-1007-2026": {
@@ -343,10 +341,10 @@
         }
       ],
       "enquete": {
-        "favor": 1303,
-        "contra": 68916,
+        "favor": 1312,
+        "contra": 69324,
         "indecisos": 41,
-        "total": 70260,
+        "total": 70677,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -371,7 +369,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": null
+        "semana": 9945
       }
     },
     "camara/pl-1005-2026": {
@@ -410,10 +408,10 @@
         }
       ],
       "enquete": {
-        "favor": 183,
-        "contra": 33720,
+        "favor": 187,
+        "contra": 34092,
         "indecisos": 19,
-        "total": 33922,
+        "total": 34298,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -438,7 +436,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": null
+        "semana": 9255
       }
     },
     "senado/plp-109-2025": {
@@ -627,10 +625,10 @@
         }
       ],
       "enquete": {
-        "favor": 85,
+        "favor": 88,
         "contra": 0,
         "indecisos": 0,
-        "total": 85,
+        "total": 88,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171607",
         "pergunta": "Você apoia essa proposição?",
@@ -795,7 +793,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": null
+        "semana": 69
       }
     },
     "senado/pl-6683-2025": {
@@ -919,10 +917,10 @@
         }
       ],
       "enquete": {
-        "favor": 22669,
-        "contra": 214,
+        "favor": 23699,
+        "contra": 226,
         "indecisos": 0,
-        "total": 22883,
+        "total": 23925,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
@@ -942,31 +940,38 @@
         "semana": null
       }
     },
-    "senado/pl-1338-2022": {
-      "slug": "senado/pl-1338-2022",
-      "chave": "senado-153194",
+    "senado/pl-1809-2026": {
+      "slug": "senado/pl-1809-2026",
+      "chave": "senado-173618",
       "casa": "senado",
-      "rotulo": "PL 1338/2022",
+      "rotulo": "PL 1809/2026",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da…",
+      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
       "tituloCompleto": false,
-      "ementa": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da Criança e do Adolescente), para dispor sobre a possibilidade de oferta domiciliar da educação básica.",
-      "explicacao": null,
-      "origem": "camara",
+      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
+        "pontos": [],
+        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
+      },
+      "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
       "votacao": null,
       "chip": "No Senado",
       "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
       "passos": [
         {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
           "rotulo": "Senadores",
           "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -978,12 +983,12 @@
         }
       ],
       "enquete": {
-        "favor": 67554,
-        "contra": 82762,
+        "favor": 57198,
+        "contra": 800,
         "indecisos": 0,
-        "total": 150316,
+        "total": 57998,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153194",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -996,7 +1001,7 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/153194",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
         "semana": null
       }
