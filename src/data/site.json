@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-11-09T20:38:03.750Z",
-  "hoje": "2026-11-09",
+  "atualizadoEm": "2026-11-10T04:02:55.175Z",
+  "hoje": "2026-11-10",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
@@ -14,10 +14,11 @@
   "emAlta": {
     "porSemana": true,
     "itens": [
+      "senado/pl-1809-2026",
       "camara/pec-2-2025",
       "camara/pl-1001-2026",
-      "camara/pl-994-2026",
       "camara/pl-1007-2026",
+      "camara/pl-994-2026",
       "camara/pl-1005-2026",
       "senado/pl-6461-2019"
     ]
@@ -66,10 +67,10 @@
         }
       ],
       "enquete": {
-        "favor": 3050,
-        "contra": 44593,
+        "favor": 3065,
+        "contra": 45040,
         "indecisos": 22,
-        "total": 47665,
+        "total": 48127,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -140,10 +141,10 @@
         }
       ],
       "enquete": {
-        "favor": 676,
-        "contra": 108916,
+        "favor": 678,
+        "contra": 109130,
         "indecisos": 39,
-        "total": 109631,
+        "total": 109847,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -168,7 +169,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 18671
+        "semana": 13458
       }
     },
     "camara/pl-1001-2026": {
@@ -207,10 +208,10 @@
         }
       ],
       "enquete": {
-        "favor": 289,
-        "contra": 22242,
+        "favor": 295,
+        "contra": 22455,
         "indecisos": 16,
-        "total": 22547,
+        "total": 22766,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -235,74 +236,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 12889
-      }
-    },
-    "camara/pl-994-2026": {
-      "slug": "camara/pl-994-2026",
-      "chave": "camara-2607415",
-      "casa": "camara",
-      "rotulo": "PL 994/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
-      "tituloCompleto": true,
-      "ementa": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 1326,
-        "contra": 129155,
-        "indecisos": 42,
-        "total": 130523,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607415",
-        "pergunta": "Qual sua opinião sobre o PL 994/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
-      "votosPeriodo": {
-        "semana": 10549
+        "semana": 10880
       }
     },
     "camara/pl-1007-2026": {
@@ -341,10 +275,10 @@
         }
       ],
       "enquete": {
-        "favor": 1319,
-        "contra": 69904,
+        "favor": 1321,
+        "contra": 70069,
         "indecisos": 41,
-        "total": 71264,
+        "total": 71431,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -369,7 +303,74 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 10532
+        "semana": 8673
+      }
+    },
+    "camara/pl-994-2026": {
+      "slug": "camara/pl-994-2026",
+      "chave": "camara-2607415",
+      "casa": "camara",
+      "rotulo": "PL 994/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
+      "tituloCompleto": true,
+      "ementa": "Extingue a Agência Nacional do Cinema (ANCINE) e dispõe sobre a destinação de suas competências.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1330,
+        "contra": 129316,
+        "indecisos": 42,
+        "total": 130688,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607415",
+        "pergunta": "Qual sua opinião sobre o PL 994/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
+      "votosPeriodo": {
+        "semana": 8664
       }
     },
     "camara/pl-1005-2026": {
@@ -408,10 +409,10 @@
         }
       ],
       "enquete": {
-        "favor": 193,
-        "contra": 34625,
+        "favor": 195,
+        "contra": 34786,
         "indecisos": 19,
-        "total": 34837,
+        "total": 35000,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -436,7 +437,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 9794
+        "semana": 8087
       }
     },
     "senado/plp-109-2025": {
@@ -625,10 +626,10 @@
         }
       ],
       "enquete": {
-        "favor": 91,
+        "favor": 92,
         "contra": 0,
         "indecisos": 0,
-        "total": 91,
+        "total": 92,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171607",
         "pergunta": "Você apoia essa proposição?",
@@ -793,7 +794,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 123
+        "semana": 115
       }
     },
     "senado/pl-6683-2025": {
@@ -917,10 +918,10 @@
         }
       ],
       "enquete": {
-        "favor": 24739,
-        "contra": 243,
+        "favor": 25083,
+        "contra": 251,
         "indecisos": 0,
-        "total": 24982,
+        "total": 25334,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153397",
         "pergunta": "Você apoia essa proposição?",
@@ -983,10 +984,10 @@
         }
       ],
       "enquete": {
-        "favor": 58150,
-        "contra": 810,
+        "favor": 58489,
+        "contra": 814,
         "indecisos": 0,
-        "total": 58960,
+        "total": 59303,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1003,7 +1004,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": null
+        "semana": 32021
       }
     }
   }
