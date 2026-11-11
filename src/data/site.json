@@ -1,23 +1,17 @@
 {
-  "atualizadoEm": "2026-11-10T23:59:01.263Z",
-  "hoje": "2026-11-10",
+  "atualizadoEm": "2026-11-11T07:37:58.856Z",
+  "hoje": "2026-11-11",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
   "vemAi": [
-    "senado/plp-109-2025",
-    "senado/pl-5608-2023",
-    "senado/pdl-934-2025",
     "camara/pl-215-2015",
     "camara/pl-79-2020",
     "camara/pl-504-2021",
     "camara/pl-636-2023",
-    "camara/pl-2829-2024",
     "camara/pl-2475-2025",
-    "camara/pl-4159-2025",
+    "camara/pl-724-2003",
     "camara/pdl-557-2026",
     "camara/pl-423-2022",
-    "camara/pl-4724-2024",
-    "camara/pl-724-2003",
     "camara/pl-4754-2024",
     "camara/pl-2500-2025",
     "camara/pl-464-2026",
@@ -32,8 +26,8 @@
       "camara/pl-1001-2026",
       "camara/pl-994-2026",
       "camara/pl-1007-2026",
-      "camara/pl-995-2026",
       "camara/pl-1005-2026",
+      "camara/pl-995-2026",
       "senado/pl-6461-2019",
       "camara/pl-2475-2025"
     ]
@@ -61,10 +55,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -143,10 +137,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
       "passos": [
         {
@@ -167,10 +161,10 @@
         }
       ],
       "enquete": {
-        "favor": 0,
-        "contra": 10,
+        "favor": 1,
+        "contra": 15,
         "indecisos": 0,
-        "total": 10,
+        "total": 16,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2596596",
         "pergunta": "Qual sua opinião sobre o PL 79/2020?",
@@ -224,10 +218,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -302,10 +296,10 @@
       "etapa": "camara",
       "situacaoOficial": "",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -377,96 +371,6 @@
         "semana": null
       }
     },
-    "camara/pl-2829-2024": {
-      "slug": "camara/pl-2829-2024",
-      "chave": "camara-2465246",
-      "casa": "camara",
-      "rotulo": "PL 2829/2024",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Denomina “Viaduto Severo Eulálio Filho” o viaduto localizado na BR-343, na Ladeira do Uruguai, Zona Leste do Município de Teresina, Estado do Piauí.",
-      "tituloCompleto": true,
-      "ementa": "Denomina “Viaduto Severo Eulálio Filho” o viaduto localizado na BR-343, na Ladeira do Uruguai, Zona Leste do Município de Teresina, Estado do Piauí.",
-      "explicacao": null,
-      "origem": "senado",
-      "etapa": "presidente",
-      "situacaoOficial": "Aguardando Remessa à Sanção",
-      "votacao": {
-        "data": "2026-11-10T14:03",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam terça, 10/11",
-      "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 0,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 1,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2465246",
-        "pergunta": "Qual sua opinião sobre o PL 2829/2024?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": false
-      },
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-10",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2026-09-01",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2026-08-13",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-12-03",
-          "texto": "Aprovada na comissão CCULT"
-        },
-        {
-          "data": "2025-08-13",
-          "texto": "Aprovada na comissão CVT"
-        },
-        {
-          "data": "2024-10-29",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2465246",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-2475-2025": {
       "slug": "camara/pl-2475-2025",
       "chave": "camara-2515534",
@@ -482,10 +386,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -538,37 +442,37 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515534",
       "votosPeriodo": {
-        "semana": 13
+        "semana": 12
       }
     },
-    "camara/pl-4159-2025": {
-      "slug": "camara/pl-4159-2025",
-      "chave": "camara-2551091",
+    "camara/pl-724-2003": {
+      "slug": "camara/pl-724-2003",
+      "chave": "camara-110593",
       "casa": "camara",
-      "rotulo": "PL 4159/2025",
+      "rotulo": "PL 724/2003",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria.",
-      "tituloCompleto": true,
-      "ementa": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria.",
+      "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito.",
       "explicacao": null,
       "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "Aguardando Envio ao Senado Federal",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "feito"
+          "estado": "atual"
         },
         {
           "rotulo": "Senadores",
-          "estado": "atual"
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -579,52 +483,48 @@
           "estado": "falta"
         }
       ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 1,
-        "total": 3,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2551091",
-        "pergunta": "Qual sua opinião sobre o PL 4159/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": false
-      },
+      "enquete": null,
       "acoes": {
         "enquete": false,
-        "falarCom": "senadores"
+        "falarCom": "deputados"
       },
       "linhaDoTempo": [
         {
           "data": "2026-11-10",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2026-09-01",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2026-08-12",
           "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
         },
         {
-          "data": "2026-04-08",
-          "texto": "Aprovada na comissão CCULT"
+          "data": "2025-12-17",
+          "texto": "Aprovada na comissão CCJC"
         },
         {
-          "data": "2025-08-21",
-          "texto": "Proposta apresentada na Câmara"
+          "data": "2025-12-16",
+          "texto": "Retirada da pauta de votação"
+        },
+        {
+          "data": "2024-04-24",
+          "texto": "Retirada da pauta de votação"
+        },
+        {
+          "data": "2024-04-23",
+          "texto": "Retirada da pauta de votação"
+        },
+        {
+          "data": "2019-01-31",
+          "texto": "Arquivada"
+        },
+        {
+          "data": "2015-01-31",
+          "texto": "Arquivada"
+        },
+        {
+          "data": "2011-03-23",
+          "texto": "Retirada da pauta de votação"
         }
       ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551091",
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=110593",
       "votosPeriodo": {
-        "semana": 0
+        "semana": null
       }
     },
     "camara/pdl-557-2026": {
@@ -642,10 +542,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Designação de Relator(a)",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -727,10 +627,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
       "passos": [
         {
@@ -794,173 +694,6 @@
         "semana": null
       }
     },
-    "camara/pl-4724-2024": {
-      "slug": "camara/pl-4724-2024",
-      "chave": "camara-2476576",
-      "casa": "camara",
-      "rotulo": "PL 4724/2024",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Acrescenta o § 1º ao artigo 299 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para prever causa de aumento de pena quando o crime for…",
-      "tituloCompleto": false,
-      "ementa": "Acrescenta o § 1º ao artigo 299 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para prever causa de aumento de pena quando o crime for cometido por meio de associações ou organizações criminosas.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 4724/24, do deputado Cabo Gilberto Silva (PL-PB), dobra a pena para compra de votos quando o crime for cometido envolvendo organização criminosa. Com a mudança, a pena iria para reclusão de até oito anos. O texto altera o Código Eleitoral (Lei 4.737/65) e está em análise na Câmara dos Deputados. Gilberto Silva afirmou que a compra de votos por meio de acordos com facções criminosas tem sido uma prática recorrente em nosso país. “As leis devem se aperfeiçoar na medida em que a sociedade muda, devendo se relacionar com o tempo e o contexto social”, observou. Segundo Silva, nas eleições de 2024 surgiu um novo modelo de compra de votos, a compra por meio de acordos com organizações criminosas. A Polícia Federal, em cooperação com a Polícia Civil do Ceará, desarticulou suposto esquema de compra de votos no município de Acarape (CE), que contaria com a participação de membros de uma facção criminosa. Próximos passos A proposta será analisada pela Comissão de Constituição e Justiça e de Cidadania. Em seguida, irá ao Plenário. Para virar lei, a proposta precisa ser aprovada pela Câmara e pelo Senado. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1142394-proposta-dobra-pena-para-compra-de-voto-quando-ha-organizacao-criminosa-envolvida"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "",
-      "votacao": {
-        "data": "2026-11-10T14:03",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam terça, 10/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 2,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2476576",
-        "pergunta": "Qual sua opinião sobre o PL 4724/2024?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-10",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2025-07-02",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2024-12-05",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2476576",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-724-2003": {
-      "slug": "camara/pl-724-2003",
-      "chave": "camara-110593",
-      "casa": "camara",
-      "rotulo": "PL 724/2003",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-10T14:03",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam terça, 10/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-10",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-12-17",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2025-12-16",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2024-04-24",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2024-04-23",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2019-01-31",
-          "texto": "Arquivada"
-        },
-        {
-          "data": "2015-01-31",
-          "texto": "Arquivada"
-        },
-        {
-          "data": "2011-03-23",
-          "texto": "Retirada da pauta de votação"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=110593",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-4754-2024": {
       "slug": "camara/pl-4754-2024",
       "chave": "camara-2476909",
@@ -983,10 +716,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -1057,10 +790,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -1115,10 +848,10 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-10T14:03",
+        "data": "2026-11-11T13:55",
         "quem": "deputados"
       },
-      "chip": "Deputados votam terça, 10/11",
+      "chip": "Deputados votam quarta, 11/11",
       "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
       "passos": [
         {
@@ -1221,10 +954,10 @@
         }
       ],
       "enquete": {
-        "favor": 3109,
-        "contra": 45833,
+        "favor": 3116,
+        "contra": 45957,
         "indecisos": 22,
-        "total": 48964,
+        "total": 49095,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -1295,10 +1028,10 @@
         }
       ],
       "enquete": {
-        "favor": 685,
-        "contra": 109873,
+        "favor": 687,
+        "contra": 109973,
         "indecisos": 39,
-        "total": 110597,
+        "total": 110699,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1323,7 +1056,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 14208
+        "semana": 12292
       }
     },
     "camara/pl-1001-2026": {
@@ -1363,9 +1096,9 @@
       ],
       "enquete": {
         "favor": 301,
-        "contra": 23095,
+        "contra": 23212,
         "indecisos": 16,
-        "total": 23412,
+        "total": 23529,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1390,7 +1123,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 11526
+        "semana": 8667
       }
     },
     "camara/pl-994-2026": {
@@ -1430,9 +1163,9 @@
       ],
       "enquete": {
         "favor": 1337,
-        "contra": 129878,
+        "contra": 129982,
         "indecisos": 42,
-        "total": 131257,
+        "total": 131361,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1457,7 +1190,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 9233
+        "semana": 7008
       }
     },
     "camara/pl-1007-2026": {
@@ -1497,9 +1230,9 @@
       ],
       "enquete": {
         "favor": 1326,
-        "contra": 70593,
+        "contra": 70690,
         "indecisos": 42,
-        "total": 71961,
+        "total": 72058,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1524,7 +1257,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 9203
+        "semana": 6854
       }
     },
     "camara/pl-995-2026": {
@@ -1564,9 +1297,9 @@
       ],
       "enquete": {
         "favor": 286,
-        "contra": 22113,
+        "contra": 22210,
         "indecisos": 17,
-        "total": 22416,
+        "total": 22513,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1591,7 +1324,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
       "votosPeriodo": {
-        "semana": 8642
+        "semana": 6395
       }
     },
     "camara/pl-1005-2026": {
@@ -1631,9 +1364,9 @@
       ],
       "enquete": {
         "favor": 199,
-        "contra": 35273,
+        "contra": 35371,
         "indecisos": 19,
-        "total": 35491,
+        "total": 35589,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1658,167 +1391,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 8578
-      }
-    },
-    "senado/plp-109-2025": {
-      "slug": "senado/plp-109-2025",
-      "chave": "senado-173581",
-      "casa": "senado",
-      "rotulo": "PLP 109/2025",
-      "tipo": "Projeto de lei complementar",
-      "sigla": "PLP",
-      "titulo": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de…",
-      "tituloCompleto": false,
-      "ementa": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do § 1º do art. 145 da Constituição Federal.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-10T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam terça, 10/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173581",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pl-5608-2023": {
-      "slug": "senado/pl-5608-2023",
-      "chave": "senado-162645",
-      "casa": "senado",
-      "rotulo": "PL 5608/2023",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Programa Empresa Rosa\nSelo Rosa",
-      "tituloCompleto": false,
-      "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-10T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam terça, 10/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162645",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pdl-934-2025": {
-      "slug": "senado/pdl-934-2025",
-      "chave": "senado-171607",
-      "casa": "senado",
-      "rotulo": "PDL 934/2025",
-      "tipo": "Projeto de decreto legislativo",
-      "sigla": "PDL",
-      "titulo": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no…",
-      "tituloCompleto": false,
-      "ementa": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no Caribe (Acordo de Escazú), assinado em Nova York, em 27 de setembro de 2018.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "MATÉRIA DESPACHADA",
-      "votacao": {
-        "data": "2026-11-10T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam terça, 10/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 95,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 95,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=171607",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171607",
-      "votosPeriodo": {
-        "semana": null
+        "semana": 6479
       }
     },
     "senado/plp-230-2025": {
@@ -1966,7 +1539,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 192
+        "semana": 164
       }
     },
     "senado/pl-6683-2025": {
@@ -2089,10 +1662,10 @@
         }
       ],
       "enquete": {
-        "favor": 9494,
-        "contra": 166,
+        "favor": 18218,
+        "contra": 288,
         "indecisos": 0,
-        "total": 9660,
+        "total": 18506,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
@@ -2148,10 +1721,10 @@
         }
       ],
       "enquete": {
-        "favor": 68914,
-        "contra": 83290,
+        "favor": 68968,
+        "contra": 83498,
         "indecisos": 0,
-        "total": 152204,
+        "total": 152466,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153194",
         "pergunta": "Você apoia essa proposição?",
