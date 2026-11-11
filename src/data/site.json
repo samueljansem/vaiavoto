@@ -1,9 +1,12 @@
 {
-  "atualizadoEm": "2026-11-11T07:37:58.856Z",
+  "atualizadoEm": "2026-11-11T17:50:29.580Z",
   "hoje": "2026-11-11",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
   "vemAi": [
+    "senado/plp-230-2025",
+    "senado/pl-6461-2019",
+    "senado/pl-6683-2025",
     "camara/pl-215-2015",
     "camara/pl-79-2020",
     "camara/pl-504-2021",
@@ -14,14 +17,12 @@
     "camara/pl-423-2022",
     "camara/pl-4754-2024",
     "camara/pl-2500-2025",
-    "camara/pl-464-2026",
-    "senado/plp-230-2025",
-    "senado/pl-6461-2019",
-    "senado/pl-6683-2025"
+    "camara/pl-464-2026"
   ],
   "emAlta": {
     "porSemana": true,
     "itens": [
+      "senado/pl-1809-2026",
       "camara/pec-2-2025",
       "camara/pl-1001-2026",
       "camara/pl-994-2026",
@@ -55,7 +56,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -137,7 +138,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -162,9 +163,9 @@
       ],
       "enquete": {
         "favor": 1,
-        "contra": 15,
+        "contra": 16,
         "indecisos": 0,
-        "total": 16,
+        "total": 17,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2596596",
         "pergunta": "Qual sua opinião sobre o PL 79/2020?",
@@ -218,7 +219,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -296,7 +297,7 @@
       "etapa": "camara",
       "situacaoOficial": "",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -386,7 +387,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -460,7 +461,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -540,9 +541,9 @@
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Designação de Relator(a)",
+      "situacaoOficial": "",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -627,7 +628,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -716,7 +717,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -790,7 +791,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -848,7 +849,7 @@
       "etapa": "camara",
       "situacaoOficial": "Aguardando Deliberação",
       "votacao": {
-        "data": "2026-11-11T13:55",
+        "data": "2026-11-11T14:39",
         "quem": "deputados"
       },
       "chip": "Deputados votam quarta, 11/11",
@@ -954,10 +955,10 @@
         }
       ],
       "enquete": {
-        "favor": 3116,
-        "contra": 45957,
+        "favor": 3128,
+        "contra": 46260,
         "indecisos": 22,
-        "total": 49095,
+        "total": 49410,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -1028,10 +1029,10 @@
         }
       ],
       "enquete": {
-        "favor": 687,
-        "contra": 109973,
+        "favor": 690,
+        "contra": 110232,
         "indecisos": 39,
-        "total": 110699,
+        "total": 110961,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1056,7 +1057,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 12292
+        "semana": 12554
       }
     },
     "camara/pl-1001-2026": {
@@ -1095,10 +1096,10 @@
         }
       ],
       "enquete": {
-        "favor": 301,
-        "contra": 23212,
+        "favor": 306,
+        "contra": 23455,
         "indecisos": 16,
-        "total": 23529,
+        "total": 23777,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1123,7 +1124,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 8667
+        "semana": 8915
       }
     },
     "camara/pl-994-2026": {
@@ -1162,10 +1163,10 @@
         }
       ],
       "enquete": {
-        "favor": 1337,
-        "contra": 129982,
+        "favor": 1342,
+        "contra": 130201,
         "indecisos": 42,
-        "total": 131361,
+        "total": 131585,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1190,7 +1191,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 7008
+        "semana": 7232
       }
     },
     "camara/pl-1007-2026": {
@@ -1229,10 +1230,10 @@
         }
       ],
       "enquete": {
-        "favor": 1326,
-        "contra": 70690,
+        "favor": 1330,
+        "contra": 70898,
         "indecisos": 42,
-        "total": 72058,
+        "total": 72270,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1257,7 +1258,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 6854
+        "semana": 7066
       }
     },
     "camara/pl-995-2026": {
@@ -1296,10 +1297,10 @@
         }
       ],
       "enquete": {
-        "favor": 286,
-        "contra": 22210,
+        "favor": 290,
+        "contra": 22403,
         "indecisos": 17,
-        "total": 22513,
+        "total": 22710,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -1324,7 +1325,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
       "votosPeriodo": {
-        "semana": 6395
+        "semana": 6592
       }
     },
     "camara/pl-1005-2026": {
@@ -1363,10 +1364,10 @@
         }
       ],
       "enquete": {
-        "favor": 199,
-        "contra": 35371,
+        "favor": 202,
+        "contra": 35542,
         "indecisos": 19,
-        "total": 35589,
+        "total": 35763,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1391,7 +1392,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 6479
+        "semana": 6653
       }
     },
     "senado/plp-230-2025": {
@@ -1519,10 +1520,10 @@
         }
       ],
       "enquete": {
-        "favor": 127,
-        "contra": 156,
+        "favor": 134,
+        "contra": 198,
         "indecisos": 0,
-        "total": 283,
+        "total": 332,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -1539,7 +1540,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 164
+        "semana": 213
       }
     },
     "senado/pl-6683-2025": {
@@ -1662,10 +1663,10 @@
         }
       ],
       "enquete": {
-        "favor": 18218,
-        "contra": 288,
+        "favor": 32511,
+        "contra": 565,
         "indecisos": 0,
-        "total": 18506,
+        "total": 33076,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
@@ -1685,31 +1686,38 @@
         "semana": null
       }
     },
-    "senado/pl-1338-2022": {
-      "slug": "senado/pl-1338-2022",
-      "chave": "senado-153194",
+    "senado/pl-1809-2026": {
+      "slug": "senado/pl-1809-2026",
+      "chave": "senado-173618",
       "casa": "senado",
-      "rotulo": "PL 1338/2022",
+      "rotulo": "PL 1809/2026",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da…",
+      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
       "tituloCompleto": false,
-      "ementa": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 8.069, de 13 de julho de 1990, (Estatuto da Criança e do Adolescente), para dispor sobre a possibilidade de oferta domiciliar da educação básica.",
-      "explicacao": null,
-      "origem": "camara",
+      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
+        "pontos": [],
+        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
+      },
+      "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
       "votacao": null,
       "chip": "No Senado",
       "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
       "passos": [
         {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
           "rotulo": "Senadores",
           "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -1721,12 +1729,12 @@
         }
       ],
       "enquete": {
-        "favor": 68968,
-        "contra": 83498,
+        "favor": 65231,
+        "contra": 856,
         "indecisos": 0,
-        "total": 152466,
+        "total": 66087,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=153194",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -1739,9 +1747,9 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/153194",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": null
+        "semana": 22613
       }
     }
   }
