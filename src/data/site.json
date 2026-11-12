@@ -1,19 +1,17 @@
 {
-  "atualizadoEm": "2026-11-11T17:50:29.580Z",
+  "atualizadoEm": "2026-11-12T01:27:08.690Z",
   "hoje": "2026-11-11",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
   "vemAi": [
     "senado/plp-230-2025",
+    "senado/mpv-1376-2026",
     "senado/pl-6461-2019",
     "senado/pl-6683-2025",
     "camara/pl-215-2015",
     "camara/pl-79-2020",
-    "camara/pl-504-2021",
     "camara/pl-636-2023",
-    "camara/pl-2475-2025",
     "camara/pl-724-2003",
-    "camara/pdl-557-2026",
     "camara/pl-423-2022",
     "camara/pl-4754-2024",
     "camara/pl-2500-2025",
@@ -28,9 +26,7 @@
       "camara/pl-994-2026",
       "camara/pl-1007-2026",
       "camara/pl-1005-2026",
-      "camara/pl-995-2026",
-      "senado/pl-6461-2019",
-      "camara/pl-2475-2025"
+      "senado/pl-6461-2019"
     ]
   },
   "propostas": {
@@ -197,91 +193,6 @@
         "semana": null
       }
     },
-    "camara/pl-504-2021": {
-      "slug": "camara/pl-504-2021",
-      "chave": "camara-2270540",
-      "casa": "camara",
-      "rotulo": "PL 504/2021",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Cria a Política Nacional de Residência em Área Profissional da Saúde.",
-      "tituloCompleto": true,
-      "ementa": "Cria a Política Nacional de Residência em Área Profissional da Saúde.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 504/21 cria a Política Nacional de Residência em Área Profissional da Saúde. O texto está em análise na Câmara dos Deputados. “É importante uma legislação que consolide respostas para os desafios do País, assegure a formação para o cuidado à população e subsidie o financiamento das residências em saúde”, diz o autor, deputado Alexandre Padilha (PT-SP). Segundo o parlamentar, as Residências em Área Profissional da Saúde existem no Brasil há mais de 60 anos. São uma modalidade de ensino de pós-graduação lato sensu, voltada para a educação em serviço e destinada às 15 categorias de nível superior que atuam no Sistema Único de Saúde (SUS). As categorias profissionais hoje com acesso a essa formação são Biomedicina, Ciências Biológicas, Educação Física, Enfermagem, Farmácia, Fisioterapia, Fonoaudiologia, Medicina, Medicina Veterinária, Nutrição, Odontologia, Psicologia, Saúde Coletiva, Serviço Social e Terapia Ocupacional. Mais categorias Alexandre Padilha sugere a inclusão, nessa lista, dos graduados em Agronomia, Antropologia, Artes, Física, Pedagogia e Zootecnia. Segundo o deputado, esses profissionais têm presença garantida em diversas políticas de saúde, mas não possuem oportunidades de formação para posterior atuação no SUS. Estimativa aponta a existência de 1.180 programas, aos quais estão vinculados cerca de 13.036 residentes com bolsas financiadas pelos ministérios da Saúde e da Educação. Outros programas, financiados por estados e municípios, não oferecem acesso público a dados atualizados, explica o parlamentar. Alexandre Padilha destaca que o projeto baseia-se em trabalhos da Comissão Nacional de Residências em Área Profissional da Saúde e considera resultados da participação de entidades, profissionais e residentes em diversos fóruns. Detalhamento A política nacional terá como objetivo qualificar os futuros trabalhadores do SUS por meio da unificação e aperfeiçoamento das normas existentes. Isso é detalhado na proposta por meio de 52 artigos divididos em quatro capítulos. O texto prevê princípios e diretrizes gerais da Residência em Área Profissional da Saúde; define como serão os programas e as responsabilidades das esferas de governo (federal, estaduais e municipais) – a gestão do SUS é tripartite –; inclui formas de financiamento e o estágio não obrigatório. Na parte das especificidades, regulamenta a Comissão Nacional de Residência em Área Profissional da Saúde e instâncias vinculadas, bem como a atuação das comissões instaladas em cada instituição participante, seja pública ou privada, e dos envolvidos (coordenação, docentes, tutores, preceptores e residentes). Entre outros pontos, a proposta prevê carga horária mínima de 40 semanais e duração mínima de dois anos, podendo ser mais. O Ministério da Saúde fixará, especificamente, o valor das bolsas para coordenadores, tutores e preceptores. O auxílio financeiro a qualquer profissional não significará vínculo trabalhista. Tramitação O projeto tramita em caráter conclusivo e será analisado pelas comissões de Educação; de Seguridade Social e Família; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/758278-proposta-cria-politica-nacional-para-residencias-em-saude"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 54,
-        "contra": 81,
-        "indecisos": 1,
-        "total": 136,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2270540",
-        "pergunta": "Qual sua opinião sobre o PL 504/2021?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-03",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2021-09-08",
-          "texto": "Aprovada na comissão CE"
-        },
-        {
-          "data": "2021-02-19",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2270540",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-636-2023": {
       "slug": "camara/pl-636-2023",
       "chave": "camara-2349176",
@@ -372,80 +283,6 @@
         "semana": null
       }
     },
-    "camara/pl-2475-2025": {
-      "slug": "camara/pl-2475-2025",
-      "chave": "camara-2515534",
-      "casa": "camara",
-      "rotulo": "PL 2475/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 175,
-        "contra": 1,
-        "indecisos": 0,
-        "total": 176,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2515534",
-        "pergunta": "Qual sua opinião sobre o PL 2475/2025?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-17",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-05-22",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515534",
-      "votosPeriodo": {
-        "semana": 12
-      }
-    },
     "camara/pl-724-2003": {
       "slug": "camara/pl-724-2003",
       "chave": "camara-110593",
@@ -528,84 +365,6 @@
         "semana": null
       }
     },
-    "camara/pdl-557-2026": {
-      "slug": "camara/pdl-557-2026",
-      "chave": "camara-2629310",
-      "casa": "camara",
-      "rotulo": "PDL 557/2026",
-      "tipo": "Projeto de decreto legislativo",
-      "sigla": "PDL",
-      "titulo": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de adesão…",
-      "tituloCompleto": false,
-      "ementa": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de adesão brasileira ao referido instrumento.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 2,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2629310",
-        "pergunta": "Qual sua opinião sobre o PDL 557/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-04",
-          "texto": "Aprovada na comissão CVT"
-        },
-        {
-          "data": "2026-10-28",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2026-05-29",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629310",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-423-2022": {
       "slug": "camara/pl-423-2022",
       "chave": "camara-2321628",
@@ -652,10 +411,10 @@
         }
       ],
       "enquete": {
-        "favor": 24,
+        "favor": 25,
         "contra": 3,
         "indecisos": 1,
-        "total": 28,
+        "total": 29,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2321628",
         "pergunta": "Qual sua opinião sobre o PL 423/2022?",
@@ -847,7 +606,7 @@
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
+      "situacaoOficial": "",
       "votacao": {
         "data": "2026-11-11T14:39",
         "quem": "deputados"
@@ -894,6 +653,10 @@
         "falarCom": "deputados"
       },
       "linhaDoTempo": [
+        {
+          "data": "2026-11-11",
+          "texto": "Aprovada pelos deputados"
+        },
         {
           "data": "2026-07-15",
           "texto": "Aprovada na comissão CCJC"
@@ -955,10 +718,10 @@
         }
       ],
       "enquete": {
-        "favor": 3128,
-        "contra": 46260,
+        "favor": 3139,
+        "contra": 46409,
         "indecisos": 22,
-        "total": 49410,
+        "total": 49570,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -1029,10 +792,10 @@
         }
       ],
       "enquete": {
-        "favor": 690,
-        "contra": 110232,
+        "favor": 692,
+        "contra": 110350,
         "indecisos": 39,
-        "total": 110961,
+        "total": 111081,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -1057,7 +820,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 12554
+        "semana": 12674
       }
     },
     "camara/pl-1001-2026": {
@@ -1096,10 +859,10 @@
         }
       ],
       "enquete": {
-        "favor": 306,
-        "contra": 23455,
+        "favor": 307,
+        "contra": 23596,
         "indecisos": 16,
-        "total": 23777,
+        "total": 23919,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -1124,7 +887,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 8915
+        "semana": 9057
       }
     },
     "camara/pl-994-2026": {
@@ -1163,10 +926,10 @@
         }
       ],
       "enquete": {
-        "favor": 1342,
-        "contra": 130201,
+        "favor": 1343,
+        "contra": 130322,
         "indecisos": 42,
-        "total": 131585,
+        "total": 131707,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -1191,7 +954,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 7232
+        "semana": 7354
       }
     },
     "camara/pl-1007-2026": {
@@ -1230,10 +993,10 @@
         }
       ],
       "enquete": {
-        "favor": 1330,
-        "contra": 70898,
+        "favor": 1331,
+        "contra": 71017,
         "indecisos": 42,
-        "total": 72270,
+        "total": 72390,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1258,74 +1021,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 7066
-      }
-    },
-    "camara/pl-995-2026": {
-      "slug": "camara/pl-995-2026",
-      "chave": "camara-2607416",
-      "casa": "camara",
-      "rotulo": "PL 995/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
-      "tituloCompleto": true,
-      "ementa": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 290,
-        "contra": 22403,
-        "indecisos": 17,
-        "total": 22710,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607416",
-        "pergunta": "Qual sua opinião sobre o PL 995/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
-      "votosPeriodo": {
-        "semana": 6592
+        "semana": 7186
       }
     },
     "camara/pl-1005-2026": {
@@ -1365,9 +1061,9 @@
       ],
       "enquete": {
         "favor": 202,
-        "contra": 35542,
+        "contra": 35648,
         "indecisos": 19,
-        "total": 35763,
+        "total": 35869,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1392,7 +1088,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 6653
+        "semana": 6759
       }
     },
     "senado/plp-230-2025": {
@@ -1405,21 +1101,10 @@
       "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira…",
       "tituloCompleto": false,
       "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta impede que o dinheiro destinado ao Fundo de Universalização dos Serviços de Telecomunicações (Fust) seja limitado ou bloqueado. Ela também garante que esses recursos sejam usados para melhorar o acesso à internet nas escolas públicas, especialmente nas áreas rurais, e proíbe que o dinheiro do Fust seja reservado para emergências financeiras.",
-        "pontos": [
-          "Maior garantia de que os recursos do Fust serão usados para melhorar a conectividade nas escolas públicas, o que pode beneficiar a educação.",
-          "A segurança de que o dinheiro do Fust não será desviado para outras finalidades, mesmo em situações de crise financeira.",
-          "A possibilidade de que as escolas, especialmente as localizadas fora das áreas urbanas, tenham acesso à internet de qualidade, o que pode melhorar o ensino e a administração escolar."
-        ],
-        "introPontos": "As possíveis consequências da proposta incluem:",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175647"
-      },
+      "explicacao": null,
       "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "etapa": "encerrada",
+      "situacaoOficial": "APROVADA",
       "votacao": {
         "data": "2026-11-11T14:00",
         "quem": "senadores"
@@ -1429,11 +1114,11 @@
       "passos": [
         {
           "rotulo": "Deputados",
-          "estado": "feito"
+          "estado": "falta"
         },
         {
           "rotulo": "Senadores",
-          "estado": "atual"
+          "estado": "falta"
         },
         {
           "rotulo": "Presidente",
@@ -1444,26 +1129,62 @@
           "estado": "falta"
         }
       ],
-      "enquete": {
-        "favor": 3,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 3,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175647",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
+      "enquete": null,
       "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
+        "enquete": false,
+        "falarCom": null
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175647",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/mpv-1376-2026": {
+      "slug": "senado/mpv-1376-2026",
+      "chave": "senado-175190",
+      "casa": "senado",
+      "rotulo": "MPV 1376/2026",
+      "tipo": "Medida provisória",
+      "sigla": "MPV",
+      "titulo": "MP das dívidas rurais",
+      "tituloCompleto": false,
+      "ementa": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos.",
+      "explicacao": null,
+      "origem": "senado",
+      "etapa": "encerrada",
+      "situacaoOficial": "APROVADO O PROJETO DE LEI DE CONVERSÃO",
+      "votacao": {
+        "data": "2026-11-11T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 11/11",
+      "agora": "Já está valendo, mas perde a validade se não for aprovada a tempo pela Câmara e pelo Senado.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": null,
+      "acoes": {
+        "enquete": false,
+        "falarCom": null
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175190",
       "votosPeriodo": {
         "semana": null
       }
@@ -1521,9 +1242,9 @@
       ],
       "enquete": {
         "favor": 134,
-        "contra": 198,
+        "contra": 214,
         "indecisos": 0,
-        "total": 332,
+        "total": 348,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -1540,7 +1261,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 213
+        "semana": 229
       }
     },
     "senado/pl-6683-2025": {
@@ -1663,10 +1384,10 @@
         }
       ],
       "enquete": {
-        "favor": 32511,
-        "contra": 565,
+        "favor": 37533,
+        "contra": 682,
         "indecisos": 0,
-        "total": 33076,
+        "total": 38215,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
@@ -1729,10 +1450,10 @@
         }
       ],
       "enquete": {
-        "favor": 65231,
-        "contra": 856,
+        "favor": 68833,
+        "contra": 872,
         "indecisos": 0,
-        "total": 66087,
+        "total": 69705,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1749,7 +1470,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": 22613
+        "semana": 26231
       }
     }
   }
