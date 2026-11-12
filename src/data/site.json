@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T08:06:42.997Z",
+  "atualizadoEm": "2026-11-12T18:06:56.370Z",
   "hoje": "2026-11-12",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
@@ -63,10 +63,10 @@
         }
       ],
       "enquete": {
-        "favor": 3141,
-        "contra": 46434,
+        "favor": 3147,
+        "contra": 46544,
         "indecisos": 22,
-        "total": 49597,
+        "total": 49713,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -91,7 +91,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 31120
+        "semana": 31236
       }
     },
     "camara/pec-2-2025": {
@@ -138,9 +138,9 @@
       ],
       "enquete": {
         "favor": 693,
-        "contra": 110375,
+        "contra": 110442,
         "indecisos": 39,
-        "total": 111107,
+        "total": 111174,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -165,7 +165,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 9756
+        "semana": 9823
       }
     },
     "camara/pl-1001-2026": {
@@ -204,10 +204,10 @@
         }
       ],
       "enquete": {
-        "favor": 307,
-        "contra": 23622,
-        "indecisos": 16,
-        "total": 23945,
+        "favor": 308,
+        "contra": 23708,
+        "indecisos": 17,
+        "total": 24033,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -232,7 +232,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 6475
+        "semana": 6563
       }
     },
     "camara/pl-994-2026": {
@@ -272,9 +272,9 @@
       ],
       "enquete": {
         "favor": 1344,
-        "contra": 130346,
+        "contra": 130416,
         "indecisos": 42,
-        "total": 131732,
+        "total": 131802,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -299,7 +299,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 5434
+        "semana": 5504
       }
     },
     "camara/pl-1007-2026": {
@@ -339,9 +339,9 @@
       ],
       "enquete": {
         "favor": 1331,
-        "contra": 71040,
+        "contra": 71113,
         "indecisos": 42,
-        "total": 72413,
+        "total": 72486,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -366,7 +366,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 5191
+        "semana": 5264
       }
     },
     "camara/pl-1005-2026": {
@@ -406,9 +406,9 @@
       ],
       "enquete": {
         "favor": 202,
-        "contra": 35670,
+        "contra": 35731,
         "indecisos": 20,
-        "total": 35892,
+        "total": 35953,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -433,7 +433,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 4927
+        "semana": 4988
       }
     },
     "senado/pl-6461-2019": {
@@ -488,10 +488,10 @@
         }
       ],
       "enquete": {
-        "favor": 134,
-        "contra": 215,
+        "favor": 135,
+        "contra": 240,
         "indecisos": 0,
-        "total": 349,
+        "total": 375,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -584,6 +584,80 @@
         "semana": null
       }
     },
+    "senado/plp-299-2026": {
+      "slug": "senado/plp-299-2026",
+      "chave": "senado-176328",
+      "casa": "senado",
+      "rotulo": "PLP 299/2026",
+      "tipo": "Projeto de lei complementar",
+      "sigla": "PLP",
+      "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta cria medidas para reforçar o controle das contas públicas. Ela permite bloquear mais despesas quando houver risco de não cumprir a meta fiscal. Também limita despesas e benefícios tributários, que reduzem tributos de determinados setores ou atividades. A proposta reduz temporariamente compensações de tributos, limita gastos específicos e permite usar parte de recursos vinculados que tenham saldo disponível. Além disso, autoriza gastos extras em investimentos estruturantes e exclui, em 2026, parte da subvenção ao diesel da meta fiscal. Por fim, dá prazo de 120 dias para que o Congresso Nacional aprecie medidas de combate aos supersalários (remunerações acima do limite constitucional no serviço público), com redução de despesas e possível uso dos valores em investimentos e segurança pública.",
+        "pontos": [
+          "Maior capacidade do governo federal para cumprir as metas de resultado primário e controlar a dívida pública.",
+          "Contenção do crescimento das despesas públicas e revisão de benefícios tributários.",
+          "Maior flexibilidade para o uso de recursos públicos, sem alterar os direitos sociais previstos na Constituição.",
+          "Fortalecimento das ações de combate a fraudes, irregularidades e benefícios indevidos.",
+          "Criação de espaço fiscal em 2026 para financiar parte da subvenção ao diesel rodoviário.",
+          "Redução das pressões sobre os preços dos combustíveis e sobre a inflação, diante do conflito geopolítico no Oriente Médio.",
+          "Possível destinação de parte dos valores reduzidos dos supersalários para investimentos, segurança pública e atendimento socioeducativo."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 242,
+        "contra": 12774,
+        "indecisos": 0,
+        "total": 13016,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
     "senado/pl-1181-2025": {
       "slug": "senado/pl-1181-2025",
       "chave": "senado-167693",
@@ -631,10 +705,10 @@
         }
       ],
       "enquete": {
-        "favor": 38318,
-        "contra": 699,
+        "favor": 40306,
+        "contra": 772,
         "indecisos": 0,
-        "total": 39017,
+        "total": 41078,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
@@ -697,10 +771,10 @@
         }
       ],
       "enquete": {
-        "favor": 69173,
-        "contra": 877,
+        "favor": 70264,
+        "contra": 894,
         "indecisos": 0,
-        "total": 70050,
+        "total": 71158,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -717,66 +791,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": 19957
-      }
-    },
-    "senado/plp-299-2026": {
-      "slug": "senado/plp-299-2026",
-      "chave": "senado-176328",
-      "casa": "senado",
-      "rotulo": "PLP 299/2026",
-      "tipo": "Projeto de lei complementar",
-      "sigla": "PLP",
-      "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
-      "explicacao": null,
-      "origem": "senado",
-      "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 69,
-        "contra": 6227,
-        "indecisos": 0,
-        "total": 6296,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
-      "votosPeriodo": {
-        "semana": null
+        "semana": 21065
       }
     }
   }
