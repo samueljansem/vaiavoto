@@ -1,680 +1,25 @@
 {
-  "atualizadoEm": "2026-11-12T01:27:08.690Z",
-  "hoje": "2026-11-11",
-  "pautaCamaraPublicada": true,
+  "atualizadoEm": "2026-11-12T08:06:42.997Z",
+  "hoje": "2026-11-12",
+  "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
-    "senado/plp-230-2025",
-    "senado/mpv-1376-2026",
     "senado/pl-6461-2019",
-    "senado/pl-6683-2025",
-    "camara/pl-215-2015",
-    "camara/pl-79-2020",
-    "camara/pl-636-2023",
-    "camara/pl-724-2003",
-    "camara/pl-423-2022",
-    "camara/pl-4754-2024",
-    "camara/pl-2500-2025",
-    "camara/pl-464-2026"
+    "senado/pl-6683-2025"
   ],
   "emAlta": {
     "porSemana": true,
     "itens": [
+      "camara/pl-1424-2026",
       "senado/pl-1809-2026",
       "camara/pec-2-2025",
       "camara/pl-1001-2026",
       "camara/pl-994-2026",
       "camara/pl-1007-2026",
-      "camara/pl-1005-2026",
-      "senado/pl-6461-2019"
+      "camara/pl-1005-2026"
     ]
   },
   "propostas": {
-    "camara/pl-215-2015": {
-      "slug": "camara/pl-215-2015",
-      "chave": "camara-946034",
-      "casa": "camara",
-      "rotulo": "PL 215/2015",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Acrescenta inciso V ao art. 141 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940.",
-      "tituloCompleto": true,
-      "ementa": "Acrescenta inciso V ao art. 141 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "Tramita na Câmara dos Deputados o Projeto de Lei 215/15, do deputado Hildo Rocha (PMDB-MA), que aumenta em 1/3 a pena para os chamados crimes contra a honra, quando cometidos em redes sociais. A proposta altera o Código Penal Brasileiro (Decreto-Lei 2848/40), que já prevê casos em que a pena para os crimes de calúnia, difamação e injúria é aumentada em um 1/3. São aqueles cometidos contra: o presidente da República ou chefe de governo estrangeiro; funcionário público; a honra de alguém na presença de várias pessoas ou por meio que facilite a divulgação; idosos e pessoas com deficiência (neste caso, exceto para o crime de injúria). Ainda segundo o Código Penal, a aplicação da pena, em todos os casos, será em dobro quando o crime contra a honra for mercenário, ou seja, motivado pelo pagamento de recompensa ou pela simples promessa dela. Rocha ressalta que, quando o Código Penal foi elaborado, a tecnologia não estava no atual estágio de desenvolvimento. \"Os crimes contra a honra praticados pelas redes sociais têm um efeito devastador na vida das vítimas, causando enormes prejuízos na vida profissional, familiar, além de sofrimentos morais, emocionais e mentais irreparáveis\", afirma. Tramitação A proposta será analisada pela Comissão de Constituição e Justiça e de Cidadania (inclusive quanto ao mérito). Depois, será votada pelo Plenário.",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/466957-projeto-aumenta-pena-para-crime-contra-honra-cometido-em-redes-sociais"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 0,
-        "contra": 19,
-        "indecisos": 0,
-        "total": 19,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/946034",
-        "pergunta": "Qual sua opinião sobre o PL 215/2015?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2025-11-12",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2015-10-06",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2015-09-23",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2015-02-05",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=946034",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-79-2020": {
-      "slug": "camara/pl-79-2020",
-      "chave": "camara-2596596",
-      "casa": "camara",
-      "rotulo": "PL 79/2020",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de…",
-      "tituloCompleto": false,
-      "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA).",
-      "explicacao": null,
-      "origem": "senado",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 1,
-        "contra": 16,
-        "indecisos": 0,
-        "total": 17,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2596596",
-        "pergunta": "Qual sua opinião sobre o PL 79/2020?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-10-13",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-12-12",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2596596",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-636-2023": {
-      "slug": "camara/pl-636-2023",
-      "chave": "camara-2349176",
-      "casa": "camara",
-      "rotulo": "PL 636/2023",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei n. 12.340, de 1° de Dezembro de 2010, para dar maior efetividade ao Plano de Contingência de Proteção e Defesa Civil. NOVA EMENTA: Altera…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei n. 12.340, de 1° de Dezembro de 2010, para dar maior efetividade ao Plano de Contingência de Proteção e Defesa Civil. \r\n\r\nNOVA EMENTA: Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dar mais efetividade ao Plano de Contingência de Proteção e Defesa Civil.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 1,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 1,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2349176",
-        "pergunta": "Qual sua opinião sobre o PL 636/2023?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-05-08",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2023-03-24",
-          "texto": "Enviada ao Senado"
-        },
-        {
-          "data": "2023-03-24",
-          "texto": "Proposta apresentada na Câmara"
-        },
-        {
-          "data": "2023-03-23",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2023-03-22",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2023-02-23",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2349176",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-724-2003": {
-      "slug": "camara/pl-724-2003",
-      "chave": "camara-110593",
-      "casa": "camara",
-      "rotulo": "PL 724/2003",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-10",
-          "texto": "Aprovado o pedido de urgência: pode ir direto ao Plenário"
-        },
-        {
-          "data": "2025-12-17",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2025-12-16",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2024-04-24",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2024-04-23",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2019-01-31",
-          "texto": "Arquivada"
-        },
-        {
-          "data": "2015-01-31",
-          "texto": "Arquivada"
-        },
-        {
-          "data": "2011-03-23",
-          "texto": "Retirada da pauta de votação"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=110593",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-423-2022": {
-      "slug": "camara/pl-423-2022",
-      "chave": "camara-2321628",
-      "casa": "camara",
-      "rotulo": "PL 423/2022",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Reconhece o extermínio de ucranianos por meio da fome (Holodomor) como genocídio e institui o quarto sábado de novembro como Dia de Memória às Vítimas…",
-      "tituloCompleto": false,
-      "ementa": "Reconhece o extermínio de ucranianos por meio da fome (Holodomor) como genocídio e institui o quarto sábado de novembro como Dia de Memória às Vítimas do Holodomor.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 423/22 reconhece como genocídio o extermínio de milhares de pessoas por meio da fome entre os anos de 1932 e 1933 na Ucrânia, que era parte da extinta União Soviética, durante o regime comandado por Stálin. O período ficou conhecido como Holodomor, termo que é traduzido como “matar pela fome”. O total de mortos varia nas estimativas de 3,3 milhões a 7,5 milhões. “Aqueles que tentavam reter os alimentos eram punidos, mortos ou levados a campos de trabalhos forçados”, disse o autor da proposta, senador Alvaro Dias (Podemos-PR). Até agora 16 países reconhecem o Holodomor como genocídio. O proposta, já aprovada pelo Senado, ainda institui o quarto sábado de novembro como Dia de Memória às Vítimas do Holodomor. Tramitação O projeto será analisado pelas comissões de Cultura; e de Constituição e Justiça e de Cidadania. Depois seguirá para o Plenário. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/873092-projeto-reconhece-como-genocidio-a-morte-de-milhares-de-ucranianos-pela-fome-na-decada-de-30"
-      },
-      "origem": "senado",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Já passou pelo Senado. Se os deputados aprovarem sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 25,
-        "contra": 3,
-        "indecisos": 1,
-        "total": 29,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2321628",
-        "pergunta": "Qual sua opinião sobre o PL 423/2022?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2025-12-17",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2025-10-22",
-          "texto": "Retirada da pauta de votação"
-        },
-        {
-          "data": "2023-11-08",
-          "texto": "Aprovada na comissão CCULT"
-        },
-        {
-          "data": "2022-05-04",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2321628",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-4754-2024": {
-      "slug": "camara/pl-4754-2024",
-      "chave": "camara-2476909",
-      "casa": "camara",
-      "rotulo": "PL 4754/2024",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para prever a perda automática de cargo, função pública ou mandato eletivo em…",
-      "tituloCompleto": false,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para prever a perda automática de cargo, função pública ou mandato eletivo em caso de condenação por estupro de vulnerável.",
-      "explicacao": {
-        "fonte": "camara",
-        "texto": "O Projeto de Lei 4754/24, do deputado Cabo Gilberto Silva (PL-PB), estabelece a perda automática de cargo, função pública ou mandato em caso de condenação por estupro de vulnerável. O texto altera o Código Penal e está em análise na Câmara dos Deputados. Atualmente, a perda de cargo, função pública ou mandato é um efeito não automático da condenação, que precisa ser explicitado na sentença. Porém, segundo Gilberto Silva, a sociedade não pode permitir que o criminoso condenado por crime tão vil e covarde permaneça em suas funções. “Este projeto supre esta brecha legislativa, impedindo que indivíduos condenados permaneçam ocupando cargo, função pública ou mandato eletivo, nos casos em que a sentença condenatória for omissa”, explica. Próximos passos A proposta será analisada pela Comissão de Constituição e Justiça e de Cidadania. Depois, seguirá para o Plenário. Para virar lei, a proposta precisa ser aprovada pela Câmara e pelo Senado. Saiba mais sobre a tramitação de projetos de lei",
-        "pontos": [],
-        "introPontos": "",
-        "aviso": "Texto da Agência Câmara de Notícias, publicado na página da enquete.",
-        "url": "https://www.camara.leg.br/noticias/1138431-projeto-preve-perda-de-cargo-publico-para-condenado-por-estupro-de-vulneravel"
-      },
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 1,
-        "total": 3,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2476909",
-        "pergunta": "Qual sua opinião sobre o PL 4754/2024?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2025-08-19",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2024-12-09",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2476909",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-2500-2025": {
-      "slug": "camara/pl-2500-2025",
-      "chave": "camara-2515664",
-      "casa": "camara",
-      "rotulo": "PL 2500/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para…",
-      "tituloCompleto": false,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para endurecer os requisitos de progressão de regime e livramento condicional de reincidentes em crimes patrimoniais praticados com violência ou grave ameaça à pessoa.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Deliberação",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-03",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2025-05-22",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2515664",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "camara/pl-464-2026": {
-      "slug": "camara/pl-464-2026",
-      "chave": "camara-2602370",
-      "casa": "camara",
-      "rotulo": "PL 464/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) e a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa) para dispor…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) e a Lei  nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa) para dispor sobre a responsabilização por interdição abusiva",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "",
-      "votacao": {
-        "data": "2026-11-11T14:39",
-        "quem": "deputados"
-      },
-      "chip": "Deputados votam quarta, 11/11",
-      "agora": "Se os deputados aprovarem, ainda não está decidido: depois vêm o Senado e o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 2,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 2,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2602370",
-        "pergunta": "Qual sua opinião sobre o PL 464/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-11-11",
-          "texto": "Aprovada pelos deputados"
-        },
-        {
-          "data": "2026-07-15",
-          "texto": "Aprovada na comissão CCJC"
-        },
-        {
-          "data": "2026-05-27",
-          "texto": "Aprovada na comissão CIDOSO"
-        },
-        {
-          "data": "2026-02-11",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602370",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
     "camara/pl-1424-2026": {
       "slug": "camara/pl-1424-2026",
       "chave": "camara-2612333",
@@ -718,10 +63,10 @@
         }
       ],
       "enquete": {
-        "favor": 3139,
-        "contra": 46409,
+        "favor": 3141,
+        "contra": 46434,
         "indecisos": 22,
-        "total": 49570,
+        "total": 49597,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -746,7 +91,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": null
+        "semana": 31120
       }
     },
     "camara/pec-2-2025": {
@@ -792,10 +137,10 @@
         }
       ],
       "enquete": {
-        "favor": 692,
-        "contra": 110350,
+        "favor": 693,
+        "contra": 110375,
         "indecisos": 39,
-        "total": 111081,
+        "total": 111107,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -820,7 +165,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 12674
+        "semana": 9756
       }
     },
     "camara/pl-1001-2026": {
@@ -860,9 +205,9 @@
       ],
       "enquete": {
         "favor": 307,
-        "contra": 23596,
+        "contra": 23622,
         "indecisos": 16,
-        "total": 23919,
+        "total": 23945,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -887,7 +232,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 9057
+        "semana": 6475
       }
     },
     "camara/pl-994-2026": {
@@ -926,10 +271,10 @@
         }
       ],
       "enquete": {
-        "favor": 1343,
-        "contra": 130322,
+        "favor": 1344,
+        "contra": 130346,
         "indecisos": 42,
-        "total": 131707,
+        "total": 131732,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -954,7 +299,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 7354
+        "semana": 5434
       }
     },
     "camara/pl-1007-2026": {
@@ -994,9 +339,9 @@
       ],
       "enquete": {
         "favor": 1331,
-        "contra": 71017,
+        "contra": 71040,
         "indecisos": 42,
-        "total": 72390,
+        "total": 72413,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -1021,7 +366,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 7186
+        "semana": 5191
       }
     },
     "camara/pl-1005-2026": {
@@ -1061,9 +406,9 @@
       ],
       "enquete": {
         "favor": 202,
-        "contra": 35648,
-        "indecisos": 19,
-        "total": 35869,
+        "contra": 35670,
+        "indecisos": 20,
+        "total": 35892,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -1088,105 +433,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 6759
-      }
-    },
-    "senado/plp-230-2025": {
-      "slug": "senado/plp-230-2025",
-      "chave": "senado-175647",
-      "casa": "senado",
-      "rotulo": "PLP 230/2025",
-      "tipo": "Projeto de lei complementar",
-      "sigla": "PLP",
-      "titulo": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADA",
-      "votacao": {
-        "data": "2026-11-11T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 11/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175647",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/mpv-1376-2026": {
-      "slug": "senado/mpv-1376-2026",
-      "chave": "senado-175190",
-      "casa": "senado",
-      "rotulo": "MPV 1376/2026",
-      "tipo": "Medida provisória",
-      "sigla": "MPV",
-      "titulo": "MP das dívidas rurais",
-      "tituloCompleto": false,
-      "ementa": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos.",
-      "explicacao": null,
-      "origem": "senado",
-      "etapa": "encerrada",
-      "situacaoOficial": "APROVADO O PROJETO DE LEI DE CONVERSÃO",
-      "votacao": {
-        "data": "2026-11-11T14:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quarta, 11/11",
-      "agora": "Já está valendo, mas perde a validade se não for aprovada a tempo pela Câmara e pelo Senado.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": null,
-      "acoes": {
-        "enquete": false,
-        "falarCom": null
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175190",
-      "votosPeriodo": {
-        "semana": null
+        "semana": 4927
       }
     },
     "senado/pl-6461-2019": {
@@ -1217,10 +464,10 @@
       "etapa": "senado",
       "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
-        "data": "2026-11-11T14:00",
+        "data": "2026-11-12T16:00",
         "quem": "senadores"
       },
-      "chip": "Senadores votam quarta, 11/11",
+      "chip": "Senadores votam quinta, 12/11",
       "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
       "passos": [
         {
@@ -1242,9 +489,9 @@
       ],
       "enquete": {
         "favor": 134,
-        "contra": 214,
+        "contra": 215,
         "indecisos": 0,
-        "total": 348,
+        "total": 349,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -1261,7 +508,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 229
+        "semana": null
       }
     },
     "senado/pl-6683-2025": {
@@ -1290,10 +537,10 @@
       "etapa": "senado",
       "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
-        "data": "2026-11-11T14:00",
+        "data": "2026-11-12T16:00",
         "quem": "senadores"
       },
-      "chip": "Senadores votam quarta, 11/11",
+      "chip": "Senadores votam quinta, 12/11",
       "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
       "passos": [
         {
@@ -1384,10 +631,10 @@
         }
       ],
       "enquete": {
-        "favor": 37533,
-        "contra": 682,
+        "favor": 38318,
+        "contra": 699,
         "indecisos": 0,
-        "total": 38215,
+        "total": 39017,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
@@ -1450,10 +697,10 @@
         }
       ],
       "enquete": {
-        "favor": 68833,
-        "contra": 872,
+        "favor": 69173,
+        "contra": 877,
         "indecisos": 0,
-        "total": 69705,
+        "total": 70050,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1470,7 +717,66 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": 26231
+        "semana": 19957
+      }
+    },
+    "senado/plp-299-2026": {
+      "slug": "senado/plp-299-2026",
+      "chave": "senado-176328",
+      "casa": "senado",
+      "rotulo": "PLP 299/2026",
+      "tipo": "Projeto de lei complementar",
+      "sigla": "PLP",
+      "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "explicacao": null,
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 69,
+        "contra": 6227,
+        "indecisos": 0,
+        "total": 6296,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
+      "votosPeriodo": {
+        "semana": null
       }
     }
   }
