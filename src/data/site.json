@@ -1,17 +1,18 @@
 {
-  "atualizadoEm": "2026-11-12T18:06:56.370Z",
+  "atualizadoEm": "2026-11-13T00:05:16.787Z",
   "hoje": "2026-11-12",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
     "senado/pl-6461-2019",
-    "senado/pl-6683-2025"
+    "senado/plp-299-2026",
+    "senado/pl-6683-2025",
+    "senado/mpv-1379-2026"
   ],
   "emAlta": {
     "porSemana": true,
     "itens": [
       "camara/pl-1424-2026",
-      "senado/pl-1809-2026",
       "camara/pec-2-2025",
       "camara/pl-1001-2026",
       "camara/pl-994-2026",
@@ -63,10 +64,10 @@
         }
       ],
       "enquete": {
-        "favor": 3147,
-        "contra": 46544,
+        "favor": 3150,
+        "contra": 46576,
         "indecisos": 22,
-        "total": 49713,
+        "total": 49748,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -91,7 +92,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 31236
+        "semana": 31271
       }
     },
     "camara/pec-2-2025": {
@@ -138,9 +139,9 @@
       ],
       "enquete": {
         "favor": 693,
-        "contra": 110442,
+        "contra": 110479,
         "indecisos": 39,
-        "total": 111174,
+        "total": 111211,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -165,7 +166,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 9823
+        "semana": 9860
       }
     },
     "camara/pl-1001-2026": {
@@ -205,9 +206,9 @@
       ],
       "enquete": {
         "favor": 308,
-        "contra": 23708,
+        "contra": 23738,
         "indecisos": 17,
-        "total": 24033,
+        "total": 24063,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -232,7 +233,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 6563
+        "semana": 6593
       }
     },
     "camara/pl-994-2026": {
@@ -272,9 +273,9 @@
       ],
       "enquete": {
         "favor": 1344,
-        "contra": 130416,
+        "contra": 130444,
         "indecisos": 42,
-        "total": 131802,
+        "total": 131830,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -299,7 +300,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 5504
+        "semana": 5532
       }
     },
     "camara/pl-1007-2026": {
@@ -339,9 +340,9 @@
       ],
       "enquete": {
         "favor": 1331,
-        "contra": 71113,
+        "contra": 71139,
         "indecisos": 42,
-        "total": 72486,
+        "total": 72512,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -366,7 +367,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 5264
+        "semana": 5290
       }
     },
     "camara/pl-1005-2026": {
@@ -406,9 +407,9 @@
       ],
       "enquete": {
         "favor": 202,
-        "contra": 35731,
+        "contra": 35755,
         "indecisos": 20,
-        "total": 35953,
+        "total": 35977,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -433,7 +434,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 4988
+        "semana": 5012
       }
     },
     "senado/pl-6461-2019": {
@@ -488,10 +489,10 @@
         }
       ],
       "enquete": {
-        "favor": 135,
-        "contra": 240,
+        "favor": 137,
+        "contra": 242,
         "indecisos": 0,
-        "total": 375,
+        "total": 379,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -507,6 +508,83 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/plp-299-2026": {
+      "slug": "senado/plp-299-2026",
+      "chave": "senado-176328",
+      "casa": "senado",
+      "rotulo": "PLP 299/2026",
+      "tipo": "Projeto de lei complementar",
+      "sigla": "PLP",
+      "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir…",
+      "tituloCompleto": false,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta cria medidas para reforçar o controle das contas públicas. Ela permite bloquear mais despesas quando houver risco de não cumprir a meta fiscal. Também limita despesas e benefícios tributários, que reduzem tributos de determinados setores ou atividades. A proposta reduz temporariamente compensações de tributos, limita gastos específicos e permite usar parte de recursos vinculados que tenham saldo disponível. Além disso, autoriza gastos extras em investimentos estruturantes e exclui, em 2026, parte da subvenção ao diesel da meta fiscal. Por fim, dá prazo de 120 dias para que o Congresso Nacional aprecie medidas de combate aos supersalários (remunerações acima do limite constitucional no serviço público), com redução de despesas e possível uso dos valores em investimentos e segurança pública.",
+        "pontos": [
+          "Maior capacidade do governo federal para cumprir as metas de resultado primário e controlar a dívida pública.",
+          "Contenção do crescimento das despesas públicas e revisão de benefícios tributários.",
+          "Maior flexibilidade para o uso de recursos públicos, sem alterar os direitos sociais previstos na Constituição.",
+          "Fortalecimento das ações de combate a fraudes, irregularidades e benefícios indevidos.",
+          "Criação de espaço fiscal em 2026 para financiar parte da subvenção ao diesel rodoviário.",
+          "Redução das pressões sobre os preços dos combustíveis e sobre a inflação, diante do conflito geopolítico no Oriente Médio.",
+          "Possível destinação de parte dos valores reduzidos dos supersalários para investimentos, segurança pública e atendimento socioeducativo."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "votacao": {
+        "data": "2026-11-12T16:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quinta, 12/11",
+      "agora": "Se os senadores aprovarem, ainda não está decidido: depois vêm a Câmara e o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 304,
+        "contra": 14607,
+        "indecisos": 0,
+        "total": 14911,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
       "votosPeriodo": {
         "semana": null
       }
@@ -561,10 +639,10 @@
         }
       ],
       "enquete": {
-        "favor": 0,
+        "favor": 1,
         "contra": 0,
         "indecisos": 0,
-        "total": 0,
+        "total": 1,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286",
         "pergunta": "Você apoia essa proposição?",
@@ -584,38 +662,38 @@
         "semana": null
       }
     },
-    "senado/plp-299-2026": {
-      "slug": "senado/plp-299-2026",
-      "chave": "senado-176328",
+    "senado/mpv-1379-2026": {
+      "slug": "senado/mpv-1379-2026",
+      "chave": "senado-175261",
       "casa": "senado",
-      "rotulo": "PLP 299/2026",
-      "tipo": "Projeto de lei complementar",
-      "sigla": "PLP",
-      "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir…",
+      "rotulo": "MPV 1379/2026",
+      "tipo": "Medida provisória",
+      "sigla": "MPV",
+      "titulo": "Plano Brasil Soberano 3",
       "tituloCompleto": false,
-      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "ementa": "Altera a Lei nº 15.473, de 22 de julho de 2026, que altera a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 12.712, de 30 de agosto de 2012, para fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação.",
       "explicacao": {
         "fonte": "senado",
-        "texto": "A proposta cria medidas para reforçar o controle das contas públicas. Ela permite bloquear mais despesas quando houver risco de não cumprir a meta fiscal. Também limita despesas e benefícios tributários, que reduzem tributos de determinados setores ou atividades. A proposta reduz temporariamente compensações de tributos, limita gastos específicos e permite usar parte de recursos vinculados que tenham saldo disponível. Além disso, autoriza gastos extras em investimentos estruturantes e exclui, em 2026, parte da subvenção ao diesel da meta fiscal. Por fim, dá prazo de 120 dias para que o Congresso Nacional aprecie medidas de combate aos supersalários (remunerações acima do limite constitucional no serviço público), com redução de despesas e possível uso dos valores em investimentos e segurança pública.",
+        "texto": "A medida permite aumentar em até 13,5 bilhões de reais os recursos destinados ao financiamento de exportações brasileiras. Esses recursos adicionais serão usados para apoiar empresas exportadoras e seus fornecedores, especialmente em setores afetados por instabilidades geopolíticas e medidas tarifárias internacionais.",
         "pontos": [
-          "Maior capacidade do governo federal para cumprir as metas de resultado primário e controlar a dívida pública.",
-          "Contenção do crescimento das despesas públicas e revisão de benefícios tributários.",
-          "Maior flexibilidade para o uso de recursos públicos, sem alterar os direitos sociais previstos na Constituição.",
-          "Fortalecimento das ações de combate a fraudes, irregularidades e benefícios indevidos.",
-          "Criação de espaço fiscal em 2026 para financiar parte da subvenção ao diesel rodoviário.",
-          "Redução das pressões sobre os preços dos combustíveis e sobre a inflação, diante do conflito geopolítico no Oriente Médio.",
-          "Possível destinação de parte dos valores reduzidos dos supersalários para investimentos, segurança pública e atendimento socioeducativo."
+          "Aumento da disponibilidade de crédito para empresas exportadoras, ajudando a preservar empregos e a capacidade de produção.",
+          "Fortalecimento da presença do Brasil no comércio internacional, mesmo em um cenário de incertezas e tarifas adicionais.",
+          "Melhoria na resiliência de setores exportadores, contribuindo para a estabilidade econômica e a soberania nacional.",
+          "Garantia de que o financiamento será gerido de forma estratégica e transparente, com a participação de um conselho interministerial."
         ],
-        "introPontos": "As possíveis consequências da proposta incluem:",
+        "introPontos": "As possíveis consequências da medida incluem:",
         "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328"
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175261"
       },
       "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "situacaoOficial": "AGUARDANDO LEITURA",
+      "votacao": {
+        "data": "2026-11-12T16:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quinta, 12/11",
+      "agora": "Já está valendo, mas perde a validade se não for aprovada a tempo pela Câmara e pelo Senado.",
       "passos": [
         {
           "rotulo": "Senadores",
@@ -635,12 +713,12 @@
         }
       ],
       "enquete": {
-        "favor": 242,
-        "contra": 12774,
+        "favor": 14,
+        "contra": 2,
         "indecisos": 0,
-        "total": 13016,
+        "total": 16,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175261",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -653,7 +731,7 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175261",
       "votosPeriodo": {
         "semana": null
       }
@@ -705,10 +783,10 @@
         }
       ],
       "enquete": {
-        "favor": 40306,
-        "contra": 772,
+        "favor": 40814,
+        "contra": 784,
         "indecisos": 0,
-        "total": 41078,
+        "total": 41598,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
@@ -726,72 +804,6 @@
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167693",
       "votosPeriodo": {
         "semana": null
-      }
-    },
-    "senado/pl-1809-2026": {
-      "slug": "senado/pl-1809-2026",
-      "chave": "senado-173618",
-      "casa": "senado",
-      "rotulo": "PL 1809/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
-        "pontos": [],
-        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
-      },
-      "origem": "senado",
-      "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 70264,
-        "contra": 894,
-        "indecisos": 0,
-        "total": 71158,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
-      "votosPeriodo": {
-        "semana": 21065
       }
     }
   }
