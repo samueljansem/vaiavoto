@@ -1,14 +1,9 @@
 {
-  "atualizadoEm": "2026-11-13T00:05:16.787Z",
-  "hoje": "2026-11-12",
+  "atualizadoEm": "2026-11-13T07:43:03.661Z",
+  "hoje": "2026-11-13",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
-  "vemAi": [
-    "senado/pl-6461-2019",
-    "senado/plp-299-2026",
-    "senado/pl-6683-2025",
-    "senado/mpv-1379-2026"
-  ],
+  "vemAi": [],
   "emAlta": {
     "porSemana": true,
     "itens": [
@@ -65,9 +60,9 @@
       ],
       "enquete": {
         "favor": 3150,
-        "contra": 46576,
+        "contra": 46604,
         "indecisos": 22,
-        "total": 49748,
+        "total": 49776,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -92,7 +87,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 31271
+        "semana": 18605
       }
     },
     "camara/pec-2-2025": {
@@ -139,9 +134,9 @@
       ],
       "enquete": {
         "favor": 693,
-        "contra": 110479,
+        "contra": 110522,
         "indecisos": 39,
-        "total": 111211,
+        "total": 111254,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -166,7 +161,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 9860
+        "semana": 5138
       }
     },
     "camara/pl-1001-2026": {
@@ -206,9 +201,9 @@
       ],
       "enquete": {
         "favor": 308,
-        "contra": 23738,
+        "contra": 23751,
         "indecisos": 17,
-        "total": 24063,
+        "total": 24076,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -233,7 +228,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 6593
+        "semana": 4415
       }
     },
     "camara/pl-994-2026": {
@@ -272,10 +267,10 @@
         }
       ],
       "enquete": {
-        "favor": 1344,
-        "contra": 130444,
+        "favor": 1345,
+        "contra": 130461,
         "indecisos": 42,
-        "total": 131830,
+        "total": 131848,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -300,7 +295,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 5532
+        "semana": 3712
       }
     },
     "camara/pl-1007-2026": {
@@ -339,10 +334,10 @@
         }
       ],
       "enquete": {
-        "favor": 1331,
-        "contra": 71139,
+        "favor": 1332,
+        "contra": 71151,
         "indecisos": 42,
-        "total": 72512,
+        "total": 72525,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -367,7 +362,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 5290
+        "semana": 3582
       }
     },
     "camara/pl-1005-2026": {
@@ -406,10 +401,10 @@
         }
       ],
       "enquete": {
-        "favor": 202,
-        "contra": 35755,
+        "favor": 203,
+        "contra": 35766,
         "indecisos": 20,
-        "total": 35977,
+        "total": 35989,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -434,82 +429,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 5012
-      }
-    },
-    "senado/pl-6461-2019": {
-      "slug": "senado/pl-6461-2019",
-      "chave": "senado-174061",
-      "casa": "senado",
-      "rotulo": "PL 6461/2019",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Estatuto do Aprendiz",
-      "tituloCompleto": false,
-      "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta cria o Estatuto do Aprendiz, que estabelece regras para a aprendizagem profissional de jovens e pessoas com deficiência. A proposta altera normas trabalhistas para incentivar a contratação de aprendizes, define direitos e deveres dos aprendizes e empregadores, e cria mecanismos para promover a inclusão social e profissional desses jovens.",
-        "pontos": [
-          "Aumento das oportunidades de trabalho e renda para jovens e pessoas com deficiência.",
-          "Maior inclusão social de jovens em situação de vulnerabilidade ou risco social.",
-          "Incentivo à profissionalização e combate ao trabalho infantil.",
-          "Melhoria na qualificação profissional dos jovens, preparando-os melhor para o mercado de trabalho.",
-          "Criação de um ambiente mais seguro e educativo para o desenvolvimento dos aprendizes."
-        ],
-        "introPontos": "As possíveis consequências da proposta incluem:",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061"
-      },
-      "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
-      "votacao": {
-        "data": "2026-11-12T16:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quinta, 12/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 137,
-        "contra": 242,
-        "indecisos": 0,
-        "total": 379,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
-      "votosPeriodo": {
-        "semana": null
+        "semana": 3372
       }
     },
     "senado/plp-299-2026": {
@@ -519,7 +439,7 @@
       "rotulo": "PLP 299/2026",
       "tipo": "Projeto de lei complementar",
       "sigla": "PLP",
-      "titulo": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir…",
+      "titulo": "Ajuste fiscal",
       "tituloCompleto": false,
       "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
       "explicacao": {
@@ -540,13 +460,10 @@
       },
       "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
-      "votacao": {
-        "data": "2026-11-12T16:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quinta, 12/11",
-      "agora": "Se os senadores aprovarem, ainda não está decidido: depois vêm a Câmara e o Presidente.",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": null,
+      "chip": "No Senado",
+      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
       "passos": [
         {
           "rotulo": "Senadores",
@@ -566,10 +483,10 @@
         }
       ],
       "enquete": {
-        "favor": 304,
-        "contra": 14607,
+        "favor": 336,
+        "contra": 15913,
         "indecisos": 0,
-        "total": 14911,
+        "total": 16249,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -585,153 +502,6 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/pl-6683-2025": {
-      "slug": "senado/pl-6683-2025",
-      "chave": "senado-172286",
-      "casa": "senado",
-      "rotulo": "PL 6683/2025",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes.",
-      "tituloCompleto": true,
-      "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A proposta estabelece regras para melhorar a qualidade e segurança dos implantes cirúrgicos. Ela proíbe o uso de materiais tóxicos e exige autorização prévia para produção, importação e venda desses produtos. Além disso, obriga a notificação de falhas nos implantes às autoridades sanitárias.",
-        "pontos": [
-          "Aumento na segurança e qualidade dos implantes cirúrgicos, beneficiando pacientes que necessitam desses dispositivos.",
-          "Maior controle sobre a fabricação e comercialização de implantes, garantindo que apenas produtos seguros e eficazes sejam disponibilizados no mercado.",
-          "Melhoria na vigilância sanitária, com a notificação obrigatória de falhas, permitindo ações rápidas para corrigir problemas e evitar riscos à saúde pública."
-        ],
-        "introPontos": "As possíveis consequências da proposta incluem:",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286"
-      },
-      "origem": "camara",
-      "etapa": "senado",
-      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
-      "votacao": {
-        "data": "2026-11-12T16:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quinta, 12/11",
-      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "feito"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 1,
-        "contra": 0,
-        "indecisos": 0,
-        "total": 1,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172286",
-      "votosPeriodo": {
-        "semana": null
-      }
-    },
-    "senado/mpv-1379-2026": {
-      "slug": "senado/mpv-1379-2026",
-      "chave": "senado-175261",
-      "casa": "senado",
-      "rotulo": "MPV 1379/2026",
-      "tipo": "Medida provisória",
-      "sigla": "MPV",
-      "titulo": "Plano Brasil Soberano 3",
-      "tituloCompleto": false,
-      "ementa": "Altera a Lei nº 15.473, de 22 de julho de 2026, que altera a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 12.712, de 30 de agosto de 2012, para fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação.",
-      "explicacao": {
-        "fonte": "senado",
-        "texto": "A medida permite aumentar em até 13,5 bilhões de reais os recursos destinados ao financiamento de exportações brasileiras. Esses recursos adicionais serão usados para apoiar empresas exportadoras e seus fornecedores, especialmente em setores afetados por instabilidades geopolíticas e medidas tarifárias internacionais.",
-        "pontos": [
-          "Aumento da disponibilidade de crédito para empresas exportadoras, ajudando a preservar empregos e a capacidade de produção.",
-          "Fortalecimento da presença do Brasil no comércio internacional, mesmo em um cenário de incertezas e tarifas adicionais.",
-          "Melhoria na resiliência de setores exportadores, contribuindo para a estabilidade econômica e a soberania nacional.",
-          "Garantia de que o financiamento será gerido de forma estratégica e transparente, com a participação de um conselho interministerial."
-        ],
-        "introPontos": "As possíveis consequências da medida incluem:",
-        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175261"
-      },
-      "origem": "senado",
-      "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO LEITURA",
-      "votacao": {
-        "data": "2026-11-12T16:00",
-        "quem": "senadores"
-      },
-      "chip": "Senadores votam quinta, 12/11",
-      "agora": "Já está valendo, mas perde a validade se não for aprovada a tempo pela Câmara e pelo Senado.",
-      "passos": [
-        {
-          "rotulo": "Senadores",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Deputados",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 14,
-        "contra": 2,
-        "indecisos": 0,
-        "total": 16,
-        "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=175261",
-        "pergunta": "Você apoia essa proposição?",
-        "opcoes": [
-          "Sim",
-          "Não"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "senadores"
-      },
-      "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175261",
       "votosPeriodo": {
         "semana": null
       }
@@ -783,10 +553,10 @@
         }
       ],
       "enquete": {
-        "favor": 40814,
-        "contra": 784,
+        "favor": 41187,
+        "contra": 793,
         "indecisos": 0,
-        "total": 41598,
+        "total": 41980,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
