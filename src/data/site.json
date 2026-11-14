@@ -1,9 +1,17 @@
 {
-  "atualizadoEm": "2026-11-13T17:37:38.891Z",
+  "atualizadoEm": "2026-11-14T00:17:43.047Z",
   "hoje": "2026-11-13",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
-  "vemAi": [],
+  "vemAi": [
+    "senado/plp-299-2026",
+    "senado/pl-6683-2025",
+    "senado/pl-4035-2023",
+    "senado/pl-6461-2019",
+    "senado/pl-5756-2026",
+    "senado/pl-4186-2021",
+    "senado/pl-6222-2025"
+  ],
   "emAlta": {
     "porSemana": true,
     "itens": [
@@ -59,10 +67,10 @@
         }
       ],
       "enquete": {
-        "favor": 3158,
-        "contra": 46670,
+        "favor": 3161,
+        "contra": 46701,
         "indecisos": 22,
-        "total": 49850,
+        "total": 49884,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -87,7 +95,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 18679
+        "semana": 18713
       }
     },
     "camara/pec-2-2025": {
@@ -134,9 +142,9 @@
       ],
       "enquete": {
         "favor": 694,
-        "contra": 110613,
+        "contra": 110664,
         "indecisos": 39,
-        "total": 111346,
+        "total": 111397,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -161,7 +169,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 5230
+        "semana": 5281
       }
     },
     "camara/pl-1001-2026": {
@@ -200,10 +208,10 @@
         }
       ],
       "enquete": {
-        "favor": 308,
-        "contra": 23810,
+        "favor": 309,
+        "contra": 23839,
         "indecisos": 17,
-        "total": 24135,
+        "total": 24165,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -228,7 +236,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 4474
+        "semana": 4504
       }
     },
     "camara/pl-994-2026": {
@@ -268,9 +276,9 @@
       ],
       "enquete": {
         "favor": 1345,
-        "contra": 130503,
+        "contra": 130533,
         "indecisos": 42,
-        "total": 131890,
+        "total": 131920,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -295,7 +303,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 3754
+        "semana": 3784
       }
     },
     "camara/pl-1007-2026": {
@@ -335,9 +343,9 @@
       ],
       "enquete": {
         "favor": 1332,
-        "contra": 71194,
+        "contra": 71217,
         "indecisos": 42,
-        "total": 72568,
+        "total": 72591,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -362,7 +370,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 3625
+        "semana": 3648
       }
     },
     "camara/pl-1005-2026": {
@@ -402,9 +410,9 @@
       ],
       "enquete": {
         "favor": 203,
-        "contra": 35811,
+        "contra": 35841,
         "indecisos": 20,
-        "total": 36034,
+        "total": 36064,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -429,7 +437,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 3417
+        "semana": 3447
       }
     },
     "senado/plp-299-2026": {
@@ -461,9 +469,12 @@
       "origem": "senado",
       "etapa": "senado",
       "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
-      "votacao": null,
-      "chip": "No Senado",
-      "agora": "Ainda está sendo analisada pelos senadores. Sem data de votação marcada.",
+      "votacao": {
+        "data": "2026-11-17T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 17/11",
+      "agora": "Se os senadores aprovarem, ainda não está decidido: depois vêm a Câmara e o Presidente.",
       "passos": [
         {
           "rotulo": "Senadores",
@@ -483,10 +494,10 @@
         }
       ],
       "enquete": {
-        "favor": 412,
-        "contra": 18289,
+        "favor": 460,
+        "contra": 19691,
         "indecisos": 0,
-        "total": 18701,
+        "total": 20151,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -502,6 +513,450 @@
       },
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-6683-2025": {
+      "slug": "senado/pl-6683-2025",
+      "chave": "senado-172286",
+      "casa": "senado",
+      "rotulo": "PL 6683/2025",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes.",
+      "tituloCompleto": true,
+      "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta estabelece regras para melhorar a qualidade e segurança dos implantes cirúrgicos. Ela proíbe o uso de materiais tóxicos e exige autorização prévia para produção, importação e venda desses produtos. Além disso, obriga a notificação de falhas nos implantes às autoridades sanitárias.",
+        "pontos": [
+          "Aumento na segurança e qualidade dos implantes cirúrgicos, beneficiando pacientes que necessitam desses dispositivos.",
+          "Maior controle sobre a fabricação e comercialização de implantes, garantindo que apenas produtos seguros e eficazes sejam disponibilizados no mercado.",
+          "Melhoria na vigilância sanitária, com a notificação obrigatória de falhas, permitindo ações rápidas para corrigir problemas e evitar riscos à saúde pública."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-17T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 17/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=172286",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172286",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-4035-2023": {
+      "slug": "senado/pl-4035-2023",
+      "chave": "senado-169347",
+      "casa": "senado",
+      "rotulo": "PL 4035/2023",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Institui o mês de agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza.",
+      "tituloCompleto": true,
+      "ementa": "Institui o mês de agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta inclui no calendário oficial da União o mês de agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. No período, o Congresso Nacional analisará as políticas públicas do governo federal para fiscalizar a implantação, a consolidação e a expansão de ações sociais em todo o país.",
+        "pontos": [
+          "Intensificação da fiscalização parlamentar sobre ações sociais, concentrando no mês de agosto a avaliação detalhada do desempenho e da expansão dos programas do governo federal.",
+          "Estímulo ao debate público e à priorização do combate à pobreza, inserindo o tema de forma permanente na agenda oficial do Congresso e da sociedade.",
+          "Aprimoramento das políticas públicas de inclusão, permitindo identificar falhas e propor melhorias para atender grupos vulneráveis com maior eficiência."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=169347"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "votacao": {
+        "data": "2026-11-17T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam terça, 17/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=169347",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169347",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-6461-2019": {
+      "slug": "senado/pl-6461-2019",
+      "chave": "senado-174061",
+      "casa": "senado",
+      "rotulo": "PL 6461/2019",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Estatuto do Aprendiz",
+      "tituloCompleto": false,
+      "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta cria o Estatuto do Aprendiz, que estabelece regras para a aprendizagem profissional de jovens e pessoas com deficiência. A proposta altera normas trabalhistas para incentivar a contratação de aprendizes, define direitos e deveres dos aprendizes e empregadores, e cria mecanismos para promover a inclusão social e profissional desses jovens.",
+        "pontos": [
+          "Aumento das oportunidades de trabalho e renda para jovens e pessoas com deficiência.",
+          "Maior inclusão social de jovens em situação de vulnerabilidade ou risco social.",
+          "Incentivo à profissionalização e combate ao trabalho infantil.",
+          "Melhoria na qualificação profissional dos jovens, preparando-os melhor para o mercado de trabalho.",
+          "Criação de um ambiente mais seguro e educativo para o desenvolvimento dos aprendizes."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-18T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 18/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 138,
+        "contra": 242,
+        "indecisos": 0,
+        "total": 380,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-5756-2026": {
+      "slug": "senado/pl-5756-2026",
+      "chave": "senado-176199",
+      "casa": "senado",
+      "rotulo": "PL 5756/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera o §3º do art. 2º da Lei nº 14.172, de 10 de junho de 2021, para ampliar o prazo para aplicação e eventual restituição dos recursos entregue…",
+      "tituloCompleto": false,
+      "ementa": "Altera o §3º do art. 2º da Lei nº 14.172, de 10 de junho de 2021, para ampliar o prazo para aplicação e eventual restituição dos recursos entregue pela União aos Estados e ao Distrito Federal voltados para a garantia do acesso à internet, com fins educacionais, aos estabelecimentos de ensino, aos alunos e aos professores da rede pública de ensino dos Estados, do Distrito Federal e dos Municípios, em virtude da calamidade pública decorrente da Covid-19.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta amplia até 31 de dezembro de 2028 o prazo para Estados e Distrito Federal usarem recursos federais destinados à internet educacional. Também adia para 31 de março de 2029 a devolução à União dos valores não usados corretamente ou não aplicados no prazo.",
+        "pontos": [
+          "Estados e Distrito Federal terão mais tempo para contratar e executar ações de conectividade em escolas públicas.",
+          "Os recursos poderão financiar internet, infraestrutura e dispositivos, como computadores e tablets, para estudantes e professores.",
+          "Menos recursos poderão ser devolvidos à União sem terem atendido à finalidade de ampliar o acesso à internet educacional.",
+          "As redes públicas poderão concluir contratações afetadas pela alta de preços, pela falta de equipamentos e por atrasos nas entregas.",
+          "A medida não criará nova despesa para a União, pois os recursos já foram transferidos e permanecem em contas específicas."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176199"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "votacao": {
+        "data": "2026-11-18T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 18/11",
+      "agora": "Se os senadores aprovarem, ainda não está decidido: depois vêm a Câmara e o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176199",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176199",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-4186-2021": {
+      "slug": "senado/pl-4186-2021",
+      "chave": "senado-161596",
+      "casa": "senado",
+      "rotulo": "PL 4186/2021",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Altera o art. 206 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para fixar em 20 (vinte) anos o prazo prescricional da pretensão de…",
+      "tituloCompleto": false,
+      "ementa": "Altera o art. 206 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para fixar em 20 (vinte) anos o prazo prescricional da pretensão de reparação civil das vítimas de crimes contra a dignidade sexual de crianças e adolescentes.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta altera a legislação para aumentar o prazo de prescrição para ações de reparação civil movidas por vítimas de crimes contra a dignidade sexual cometidos na infância ou adolescência. O texto determina que a contagem desse prazo iniciará a partir do momento em que a vítima completar 18 anos.",
+        "pontos": [
+          "Adequação do tempo de resposta ao processo de maturidade psicológica, permitindo que as vítimas processem o trauma e busquem a indenização cível na fase adulta sem o risco de prescrição precoce.",
+          "Independência da reparação cível em relação à esfera penal, garantindo que a busca pelo ressarcimento dos danos morais e materiais ocorra de forma autônoma e sem condicionantes temporais restritivos.",
+          "Ampliação da responsabilização civil de agressores, fortalecendo o combate à impunidade e desestimulando a prática de crimes sexuais contra crianças e adolescentes."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=161596"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+      "votacao": {
+        "data": "2026-11-18T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 18/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 30,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 30,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=161596",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161596",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
+    "senado/pl-6222-2025": {
+      "slug": "senado/pl-6222-2025",
+      "chave": "senado-173216",
+      "casa": "senado",
+      "rotulo": "PL 6222/2025",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres.",
+      "tituloCompleto": true,
+      "ementa": "Institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta estabelece a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres. Essa mobilização ocorrerá anualmente de 20 de novembro a 10 de dezembro. O objetivo é fortalecer ações de prevenção e enfrentamento à violência contra as mulheres, promovendo a articulação entre o poder público e a sociedade civil.",
+        "pontos": [
+          "Maior conscientização social sobre as causas e impactos da violência contra as mulheres.",
+          "Fortalecimento das ações de prevenção e proteção, com atenção às diferentes realidades sociais.",
+          "Promoção de valores democráticos e igualdade, contribuindo para uma sociedade menos violenta.",
+          "Integração de iniciativas públicas e privadas, ampliando a efetividade das ações.",
+          "Visibilidade para práticas relevantes no enfrentamento das violências, promovendo ambientes seguros."
+        ],
+        "introPontos": "As possíveis consequências da proposta incluem:",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173216"
+      },
+      "origem": "camara",
+      "etapa": "senado",
+      "situacaoOficial": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+      "votacao": {
+        "data": "2026-11-18T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 18/11",
+      "agora": "Já passou pela Câmara. Se o Senado aprovar sem mudanças, falta só o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "feito"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 1,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 1,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173216",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173216",
       "votosPeriodo": {
         "semana": null
       }
@@ -553,10 +1008,10 @@
         }
       ],
       "enquete": {
-        "favor": 41872,
-        "contra": 816,
+        "favor": 42235,
+        "contra": 826,
         "indecisos": 0,
-        "total": 42688,
+        "total": 43061,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
         "pergunta": "Você apoia essa proposição?",
