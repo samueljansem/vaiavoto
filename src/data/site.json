@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-11-14T17:28:56.232Z",
-  "hoje": "2026-11-14",
+  "atualizadoEm": "2026-11-15T18:14:19.350Z",
+  "hoje": "2026-11-15",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
@@ -16,8 +16,8 @@
     "porSemana": true,
     "itens": [
       "camara/pl-1424-2026",
-      "camara/pec-2-2025",
       "camara/pl-1001-2026",
+      "camara/pec-2-2025",
       "camara/pl-994-2026",
       "camara/pl-1007-2026",
       "camara/pl-1005-2026",
@@ -69,10 +69,10 @@
         }
       ],
       "enquete": {
-        "favor": 3167,
-        "contra": 46775,
+        "favor": 3173,
+        "contra": 46863,
         "indecisos": 22,
-        "total": 49964,
+        "total": 50058,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -97,7 +97,74 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 10611
+        "semana": 5315
+      }
+    },
+    "camara/pl-1001-2026": {
+      "slug": "camara/pl-1001-2026",
+      "chave": "camara-2607424",
+      "casa": "camara",
+      "rotulo": "PL 1001/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras providências.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 311,
+        "contra": 23917,
+        "indecisos": 17,
+        "total": 24245,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607424",
+        "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
+      "votosPeriodo": {
+        "semana": 2955
       }
     },
     "camara/pec-2-2025": {
@@ -144,9 +211,9 @@
       ],
       "enquete": {
         "favor": 696,
-        "contra": 110736,
+        "contra": 110804,
         "indecisos": 39,
-        "total": 111471,
+        "total": 111539,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -171,74 +238,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 4107
-      }
-    },
-    "camara/pl-1001-2026": {
-      "slug": "camara/pl-1001-2026",
-      "chave": "camara-2607424",
-      "casa": "camara",
-      "rotulo": "PL 1001/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras…",
-      "tituloCompleto": false,
-      "ementa": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras providências.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 309,
-        "contra": 23870,
-        "indecisos": 17,
-        "total": 24196,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607424",
-        "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
-      "votosPeriodo": {
-        "semana": 3830
+        "semana": 2879
       }
     },
     "camara/pl-994-2026": {
@@ -277,10 +277,10 @@
         }
       ],
       "enquete": {
-        "favor": 1346,
-        "contra": 130563,
+        "favor": 1348,
+        "contra": 130610,
         "indecisos": 42,
-        "total": 131951,
+        "total": 132000,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -305,7 +305,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 3197
+        "semana": 2464
       }
     },
     "camara/pl-1007-2026": {
@@ -345,9 +345,9 @@
       ],
       "enquete": {
         "favor": 1332,
-        "contra": 71240,
+        "contra": 71280,
         "indecisos": 42,
-        "total": 72614,
+        "total": 72654,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -372,7 +372,74 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 3111
+        "semana": 2394
+      }
+    },
+    "camara/pl-995-2026": {
+      "slug": "camara/pl-995-2026",
+      "chave": "camara-2607416",
+      "casa": "camara",
+      "rotulo": "PL 995/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
+      "tituloCompleto": true,
+      "ementa": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 294,
+        "contra": 22721,
+        "indecisos": 17,
+        "total": 23032,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607416",
+        "pergunta": "Qual sua opinião sobre o PL 995/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
+      "votosPeriodo": {
+        "semana": null
       }
     },
     "camara/pl-1005-2026": {
@@ -411,10 +478,10 @@
         }
       ],
       "enquete": {
-        "favor": 203,
-        "contra": 35870,
+        "favor": 204,
+        "contra": 35907,
         "indecisos": 20,
-        "total": 36093,
+        "total": 36131,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -439,7 +506,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 2906
+        "semana": 2209
       }
     },
     "senado/plp-299-2026": {
@@ -496,10 +563,10 @@
         }
       ],
       "enquete": {
-        "favor": 521,
-        "contra": 22038,
+        "favor": 626,
+        "contra": 24159,
         "indecisos": 0,
-        "total": 22559,
+        "total": 24785,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -717,10 +784,10 @@
         }
       ],
       "enquete": {
-        "favor": 138,
+        "favor": 139,
         "contra": 242,
         "indecisos": 0,
-        "total": 380,
+        "total": 381,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=174061",
         "pergunta": "Você apoia essa proposição?",
@@ -737,7 +804,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 228
+        "semana": 229
       }
     },
     "senado/pl-5756-2026": {
@@ -963,27 +1030,23 @@
         "semana": null
       }
     },
-    "senado/pl-1181-2025": {
-      "slug": "senado/pl-1181-2025",
-      "chave": "senado-167693",
+    "senado/pl-1809-2026": {
+      "slug": "senado/pl-1809-2026",
+      "chave": "senado-173618",
       "casa": "senado",
-      "rotulo": "PL 1181/2025",
+      "rotulo": "PL 1809/2026",
       "tipo": "Projeto de lei",
       "sigla": "PL",
-      "titulo": "Veda o fornecimento de planos corporativos de linhas telefônicas e a compra de aparelhos móvel pagos com recursos públicos aos agentes políticos nas…",
+      "titulo": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com…",
       "tituloCompleto": false,
-      "ementa": "Veda o fornecimento de planos corporativos de linhas telefônicas e a compra de aparelhos móvel pagos com recursos públicos aos agentes políticos nas esferas federal, estadual e municipal e ao Judiciário nas esferas federal e estadual.",
+      "ementa": "Altera a Lei nº 6.932, de 7 de julho de 1981, para dispor sobre o valor da bolsa dos médicos-residentes e estabelecer critérios de reajuste anual, com vistas à valorização da formação médica especializada no âmbito do Sistema Único de Saúde.",
       "explicacao": {
         "fonte": "senado",
-        "texto": "A proposta proíbe o uso de dinheiro público para pagar planos de telefone e comprar celulares para políticos e membros do Judiciário nas esferas federal, estadual e municipal.",
-        "pontos": [
-          "Maior responsabilidade fiscal e transparência no uso do dinheiro público, evitando gastos pessoais de políticos e magistrados.",
-          "Garantia de que os recursos públicos sejam usados apenas para funções essenciais do Estado, não para benefícios pessoais.",
-          "Aumento da moralidade na gestão pública, assegurando que o dinheiro público não seja usado para vantagens pessoais de agentes políticos e membros do Judiciário."
-        ],
-        "introPontos": "As possíveis consequências da proposta incluem:",
+        "texto": "A proposta altera a lei que trata das atividades dos médicos-residentes para aumentar o valor da bolsa para R$ 8.105,00, em jornada de 60 horas semanais, e estabelecer reajuste anual com base na inflação. A proposta também permite que estados, municípios e instituições complementem esse valor e assegura benefícios como alimentação e moradia.",
+        "pontos": [],
+        "introPontos": "A proposta busca promover a valorização da residência médica, reconhecendo sua importância para o Sistema Único de Saúde (SUS), para contribuir com a melhoria na qualidade da assistência médica prestada à população. A medida pode estimular a permanência de médicos no SUS, especialmente em regiões vulneráveis e reduzir a defasagem entre a bolsa de residência médica e outros programas de incentivo médico.",
         "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693"
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618"
       },
       "origem": "senado",
       "etapa": "senado",
@@ -1010,12 +1073,12 @@
         }
       ],
       "enquete": {
-        "favor": 42661,
-        "contra": 835,
+        "favor": 71724,
+        "contra": 907,
         "indecisos": 0,
-        "total": 43496,
+        "total": 72631,
         "aberta": true,
-        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=167693",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
         "opcoes": [
           "Sim",
@@ -1028,7 +1091,7 @@
         "falarCom": "senadores"
       },
       "linhaDoTempo": [],
-      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167693",
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
         "semana": null
       }
