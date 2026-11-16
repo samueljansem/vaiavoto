@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-11-15T18:14:19.350Z",
-  "hoje": "2026-11-15",
+  "atualizadoEm": "2026-11-16T07:47:54.664Z",
+  "hoje": "2026-11-16",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
   "vemAi": [
@@ -15,9 +15,10 @@
   "emAlta": {
     "porSemana": true,
     "itens": [
+      "senado/pl-1809-2026",
       "camara/pl-1424-2026",
-      "camara/pl-1001-2026",
       "camara/pec-2-2025",
+      "camara/pl-1001-2026",
       "camara/pl-994-2026",
       "camara/pl-1007-2026",
       "camara/pl-1005-2026",
@@ -69,10 +70,10 @@
         }
       ],
       "enquete": {
-        "favor": 3173,
-        "contra": 46863,
+        "favor": 3176,
+        "contra": 46902,
         "indecisos": 22,
-        "total": 50058,
+        "total": 50100,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -97,74 +98,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 5315
-      }
-    },
-    "camara/pl-1001-2026": {
-      "slug": "camara/pl-1001-2026",
-      "chave": "camara-2607424",
-      "casa": "camara",
-      "rotulo": "PL 1001/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras…",
-      "tituloCompleto": false,
-      "ementa": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras providências.",
-      "explicacao": null,
-      "origem": "camara",
-      "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
-      "votacao": null,
-      "chip": "Na Câmara",
-      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
-      "passos": [
-        {
-          "rotulo": "Deputados",
-          "estado": "atual"
-        },
-        {
-          "rotulo": "Senadores",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Presidente",
-          "estado": "falta"
-        },
-        {
-          "rotulo": "Vira lei",
-          "estado": "falta"
-        }
-      ],
-      "enquete": {
-        "favor": 311,
-        "contra": 23917,
-        "indecisos": 17,
-        "total": 24245,
-        "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607424",
-        "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
-        "opcoes": [
-          "Concordo totalmente",
-          "Concordo na maior parte",
-          "Estou indeciso",
-          "Discordo na maior parte",
-          "Discordo totalmente"
-        ],
-        "participavel": true
-      },
-      "acoes": {
-        "enquete": true,
-        "falarCom": "deputados"
-      },
-      "linhaDoTempo": [
-        {
-          "data": "2026-03-06",
-          "texto": "Proposta apresentada na Câmara"
-        }
-      ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
-      "votosPeriodo": {
-        "semana": 2955
+        "semana": 2435
       }
     },
     "camara/pec-2-2025": {
@@ -210,10 +144,10 @@
         }
       ],
       "enquete": {
-        "favor": 696,
-        "contra": 110804,
+        "favor": 697,
+        "contra": 110837,
         "indecisos": 39,
-        "total": 111539,
+        "total": 111573,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -238,7 +172,74 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 2879
+        "semana": 1942
+      }
+    },
+    "camara/pl-1001-2026": {
+      "slug": "camara/pl-1001-2026",
+      "chave": "camara-2607424",
+      "casa": "camara",
+      "rotulo": "PL 1001/2026",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre a reorganização das competências federais relativas à política fundiária e à reforma agrária, extinguindo o INCRA, e dá outras providências.",
+      "explicacao": null,
+      "origem": "camara",
+      "etapa": "camara",
+      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "votacao": null,
+      "chip": "Na Câmara",
+      "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
+      "passos": [
+        {
+          "rotulo": "Deputados",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Senadores",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 313,
+        "contra": 23948,
+        "indecisos": 17,
+        "total": 24278,
+        "aberta": true,
+        "url": "https://www.camara.leg.br/enquetes/2607424",
+        "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
+        "opcoes": [
+          "Concordo totalmente",
+          "Concordo na maior parte",
+          "Estou indeciso",
+          "Discordo na maior parte",
+          "Discordo totalmente"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "deputados"
+      },
+      "linhaDoTempo": [
+        {
+          "data": "2026-03-06",
+          "texto": "Proposta apresentada na Câmara"
+        }
+      ],
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
+      "votosPeriodo": {
+        "semana": 1731
       }
     },
     "camara/pl-994-2026": {
@@ -278,9 +279,9 @@
       ],
       "enquete": {
         "favor": 1348,
-        "contra": 130610,
+        "contra": 130633,
         "indecisos": 42,
-        "total": 132000,
+        "total": 132023,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -305,7 +306,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 2464
+        "semana": 1500
       }
     },
     "camara/pl-1007-2026": {
@@ -345,9 +346,9 @@
       ],
       "enquete": {
         "favor": 1332,
-        "contra": 71280,
-        "indecisos": 42,
-        "total": 72654,
+        "contra": 71302,
+        "indecisos": 43,
+        "total": 72677,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -372,7 +373,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 2394
+        "semana": 1413
       }
     },
     "camara/pl-995-2026": {
@@ -412,9 +413,9 @@
       ],
       "enquete": {
         "favor": 294,
-        "contra": 22721,
+        "contra": 22746,
         "indecisos": 17,
-        "total": 23032,
+        "total": 23057,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -478,10 +479,10 @@
         }
       ],
       "enquete": {
-        "favor": 204,
-        "contra": 35907,
+        "favor": 205,
+        "contra": 35938,
         "indecisos": 20,
-        "total": 36131,
+        "total": 36163,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -506,7 +507,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 2209
+        "semana": 1326
       }
     },
     "senado/plp-299-2026": {
@@ -537,7 +538,7 @@
       },
       "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
         "data": "2026-11-17T14:00",
         "quem": "senadores"
@@ -563,10 +564,10 @@
         }
       ],
       "enquete": {
-        "favor": 626,
-        "contra": 24159,
+        "favor": 658,
+        "contra": 24674,
         "indecisos": 0,
-        "total": 24785,
+        "total": 25332,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -683,7 +684,7 @@
       },
       "origem": "camara",
       "etapa": "senado",
-      "situacaoOficial": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
         "data": "2026-11-17T14:00",
         "quem": "senadores"
@@ -804,7 +805,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 229
+        "semana": 175
       }
     },
     "senado/pl-5756-2026": {
@@ -833,7 +834,7 @@
       },
       "origem": "senado",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO DESPACHO",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
         "data": "2026-11-18T14:00",
         "quem": "senadores"
@@ -906,7 +907,7 @@
       },
       "origem": "camara",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
         "data": "2026-11-18T14:00",
         "quem": "senadores"
@@ -981,7 +982,7 @@
       },
       "origem": "camara",
       "etapa": "senado",
-      "situacaoOficial": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
       "votacao": {
         "data": "2026-11-18T14:00",
         "quem": "senadores"
@@ -1073,10 +1074,10 @@
         }
       ],
       "enquete": {
-        "favor": 71724,
-        "contra": 907,
+        "favor": 71935,
+        "contra": 909,
         "indecisos": 0,
-        "total": 72631,
+        "total": 72844,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1093,7 +1094,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": null
+        "semana": 13884
       }
     }
   }
