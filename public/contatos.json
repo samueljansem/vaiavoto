@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T07:47:55.292Z",
+  "atualizadoEm": "2026-11-16T20:17:23.787Z",
   "deputados": [
     {
       "id": 204379,
@@ -2122,6 +2122,16 @@
       "verificadoEm": "2026-11-09T20:38:22.514Z"
     },
     {
+      "id": 74383,
+      "nome": "Giacobo",
+      "partido": "PSD",
+      "uf": "PR",
+      "email": "dep.giacobo@camara.leg.br",
+      "telefone": "(61) 3215-5629",
+      "pagina": "https://www.camara.leg.br/deputados/74383",
+      "verificadoEm": "2026-11-16T20:17:23.787Z"
+    },
+    {
       "id": 204491,
       "nome": "Gilberto Abramo",
       "partido": "REPUBLICANOS",
@@ -2430,16 +2440,6 @@
       "telefone": "(61) 3215-5639",
       "pagina": "https://www.camara.leg.br/deputados/204436",
       "verificadoEm": "2026-11-09T20:38:24.699Z"
-    },
-    {
-      "id": 225846,
-      "nome": "Itamar Paim",
-      "partido": "PL",
-      "uf": "PR",
-      "email": "dep.itamarpaim@camara.leg.br",
-      "telefone": "(61) 3215-5629",
-      "pagina": "https://www.camara.leg.br/deputados/225846",
-      "verificadoEm": "2026-11-09T20:38:25.050Z"
     },
     {
       "id": 220696,

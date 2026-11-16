@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T07:47:54.664Z",
+  "atualizadoEm": "2026-11-16T20:17:22.731Z",
   "hoje": "2026-11-16",
   "pautaCamaraPublicada": false,
   "pautaSenadoPublicada": true,
@@ -10,7 +10,8 @@
     "senado/pl-6461-2019",
     "senado/pl-5756-2026",
     "senado/pl-4186-2021",
-    "senado/pl-6222-2025"
+    "senado/pl-6222-2025",
+    "senado/pl-3220-2019"
   ],
   "emAlta": {
     "porSemana": true,
@@ -70,10 +71,10 @@
         }
       ],
       "enquete": {
-        "favor": 3176,
-        "contra": 46902,
+        "favor": 3181,
+        "contra": 46964,
         "indecisos": 22,
-        "total": 50100,
+        "total": 50167,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -98,7 +99,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 2435
+        "semana": 2502
       }
     },
     "camara/pec-2-2025": {
@@ -144,10 +145,10 @@
         }
       ],
       "enquete": {
-        "favor": 697,
-        "contra": 110837,
+        "favor": 700,
+        "contra": 110861,
         "indecisos": 39,
-        "total": 111573,
+        "total": 111600,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -172,7 +173,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 1942
+        "semana": 1969
       }
     },
     "camara/pl-1001-2026": {
@@ -211,10 +212,10 @@
         }
       ],
       "enquete": {
-        "favor": 313,
-        "contra": 23948,
+        "favor": 314,
+        "contra": 23984,
         "indecisos": 17,
-        "total": 24278,
+        "total": 24315,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -239,7 +240,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 1731
+        "semana": 1768
       }
     },
     "camara/pl-994-2026": {
@@ -279,9 +280,9 @@
       ],
       "enquete": {
         "favor": 1348,
-        "contra": 130633,
+        "contra": 130666,
         "indecisos": 42,
-        "total": 132023,
+        "total": 132056,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -306,7 +307,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 1500
+        "semana": 1533
       }
     },
     "camara/pl-1007-2026": {
@@ -346,9 +347,9 @@
       ],
       "enquete": {
         "favor": 1332,
-        "contra": 71302,
+        "contra": 71326,
         "indecisos": 43,
-        "total": 72677,
+        "total": 72701,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -373,7 +374,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 1413
+        "semana": 1437
       }
     },
     "camara/pl-995-2026": {
@@ -413,9 +414,9 @@
       ],
       "enquete": {
         "favor": 294,
-        "contra": 22746,
+        "contra": 22783,
         "indecisos": 17,
-        "total": 23057,
+        "total": 23094,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607416",
         "pergunta": "Qual sua opinião sobre o PL 995/2026?",
@@ -480,9 +481,9 @@
       ],
       "enquete": {
         "favor": 205,
-        "contra": 35938,
+        "contra": 35959,
         "indecisos": 20,
-        "total": 36163,
+        "total": 36184,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -507,7 +508,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 1326
+        "semana": 1347
       }
     },
     "senado/plp-299-2026": {
@@ -564,10 +565,10 @@
         }
       ],
       "enquete": {
-        "favor": 658,
-        "contra": 24674,
+        "favor": 705,
+        "contra": 25071,
         "indecisos": 0,
-        "total": 25332,
+        "total": 25776,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -1031,6 +1032,75 @@
         "semana": null
       }
     },
+    "senado/pl-3220-2019": {
+      "slug": "senado/pl-3220-2019",
+      "chave": "senado-176345",
+      "casa": "senado",
+      "rotulo": "PL 3220/2019",
+      "tipo": "Projeto de lei",
+      "sigla": "PL",
+      "titulo": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com…",
+      "tituloCompleto": false,
+      "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações; e altera as Leis nºs 9.427, de 26 de dezembro de 1996, 9.472, de 16 de julho de 1997, e 14.947, de 2 de agosto de 2024.",
+      "explicacao": {
+        "fonte": "senado",
+        "texto": "A proposta estabelece regras para o compartilhamento de postes e outras estruturas aéreas de distribuição de energia elétrica com empresas de telecomunicações. Ela define deveres para distribuidoras, empresas de telecomunicações e empresas que receberem o direito de explorar comercialmente essas estruturas. Também prevê preço máximo pelo uso dos postes, regras para contratos, fiscalização conjunta das agências reguladoras e regularização de ocupações irregulares. As ocupações clandestinas deverão ser regularizadas ou removidas, em regra, em até cinco anos.",
+        "pontos": [],
+        "introPontos": "O autor afirma que a proposta pode organizar o uso de postes, reduzir riscos à segurança da população e melhorar a qualidade dos serviços de energia elétrica e telecomunicações. A medida pode apoiar a expansão das redes de telecomunicações e ampliar a conectividade em diferentes regiões do País. Também pode dar mais segurança jurídica às empresas envolvidas, fortalecer a fiscalização e responsabilizar quem causar ocupações irregulares. A coordenação entre as agências reguladoras pode contribuir para definir preços, regras e metas de regularização aplicáveis aos dois setores.",
+        "aviso": "Gerado por inteligência artificial com revisão humana, a partir do Texto Inicial.",
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176345"
+      },
+      "origem": "senado",
+      "etapa": "senado",
+      "situacaoOficial": "INCLUÍDA EM ORDEM DO DIA",
+      "votacao": {
+        "data": "2026-11-18T14:00",
+        "quem": "senadores"
+      },
+      "chip": "Senadores votam quarta, 18/11",
+      "agora": "Se os senadores aprovarem, ainda não está decidido: depois vêm a Câmara e o Presidente.",
+      "passos": [
+        {
+          "rotulo": "Senadores",
+          "estado": "atual"
+        },
+        {
+          "rotulo": "Deputados",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Presidente",
+          "estado": "falta"
+        },
+        {
+          "rotulo": "Vira lei",
+          "estado": "falta"
+        }
+      ],
+      "enquete": {
+        "favor": 0,
+        "contra": 0,
+        "indecisos": 0,
+        "total": 0,
+        "aberta": true,
+        "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176345",
+        "pergunta": "Você apoia essa proposição?",
+        "opcoes": [
+          "Sim",
+          "Não"
+        ],
+        "participavel": true
+      },
+      "acoes": {
+        "enquete": true,
+        "falarCom": "senadores"
+      },
+      "linhaDoTempo": [],
+      "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176345",
+      "votosPeriodo": {
+        "semana": null
+      }
+    },
     "senado/pl-1809-2026": {
       "slug": "senado/pl-1809-2026",
       "chave": "senado-173618",
@@ -1074,10 +1144,10 @@
         }
       ],
       "enquete": {
-        "favor": 71935,
-        "contra": 909,
+        "favor": 72147,
+        "contra": 911,
         "indecisos": 0,
-        "total": 72844,
+        "total": 73058,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1094,7 +1164,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": 13884
+        "semana": 14098
       }
     }
   }
