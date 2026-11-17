@@ -1,7 +1,7 @@
 {
-  "atualizadoEm": "2026-11-16T20:17:22.731Z",
-  "hoje": "2026-11-16",
-  "pautaCamaraPublicada": false,
+  "atualizadoEm": "2026-11-17T04:25:54.068Z",
+  "hoje": "2026-11-17",
+  "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
   "vemAi": [
     "senado/plp-299-2026",
@@ -71,10 +71,10 @@
         }
       ],
       "enquete": {
-        "favor": 3181,
-        "contra": 46964,
-        "indecisos": 22,
-        "total": 50167,
+        "favor": 3186,
+        "contra": 46989,
+        "indecisos": 23,
+        "total": 50198,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -99,7 +99,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 2502
+        "semana": 1234
       }
     },
     "camara/pec-2-2025": {
@@ -145,10 +145,10 @@
         }
       ],
       "enquete": {
-        "favor": 700,
-        "contra": 110861,
+        "favor": 702,
+        "contra": 110885,
         "indecisos": 39,
-        "total": 111600,
+        "total": 111626,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -173,7 +173,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 1969
+        "semana": 1029
       }
     },
     "camara/pl-1001-2026": {
@@ -212,10 +212,10 @@
         }
       ],
       "enquete": {
-        "favor": 314,
-        "contra": 23984,
+        "favor": 315,
+        "contra": 23994,
         "indecisos": 17,
-        "total": 24315,
+        "total": 24326,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -240,7 +240,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 1768
+        "semana": 914
       }
     },
     "camara/pl-994-2026": {
@@ -279,10 +279,10 @@
         }
       ],
       "enquete": {
-        "favor": 1348,
-        "contra": 130666,
+        "favor": 1350,
+        "contra": 130679,
         "indecisos": 42,
-        "total": 132056,
+        "total": 132071,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -307,7 +307,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 1533
+        "semana": 814
       }
     },
     "camara/pl-1007-2026": {
@@ -347,9 +347,9 @@
       ],
       "enquete": {
         "favor": 1332,
-        "contra": 71326,
+        "contra": 71333,
         "indecisos": 43,
-        "total": 72701,
+        "total": 72708,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -374,23 +374,23 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 1437
+        "semana": 747
       }
     },
-    "camara/pl-995-2026": {
-      "slug": "camara/pl-995-2026",
-      "chave": "camara-2607416",
+    "camara/pec-25-2023": {
+      "slug": "camara/pec-25-2023",
+      "chave": "camara-2362526",
       "casa": "camara",
-      "rotulo": "PL 995/2026",
-      "tipo": "Projeto de lei",
-      "sigla": "PL",
-      "titulo": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
-      "tituloCompleto": true,
-      "ementa": "Extingue a Empresa Brasil de Comunicação (EBC), autoriza a liquidação de seus ativos e dispõe sobre medidas correlatas.",
+      "rotulo": "PEC 25/2023",
+      "tipo": "Mudança na Constituição",
+      "sigla": "PEC",
+      "titulo": "Acrescenta o Capítulo IX ao Título VIII para oferecer diretrizes sobre o direito social ao transporte previsto no art. 6º e sobre o Sistema único de…",
+      "tituloCompleto": false,
+      "ementa": "Acrescenta o Capítulo IX ao Título VIII para oferecer diretrizes sobre o direito social ao transporte previsto no art. 6º e sobre o Sistema único de Mobilidade e autoriza a União, Distrito Federal e Municípios a instituírem\ncontribuição pelo uso do sistema viário, destinada ao custeio do transporte público coletivo urbano.",
       "explicacao": null,
       "origem": "camara",
       "etapa": "camara",
-      "situacaoOficial": "Aguardando Despacho do Presidente da Câmara dos Deputados (Autorização)",
+      "situacaoOficial": "Pronta para Pauta",
       "votacao": null,
       "chip": "Na Câmara",
       "agora": "Ainda está sendo analisada pelos deputados. Sem data de votação marcada.",
@@ -404,22 +404,22 @@
           "estado": "falta"
         },
         {
-          "rotulo": "Presidente",
+          "rotulo": "Promulgação",
           "estado": "falta"
         },
         {
-          "rotulo": "Vira lei",
+          "rotulo": "Na Constituição",
           "estado": "falta"
         }
       ],
       "enquete": {
-        "favor": 294,
-        "contra": 22783,
-        "indecisos": 17,
-        "total": 23094,
+        "favor": 1498,
+        "contra": 23,
+        "indecisos": 2,
+        "total": 1523,
         "aberta": true,
-        "url": "https://www.camara.leg.br/enquetes/2607416",
-        "pergunta": "Qual sua opinião sobre o PL 995/2026?",
+        "url": "https://www.camara.leg.br/enquetes/2362526",
+        "pergunta": "Qual sua opinião sobre a PEC 25/2023?",
         "opcoes": [
           "Concordo totalmente",
           "Concordo na maior parte",
@@ -435,11 +435,11 @@
       },
       "linhaDoTempo": [
         {
-          "data": "2026-03-06",
+          "data": "2023-05-16",
           "texto": "Proposta apresentada na Câmara"
         }
       ],
-      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607416",
+      "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362526",
       "votosPeriodo": {
         "semana": null
       }
@@ -480,10 +480,10 @@
         }
       ],
       "enquete": {
-        "favor": 205,
-        "contra": 35959,
+        "favor": 206,
+        "contra": 35969,
         "indecisos": 20,
-        "total": 36184,
+        "total": 36195,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -508,7 +508,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 1347
+        "semana": 704
       }
     },
     "senado/plp-299-2026": {
@@ -565,10 +565,10 @@
         }
       ],
       "enquete": {
-        "favor": 705,
-        "contra": 25071,
+        "favor": 723,
+        "contra": 25227,
         "indecisos": 0,
-        "total": 25776,
+        "total": 25950,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -806,7 +806,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174061",
       "votosPeriodo": {
-        "semana": 175
+        "semana": 98
       }
     },
     "senado/pl-5756-2026": {
@@ -1144,10 +1144,10 @@
         }
       ],
       "enquete": {
-        "favor": 72147,
-        "contra": 911,
+        "favor": 72242,
+        "contra": 913,
         "indecisos": 0,
-        "total": 73058,
+        "total": 73155,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1164,7 +1164,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": 14098
+        "semana": 13844
       }
     }
   }
