@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T04:25:54.068Z",
+  "atualizadoEm": "2026-11-17T08:57:36.241Z",
   "hoje": "2026-11-17",
   "pautaCamaraPublicada": true,
   "pautaSenadoPublicada": true,
@@ -72,9 +72,9 @@
       ],
       "enquete": {
         "favor": 3186,
-        "contra": 46989,
+        "contra": 46993,
         "indecisos": 23,
-        "total": 50198,
+        "total": 50202,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2612333",
         "pergunta": "Qual sua opinião sobre o PL 1424/2026?",
@@ -99,7 +99,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333",
       "votosPeriodo": {
-        "semana": 1234
+        "semana": 1238
       }
     },
     "camara/pec-2-2025": {
@@ -146,9 +146,9 @@
       ],
       "enquete": {
         "favor": 702,
-        "contra": 110885,
+        "contra": 110886,
         "indecisos": 39,
-        "total": 111626,
+        "total": 111627,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2483164",
         "pergunta": "Qual sua opinião sobre a PEC 2/2025?",
@@ -173,7 +173,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483164",
       "votosPeriodo": {
-        "semana": 1029
+        "semana": 1030
       }
     },
     "camara/pl-1001-2026": {
@@ -213,9 +213,9 @@
       ],
       "enquete": {
         "favor": 315,
-        "contra": 23994,
+        "contra": 23997,
         "indecisos": 17,
-        "total": 24326,
+        "total": 24329,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607424",
         "pergunta": "Qual sua opinião sobre o PL 1001/2026?",
@@ -240,7 +240,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607424",
       "votosPeriodo": {
-        "semana": 914
+        "semana": 917
       }
     },
     "camara/pl-994-2026": {
@@ -280,9 +280,9 @@
       ],
       "enquete": {
         "favor": 1350,
-        "contra": 130679,
+        "contra": 130682,
         "indecisos": 42,
-        "total": 132071,
+        "total": 132074,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607415",
         "pergunta": "Qual sua opinião sobre o PL 994/2026?",
@@ -307,7 +307,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607415",
       "votosPeriodo": {
-        "semana": 814
+        "semana": 817
       }
     },
     "camara/pl-1007-2026": {
@@ -347,9 +347,9 @@
       ],
       "enquete": {
         "favor": 1332,
-        "contra": 71333,
+        "contra": 71334,
         "indecisos": 43,
-        "total": 72708,
+        "total": 72709,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607440",
         "pergunta": "Qual sua opinião sobre o PL 1007/2026?",
@@ -374,7 +374,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607440",
       "votosPeriodo": {
-        "semana": 747
+        "semana": 748
       }
     },
     "camara/pec-25-2023": {
@@ -481,9 +481,9 @@
       ],
       "enquete": {
         "favor": 206,
-        "contra": 35969,
+        "contra": 35971,
         "indecisos": 20,
-        "total": 36195,
+        "total": 36197,
         "aberta": true,
         "url": "https://www.camara.leg.br/enquetes/2607436",
         "pergunta": "Qual sua opinião sobre o PL 1005/2026?",
@@ -508,7 +508,7 @@
       ],
       "urlOficial": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607436",
       "votosPeriodo": {
-        "semana": 704
+        "semana": 706
       }
     },
     "senado/plp-299-2026": {
@@ -565,10 +565,10 @@
         }
       ],
       "enquete": {
-        "favor": 723,
-        "contra": 25227,
+        "favor": 724,
+        "contra": 25241,
         "indecisos": 0,
-        "total": 25950,
+        "total": 25965,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=176328",
         "pergunta": "Você apoia essa proposição?",
@@ -1144,10 +1144,10 @@
         }
       ],
       "enquete": {
-        "favor": 72242,
-        "contra": 913,
+        "favor": 72246,
+        "contra": 914,
         "indecisos": 0,
-        "total": 73155,
+        "total": 73160,
         "aberta": true,
         "url": "https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=173618",
         "pergunta": "Você apoia essa proposição?",
@@ -1164,7 +1164,7 @@
       "linhaDoTempo": [],
       "urlOficial": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173618",
       "votosPeriodo": {
-        "semana": 13844
+        "semana": 13849
       }
     }
   }
